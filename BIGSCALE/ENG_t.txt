@@ -1,0 +1,3519 @@
+	ENG_t	FR_t	eng_stem	fr_stem	ratio_similarity
+0	abaft	en arrière	abaft	en arri	17
+1	abandonment	abandon	abandon	abandon	100
+2	abasement	Une cave	abas	une cav	18
+3	abatement	réduction	abat	réduct	20
+4	abbot	abbé	abbot	abbé	67
+5	abduct	enlever	abduct	enlev	0
+6	aberrant	aberrant	aberr	aberr	100
+7	abet	une mise	abet	une mis	18
+8	abhorrent	odieux	abhorr	odieux	17
+9	abject	abject	abject	abject	100
+10	ablest	le plus apte	ablest	le plus apt	47
+11	abolitionist	abolitionniste	abolitionist	abolition	86
+12	abort	avorter	abort	avort	80
+13	abortionist	avorteur	abortionist	avorteur	42
+14	about	à propos de	about	à propos d	13
+15	abreast	au courant	abreast	au cour	29
+16	abridgement	réduction	abridg	réduct	33
+17	abrupt	brusque	abrupt	brusqu	50
+18	absent	absent	absent	absent	100
+19	absolutist	absolutiste	absolutist	absolut	82
+20	absorbent	absorbant	absorb	absorb	100
+21	abstinent	abstinent	abstin	abstinent	80
+22	abstract	abstrait	abstract	abstrait	88
+23	absurdest	le plus absurde	absurdest	le plus absurd	52
+24	absurdist	absurde	absurdist	absurd	80
+25	abundant	abondant	abund	abond	80
+26	abut	buter	abut	but	86
+27	abutment	pilier	abut	pili	0
+28	accent	accent	accent	accent	100
+29	accept	J'accepte	accept	j'accept	86
+30	accident	accident	accid	accident	77
+31	accompaniment	accompagnement	accompani	accompagn	89
+32	accompanist	accompagnateur	accompanist	accompagn	80
+33	accomplishment	accomplissement	accomplish	accompl	82
+34	accordionist	accordéoniste	accordionist	accordéon	76
+35	accost	accoster	accost	accost	100
+36	account	Compte	account	compt	50
+37	accountant	comptable	account	comptabl	40
+38	accredit	accréditer	accredit	accrédit	88
+39	achievement	réussite	achiev	réussit	15
+40	acknowledgement	reconnaissance	acknowledg	reconnaiss	10
+41	acknowledgment	reconnaissance	acknowledg	reconnaiss	10
+42	acquaint	informer	acquaint	inform	29
+43	acquiescent	consentant	acquiesc	consent	27
+44	acquit	acquitter	acquit	acquitt	92
+45	acrobat	acrobate	acrobat	acrobat	100
+46	act	acte	act	acte	86
+47	activist	activiste	activist	activ	77
+48	acupuncturist	acupuncteur	acupuncturist	acupuncteur	83
+49	acutest	acutest	acutest	acutest	100
+50	adamant	catégorique	adam	catégor	18
+51	adapt	adapter	adapt	adapt	100
+52	addict	toxicomane	addict	toxicoman	27
+53	adept	expert	adept	expert	55
+54	adherent	adhérent	adher	adhérent	62
+55	adit	adit	adit	adit	100
+56	adjacent	adjacent	adjac	adjacent	77
+57	adjournment	ajournement	adjourn	ajourn	92
+58	adjunct	auxiliaire	adjunct	auxiliair	25
+59	adjust	régler	adjust	regl	0
+60	adjustment	ajustement	adjust	ajust	91
+61	adjutant	adjudant	adjut	adjud	80
+62	admit	admettre	admit	admettr	67
+63	admonishment	réprimande	admonish	réprimand	24
+64	adolescent	adolescente	adolesc	adolescent	82
+65	adopt	adopter	adopt	adopt	100
+66	adornment	ornement	adorn	ornement	46
+67	adrift	à la dérive	adrift	à la der	43
+68	adroit	adroit	adroit	adroit	100
+69	adult	adulte	adult	adult	100
+70	advancement	avancement	advanc	avanc	91
+71	advent	avènement	advent	aven	80
+72	advert	publicité	advert	publiqu	0
+73	advertisement	publicité	advertis	publiqu	13
+74	aeronaut	aéronaute	aeronaut	aéronaut	88
+75	affect	affecter	affect	affect	100
+76	afferent	afférent	affer	afférent	62
+77	affidavit	déclaration sous serment	affidavit	déclaration sous serment	18
+78	afflict	affliger	afflict	afflig	77
+79	affluent	affluent	affluent	affluent	100
+80	affront	affront	affront	affront	100
+81	afloat	à flot	afloat	à flot	67
+82	afoot	à pied	afoot	à pied	0
+83	aforethought	prémédité	aforethought	prémed	22
+84	aft	à l'arrière	aft	à l'arri	18
+85	aftereffect	répercussion	aftereffect	répercuss	30
+86	afterthought	après coup	afterthought	après coup	36
+87	against	contre	against	contr	33
+88	agent	agent	agent	agent	100
+89	aghast	atterré	aghast	atterr	33
+90	agonist	agoniste	agonist	agon	73
+91	agreement	une entente	agreement	une entent	42
+92	agriculturalist	agriculteur	agriculturalist	agriculteur	77
+93	agronomist	agronome	agronomist	agronom	82
+94	ailment	maladie	ailment	malad	33
+95	aint	n'est-ce pas	aint	n'est-ce p	29
+96	aircraft	avion	aircraft	avion	31
+97	airiest	le plus aérien	airiest	le plus aérien	38
+98	airlift	pont aérien	airlift	pont aérien	22
+99	airport	aéroport	airport	aéroport	80
+100	airtight	hermétique	airtight	hermet	29
+101	alarmist	alarmiste	alarmist	alarm	77
+102	albeit	quoique	albeit	quoiqu	17
+103	alchemist	alchimiste	alchemist	alchim	67
+104	alert	alerte	alert	alert	100
+105	algebraist	algébriste	algebraist	algebr	75
+106	alight	une lumière	alight	une lumi	29
+107	alignment	alignement	align	align	100
+108	aliquot	aliquote	aliquot	aliquot	100
+109	allot	attribuer	allot	attribu	33
+110	allotment	attribution	allot	attribu	33
+111	allurement	séduction	allur	séduct	18
+112	almost	presque	almost	presqu	17
+113	aloft	en haut	aloft	en haut	33
+114	alphabet	alphabet	alphabet	alphabet	100
+115	alright	bien	alright	bien	18
+116	alt	alt	alt	alt	100
+117	altruist	altruiste	altruist	altruist	100
+118	amazement	stupéfaction	amaz	stupéfact	15
+119	ambient	ambiant	ambient	ambi	73
+120	ambit	portée	ambit	port	22
+121	ambivalent	ambivalent	ambival	ambivalent	82
+122	ambulant	ambulant	ambul	ambul	100
+123	amendment	amendement	amend	amend	100
+124	amethyst	améthyste	amethyst	améthyst	88
+125	amidst	au milieu de	amidst	au milieu d	47
+126	amongst	parmi	amongst	parm	36
+127	amorist	amoriste	amorist	amor	73
+128	amount	quantité	amount	quantit	46
+129	amulet	amulette	amulet	amulet	100
+130	amusement	amusement	amus	amus	100
+131	anaesthetist	anesthésiste	anaesthetist	anesthes	80
+132	analyst	analyste	analyst	analyst	100
+133	anarchist	anarchiste	anarchist	anarch	80
+134	anatomist	anatomiste	anatomist	anatom	80
+135	ancient	ancien	ancient	ancien	92
+136	angriest	le plus en colère	angriest	le plus en coler	17
+137	angst	angoisse	angst	angoiss	67
+138	animist	animiste	animist	anim	73
+139	anklet	Bracelet de cheville	anklet	bracelet de chevill	32
+140	announcement	annonce	announc	annonc	92
+141	annulment	annulation	annul	annul	100
+142	anoint	oindre	anoint	oindr	55
+143	ant	fourmi	ant	fourm	0
+144	antagonist	antagoniste	antagonist	antagon	82
+145	antecedent	antécédent	anteced	antécédent	47
+146	anthropologist	anthropologiste	anthropologist	anthropolog	88
+147	antiaircraft	antiaérien	antiaircraft	antiaérien	55
+148	antidepressant	antidépresseur	antidepress	antidépresseur	80
+149	antitrust	antitrust	antitrust	antitrust	100
+150	aorist	aoriste	aorist	aorist	100
+151	apart	une part	apart	une part	62
+152	apartment	appartement	apart	appart	91
+153	aphorist	aphoriste	aphorist	aphor	77
+154	apiarist	apiculteur	apiarist	apiculteur	44
+155	apologist	apologiste	apologist	apolog	80
+156	apparent	apparent	appar	apparent	77
+157	appeasement	apaisement	appeas	apais	73
+158	appellant	appelant	appel	appel	100
+159	applecart	panier de pommes	applecart	panier de pomm	17
+160	applet	applet	applet	applet	100
+161	applicant	demandeur	applic	demandeur	13
+162	appoint	nommer	appoint	nomm	18
+163	appointment	rendez-vous	appoint	rendez-vous	11
+164	apportionment	répartition	apportion	répartit	47
+165	apricot	abricot	apricot	abricot	86
+166	apt	apte	apt	apte	86
+167	aptest	le plus apte	aptest	le plus apt	35
+168	aquanaut	aquanaute	aquanaut	aquanaut	100
+169	aqueduct	aqueduc	aqueduct	aqueduc	93
+170	ararat	Ararat	ararat	ararat	100
+171	archaeologist	archéologue	archaeologist	archéologu	70
+172	architect	architecte	architect	architect	100
+173	archivist	archiviste	archivist	archiv	80
+174	ardent	ardent	ardent	ardent	100
+175	arent	arent	arent	arent	100
+176	argent	argent	argent	argent	100
+177	argot	argot	argot	argot	100
+178	argument	argument	argument	argument	100
+179	aright	un droit	aright	un droit	43
+180	aristocrat	aristocrate	aristocrat	aristocrat	100
+181	armament	armement	armament	armement	88
+182	armlet	brassard	armlet	brassard	29
+183	armpit	aisselle	armpit	aissel	33
+184	armrest	accoudoir	armrest	accoudoir	25
+185	aromatherapist	aromathérapeute	aromatherapist	aromathérapeut	79
+186	arrangement	arrangement	arrang	arrang	100
+187	arrant	fieffé	arrant	fieff	0
+188	arrest	arrêter	arrest	arrêt	73
+189	arrogant	arrogant	arrog	arrog	100
+190	arrowroot	marante	arrowroot	mar	33
+191	arsonist	pyromane	arsonist	pyroman	27
+192	art	art	art	art	100
+193	artefact	artefact	artefact	artefact	100
+194	artist	artiste	artist	artist	100
+195	ascendant	ascendant	ascend	ascend	100
+196	ascent	ascension	ascent	ascens	83
+197	ascertainment	constatation	ascertain	constat	38
+198	aslant	en biais	aslant	en bi	18
+199	aspect	aspect	aspect	aspect	100
+200	asphalt	asphalte	asphalt	asphalt	100
+201	aspirant	aspirant	aspir	aspir	100
+202	assailant	agresseur	assail	agresseur	40
+203	assault	agression	assault	agress	46
+204	assent	assentiment	assent	assent	100
+205	assert	affirmer	assert	affirm	33
+206	assessment	évaluation	assess	évalu	18
+207	asset	actif	asset	actif	40
+208	assignment	mission	assign	mission	62
+209	assist	aider	assist	aid	44
+210	assistant	assistant	assist	assist	100
+211	assort	assortir	assort	assort	100
+212	assortment	assortiment	assort	assort	100
+213	astonishment	étonnement	astonish	éton	50
+214	astringent	astringent	astring	astringent	82
+215	astronaut	astronaute	astronaut	astronaut	100
+216	astrophysicist	astrophysicien	astrophysicist	astrophysicien	86
+217	at	à	at	à	0
+218	atheist	athée	atheist	athé	55
+219	atonement	expiation	aton	expiat	40
+220	attachment	attachement	attach	attach	100
+221	attainment	réalisation	attain	réalis	33
+222	attempt	tenter	attempt	tent	55
+223	attendant	préposé	attend	prépos	0
+224	attest	attester	attest	attest	100
+225	attract	attirer	attract	attir	67
+226	audit	Audit	audit	audit	100
+227	augment	augmenter	augment	augment	100
+228	august	août	august	août	40
+229	aunt	tante	aunt	tant	75
+230	autocrat	autocrate	autocrat	autocrat	100
+231	automat	automate	automat	automat	100
+232	autopilot	pilote automatique	autopilot	pilote automat	43
+233	avert	éviter	avert	évit	44
+234	await	attendre	await	attendr	33
+235	awkwardest	le plus maladroit	awkwardest	le plus maladroit	30
+236	babysit	garder les enfants	babysit	garder les enf	19
+237	baccarat	baccarat	baccarat	baccarat	100
+238	backchat	impertinence	backchat	impertinent	11
+239	backlight	rétroéclairage	backlight	rétroéclairag	27
+240	backlit	rétroéclairé	backlit	rétroéclair	22
+241	backrest	dossier	backrest	dossi	15
+242	backseat	banquette arrière	backseat	banquette arri	36
+243	backstreet	ruelle	backstreet	ruel	29
+244	bacteriologist	bactériologiste	bacteriologist	bactériolog	80
+245	bafflement	perplexité	bafflement	perplex	24
+246	baggiest	le plus baggy	baggiest	le plus baggy	38
+247	bailout	renflouement	bailout	renflou	43
+248	bait	appât	bait	appât	44
+249	baldest	le plus chauve	baldest	le plus chauv	10
+250	ballast	ballast	ballast	ballast	100
+251	ballet	ballet	ballet	ballet	100
+252	balloonist	aéronaute	balloonist	aéronaut	44
+253	ballot	scrutin	ballot	scrutin	15
+254	ballpoint	à bille	ballpoint	à bill	40
+255	balmiest	balmiest	balmiest	balmiest	100
+256	bandiest	bandiest	bandiest	bandiest	100
+257	bandit	bandit	bandit	band	80
+258	banishment	bannissement	banish	bann	60
+259	bankrupt	faillite	bankrupt	faillit	27
+260	banquet	banquet	banquet	banquet	100
+261	bantamweight	poids coq	bantamweight	poids coq	10
+262	baptist	baptiste	baptist	baptist	100
+263	barefoot	pieds nus	barefoot	pieds nus	12
+264	barest	le plus nu	barest	le plus nu	25
+265	baronet	baronnet	baronet	baronnet	93
+266	bart	bart	bart	bart	100
+267	basalt	basalte	basalt	basalt	100
+268	basement	sous-sol	basement	sous-sol	12
+269	basest	le plus bas	basest	le plus b	13
+270	basket	panier	basket	pani	20
+271	bassist	bassiste	bassist	bassist	100
+272	bat	chauve souris	bat	chauve sour	14
+273	bathurst	Bathurst	bathurst	bathurst	100
+274	battlement	rempart	battlement	rempart	35
+275	bawdiest	le plus débile	bawdiest	le plus débil	19
+276	bayonet	baïonnette	bayonet	baïonnet	80
+277	beadiest	le plus perlé	beadiest	le plus perl	20
+278	beast	la bête	beast	la bêt	36
+279	beastliest	le plus bestial	beastliest	le plus bestial	32
+280	beat	battre	beat	battr	67
+281	bedevilment	malaise	bedevil	malais	15
+282	bedpost	poteau de lit	bedpost	poteau de l	33
+283	bedsit	studio	bedsit	studio	33
+284	beechnut	beechnut	beechnut	beechnut	100
+285	beefiest	le plus costaud	beefiest	le plus costaud	26
+286	beermat	tapis de bière	beermat	tapis de bi	11
+287	beet	betterave	beet	betterav	50
+288	beetroot	betterave	beetroot	betterav	50
+289	befit	convenir	befit	conven	18
+290	begat	engendrer	begat	engendr	33
+291	beget	engendrer	beget	engendr	50
+292	begot	engendré	begot	engendr	33
+293	beguilement	pillage	beguil	pillag	33
+294	behaviourist	comportementaliste	behaviourist	comportemental	15
+295	behest	ordre	behest	ordre	18
+296	beirut	Beyrouth	beirut	beyrouth	71
+297	belfast	Belfast	belfast	belfast	100
+298	belligerent	belligérant	belliger	belliger	100
+299	belt	courroie	belt	courroi	0
+300	bemusement	perplexité	bemus	perplex	17
+301	beneficent	bienfaisant	benefic	bienfais	67
+302	benefit	avantage	benefit	avantag	29
+303	benevolent	bienveillant	benevol	bienveil	67
+304	bent	courbé	bent	courb	22
+305	bequest	legs	bequest	leg	20
+306	bereavement	deuil	bereav	deuil	18
+307	bereft	privé	bereft	priv	20
+308	beret	béret	beret	béret	80
+309	beset	assailli	beset	assaill	17
+310	besot	abrutir	besot	abrut	40
+311	best	meilleur	best	meilleur	17
+312	bet	pari	bet	pari	0
+313	betterment	amélioration	better	amélior	15
+314	betwixt	entre	betwixt	entre	33
+315	bewilderment	perplexité	bewilder	perplex	27
+316	bidet	bidet	bidet	bidet	100
+317	bigamist	bigame	bigamist	bigam	77
+318	biggest	le plus grand	biggest	le plus grand	10
+319	bigot	bigot	bigot	bigot	100
+320	billet	billet	billet	billet	100
+321	biochemist	biochimiste	biochemist	biochim	71
+322	biologist	biologiste	biologist	biolog	80
+323	biotechnologist	biotechnologiste	biotechnologist	biotechnolog	89
+324	birefringent	biréfringent	birefring	biréfringent	76
+325	birthright	droit de naissance	birthright	droit de naiss	25
+326	biscuit	biscuit	biscuit	biscuit	100
+327	bisect	couper en deux	bisect	couper en d	12
+328	bit	bit	bit	bit	100
+329	bitterest	le plus amer	bitterest	le plus am	21
+330	bittersweet	doux-amer	bittersweet	doux-am	0
+331	blackcurrant	cassis	blackcurr	cass	15
+332	blackest	le plus noir	blackest	le plus noir	30
+333	blacklist	liste noire	blacklist	liste noir	42
+334	blackout	coupure électrique	blackout	coupure électr	36
+335	blandest	le plus fade	blandest	le plus fad	32
+336	blanket	couverture	blanket	couvertur	25
+337	blast	détruire	blast	détruir	17
+338	blat	blat	blat	blat	100
+339	blatant	flagrant	blatant	flagr	33
+340	bleakest	le plus sombre	bleakest	le plus sombr	29
+341	bleat	bêler	bleat	bêl	50
+342	blight	flétrissement	blight	fletr	36
+343	blindest	le plus aveugle	blindest	le plus aveugl	27
+344	bloat	gonfler	bloat	gonfl	20
+345	blondest	le plus blond	blondest	le plus blond	48
+346	bloodiest	le plus sanglant	bloodiest	le plus sangl	27
+347	bloodlust	soif de sang	bloodlust	soif de sang	29
+348	bloodshot	injecté de sang	bloodshot	injecté de sang	17
+349	bloodsport	sport de sang	bloodsport	sport de sang	43
+350	bloodthirstiest	le plus sanguinaire	bloodthirstiest	le plus sanguinair	18
+351	blot	tache	blot	tach	25
+352	blueprint	plan	blueprint	plan	31
+353	bluest	le plus bleu	bluest	le plus bleu	33
+354	blunt	cru	blunt	cru	25
+355	bluntest	le plus brutal	bluntest	le plus brutal	27
+356	blurt	lâcher	blurt	lâch	22
+357	boast	se vanter	boast	se vant	33
+358	boat	bateau	boat	bateau	60
+359	bobcat	lynx	bobcat	lynx	0
+360	boggiest	le plus épouvantable	boggiest	le plus épouvant	17
+361	boldest	le plus audacieux	boldest	le plus audaci	19
+362	bolt	verrouiller	bolt	verrouill	31
+363	bombardment	bombardement	bombard	bombard	100
+364	bombast	grandiloquence	bombast	grandiloquent	20
+365	boniest	le plus bon	boniest	le plus bon	33
+366	bonnet	bonnet	bonnet	bonnet	100
+367	bonniest	le plus beau	bonniest	le plus beau	20
+368	booklet	brochure	booklet	brochur	29
+369	boost	renforcer	boost	renforc	17
+370	boot	démarrage	boot	démarrag	0
+371	bossiest	le plus autoritaire	bossiest	le plus autoritair	23
+372	botanist	botaniste	botanist	botan	77
+373	bottommost	le plus bas	bottommost	le plus b	11
+374	bouffant	bouffant	bouffant	bouff	77
+375	bought	acheté	bought	achet	36
+376	bounciest	rebondir	bounciest	rebond	40
+377	bouquet	bouquet	bouquet	bouquet	100
+378	bout	combat	bout	combat	40
+379	bowsprit	beaupré	bowsprit	beaupr	43
+380	boycott	boycotter	boycott	boycott	100
+381	boyscout	scout	boyscout	scout	77
+382	bracelet	bracelet	bracelet	bracelet	100
+383	bracket	support	bracket	support	29
+384	braggart	fanfaron	braggart	fanfaron	38
+385	brat	gosse	brat	goss	0
+386	bravest	le plus courageux	bravest	le plus courag	19
+387	brawniest	le plus musclé	brawniest	le plus muscl	18
+388	breadfruit	fruit à pain	breadfruit	fruit à pain	45
+389	breakfast	petit-déjeuner	breakfast	petit-déjeun	19
+390	breakout	éclater	breakout	éclat	31
+391	breakpoint	point d'arrêt	breakpoint	point d'arrêt	43
+392	breast	Sein	breast	sein	20
+393	breeziest	le plus venteux	breeziest	le plus vent	29
+394	brickbat	morceau de brique	brickbat	morceau de br	19
+395	briefest	le plus bref	briefest	le plus bref	40
+396	bright	brillant	bright	brill	55
+397	brightest	le plus brillant	brightest	le plus brill	27
+398	brilliant	brillant	brilliant	brill	71
+399	briskest	le plus vif	briskest	le plus v	12
+400	brit	brit	brit	brit	100
+401	broadcast	diffuser	broadcast	diffus	27
+402	broadest	le plus large	broadest	le plus larg	10
+403	broadsheet	grand format	broadsheet	grand format	36
+404	brought	amené	brought	amen	0
+405	browbeat	intimider	browbeat	intimid	13
+406	brownest	le plus brun	brownest	le plus brun	30
+407	brunet	brunet	brunet	brunet	100
+408	brunt	brutal	brunt	brutal	73
+409	bubbliest	bubbliest	bubbliest	bubbliest	100
+410	bucket	baquet	bucket	baquet	67
+411	buckshot	chevrotine	buckshot	chevrotin	47
+412	budapest	Budapest	budapest	budapest	100
+413	buddhist	bouddhiste	buddhist	bouddhist	94
+414	budget	budget	budget	budget	100
+415	buffet	buffet	buffet	buffet	100
+416	built	construit	built	construit	43
+417	bulkiest	le plus volumineux	bulkiest	le plus volumin	26
+418	bullet	balle	bullet	ball	60
+419	bullfight	corrida	bullfight	corrid	13
+420	bumpiest	le plus cahoteux	bumpiest	le plus cahot	29
+421	buoyant	flottable	buoyant	flottabl	13
+422	bureaucrat	bureaucrate	bureaucrat	bureaucrat	100
+423	burliest	le plus costaud	burliest	le plus costaud	26
+424	burnt	brûlé	burnt	brûl	44
+425	burst	éclater	burst	éclat	20
+426	bushiest	le plus bruyant	bushiest	le plus brui	30
+427	busiest	le plus occupé	busiest	le plus occup	20
+428	bust	bousiller	bust	bousill	55
+429	but	mais	but	mais	0
+430	butt	bout	butt	bout	75
+431	butterfat	matière grasse	butterfat	matière gr	21
+432	buyout	rachat	buyout	rachat	17
+433	byproduct	sous-produit	byproduct	sous-produit	57
+434	cabaret	cabaret	cabaret	cabaret	100
+435	cabinet	cabinet	cabinet	cabinet	100
+436	cabriolet	cabriolet	cabriolet	cabriolet	100
+437	cachet	cachet	cachet	cachet	100
+438	cadet	cadet	cadet	cadet	100
+439	cagiest	le plus effrayant	cagiest	le plus effrai	19
+440	calmest	le plus calme	calmest	le plus calm	42
+441	camelot	camelot	camelot	camelot	100
+442	campanologist	campanologue	campanologist	campanologu	83
+443	camshaft	arbre à cames	camshaft	arbre à cam	32
+444	candlelight	bougie	candlelight	boug	13
+445	candlelit	a la chandelle	candlelit	a la chandel	57
+446	cannot	ne peux pas	cannot	ne peux p	13
+447	canoeist	canoéiste	canoeist	canoéist	88
+448	cant	cant	cant	cant	100
+449	capitalist	capitaliste	capitalist	capital	82
+450	carat	carat	carat	carat	100
+451	cardiologist	cardiologue	cardiologist	cardiologu	82
+452	careerist	carriériste	careerist	carrier	62
+453	carpet	tapis	carpet	tapis	36
+454	carport	abri d'auto	carport	abri d'auto	33
+455	carrot	carotte	carrot	carott	83
+456	carrycot	nacelle	carrycot	nacel	15
+457	cart	Chariot	cart	chariot	73
+458	cartoonist	dessinateur	cartoonist	dessin	12
+459	casement	fenêtre	casement	fenêtr	43
+460	casket	cercueil	casket	cercueil	29
+461	cast	jeter	cast	jet	29
+462	castanet	castagnette	castanet	castagnet	94
+463	cat	chat	cat	chat	86
+464	catalyst	catalyseur	catalyst	catalyseur	78
+465	catapult	catapulte	catapult	catapult	100
+466	cataract	cataracte	cataract	cataract	100
+467	catchiest	le plus accrocheur	catchiest	le plus accrocheur	30
+468	catchment	bassin versant	catchment	bassin vers	20
+469	catechist	catéchiste	catechist	catech	80
+470	catgut	catgut	catgut	catgut	100
+471	catsuit	combinaison	catsuit	combinaison	33
+472	caught	attrapé	caught	attrap	33
+473	caveat	caveat	caveat	caveat	100
+474	cavort	faire des cabrioles	cavort	faire des cabriol	26
+475	celebrant	célébrant	celebr	célebr	83
+476	cellist	violoncelliste	cellist	violoncel	38
+477	cement	ciment	cement	ciment	83
+478	cent	cent	cent	cent	100
+479	centralist	centraliste	centralist	central	82
+480	centrist	centriste	centrist	centrist	100
+481	ceramist	céramiste	ceramist	céram	62
+482	cesspit	cloaque	cesspit	cloaqu	15
+483	chairlift	télésiège	chairlift	télésieg	12
+484	chalet	chalet	chalet	chalet	100
+485	chamberpot	pot de chambre	chamberpot	pot de chambr	52
+486	chanciest	chanciest	chanciest	chanciest	100
+487	chant	chant	chant	chant	100
+488	chariot	char	chariot	char	73
+489	chart	graphique	chart	graphiqu	15
+490	chastisement	châtiment	chastis	chât	55
+491	chat	discuter	chat	discut	40
+492	chauvinist	chauvin	chauvinist	chauvin	82
+493	cheapest	le moins cher	cheapest	le moins ch	21
+494	cheat	Tricher	cheat	trich	40
+495	checklist	liste de contrôle	checklist	liste de contrôl	32
+496	checkout	vérifier	checkout	vérifi	0
+497	checkpoint	point de contrôle	checkpoint	point de contrôl	38
+498	cheekiest	le plus effronté	cheekiest	le plus effront	25
+499	cheeriest	plus joyeux	cheeriest	plus joi	12
+500	chemiluminescent	chimiluminescent	chemiluminesc	chimiluminescent	83
+501	chemist	chimiste	chemist	chimist	86
+502	cheroot	cheroot	cheroot	cheroot	100
+503	chest	coffre	chest	coffr	20
+504	chestnut	châtaigne	chestnut	châtaign	50
+505	chewiest	le plus moelleux	chewiest	le plus moel	20
+506	chilliest	le plus froid	chilliest	le plus froid	9
+507	chiropodist	pédicure	chiropodist	pédicur	33
+508	chit	chit	chit	chit	100
+509	choicest	choix	choicest	choix	62
+510	choppiest	le plus saccadé	choppiest	le plus saccad	9
+511	christ	Christ	christ	christ	100
+512	cigaret	cigare	cigaret	cigar	83
+513	circlet	cercle	circlet	cercl	67
+514	circuit	circuit	circuit	circuit	100
+515	circulant	circulant	circul	circul	100
+516	circumspect	circonspect	circumspect	circonspect	82
+517	circumvent	circonvenir	circumv	circonven	62
+518	cist	ciste	cist	cist	100
+519	claimant	demandeur	claimant	demandeur	35
+520	clairvoyant	voyant	clairvoy	voi	36
+521	claret	bordeaux	claret	bordeau	15
+522	clarinet	clarinette	clarinet	clarinet	100
+523	clarinettist	clarinettiste	clarinettist	clarinet	80
+524	classicist	classiciste	classicist	classic	82
+525	classiest	le plus chic	classiest	le plus chic	19
+526	cleancut	cleancut	cleancut	cleancut	100
+527	cleanest	le plus propre	cleanest	le plus propr	29
+528	clearcut	coupe à blanc	clearcut	coupe à blanc	38
+529	clearest	le plus clair	clearest	le plus clair	38
+530	cleat	taquet	cleat	taquet	36
+531	cleft	fendu	cleft	fendu	20
+532	clement	clément	clement	clément	86
+533	cleverest	le plus intelligent	cleverest	le plus intelligent	36
+534	client	client	client	client	100
+535	closedcircuit	circuit fermé	closedcircuit	circuit ferm	56
+536	closeknit	fermer	closeknit	ferm	15
+537	closest	le plus proche	closest	le plus proch	10
+538	closet	toilettes	closet	toilet	50
+539	clot	caillot	clot	caillot	73
+540	cloudburst	trombe	cloudburst	tromb	27
+541	cloudiest	le plus nuageux	cloudiest	le plus nuag	29
+542	clout	poids	clout	poid	22
+543	clumsiest	le plus maladroit	clumsiest	le plus maladroit	38
+544	coarsest	le plus grossier	coarsest	le plus grossi	27
+545	coast	côte	coast	côt	50
+546	coat	manteau	coat	manteau	36
+547	cobalt	cobalt	cobalt	cobalt	100
+548	cockiest	le plus arrogant	cockiest	le plus arrog	10
+549	cockpit	cockpit	cockpit	cockp	83
+550	coconut	noix de coco	coconut	noix de coco	42
+551	coefficient	coefficient	coeffici	coefficient	84
+552	coexist	coexister	coexist	coexist	100
+553	coexistent	coexistant	coexist	coexist	100
+554	cogent	convaincant	cogent	convainc	43
+555	cognisant	compétent	cognis	compétent	40
+556	cognizant	compétent	cogniz	compétent	40
+557	cohabit	cohabiter	cohabit	cohabit	100
+558	coherent	cohérent	coher	cohérent	62
+559	cohort	cohorte	cohort	cohort	100
+560	coincident	coïncident	coincid	coïncident	71
+561	coldest	le plus froid	coldest	le plus froid	20
+562	collaborationist	collaborationniste	collaborationist	collaboration	90
+563	collect	collecter	collect	collect	100
+564	collectivist	collectiviste	collectivist	collectiv	86
+565	colonialist	colonialiste	colonialist	colonial	84
+566	colonist	colon	colonist	colon	77
+567	colourant	colorant	colour	color	91
+568	colt	poulain	colt	poulain	36
+569	columnist	journaliste	columnist	journal	25
+570	combat	combat	combat	combat	100
+571	combatant	combattant	combat	combatt	92
+572	comet	comète	comet	comet	100
+573	comfort	confort	comfort	confort	86
+574	commandant	commandant	command	command	100
+575	commandment	commandement	command	command	100
+576	commencement	commencement	commenc	commenc	100
+577	comment	commenter	comment	comment	100
+578	commissariat	intendance	commissariat	intend	22
+579	commit	s'engager	commit	s'engag	0
+580	commitment	engagement	commit	engag	0
+581	commonest	le plus commun	commonest	le plus commun	43
+582	communicant	communiant	communic	communi	93
+583	communist	communiste	communist	commun	80
+584	compact	compact	compact	compact	100
+585	compartment	compartiment	compart	compart	100
+586	compatriot	compatriote	compatriot	compatriot	100
+587	competent	compétent	compet	compétent	80
+588	complacent	complaisant	complac	complais	80
+589	complainant	plaignant	complain	plaign	71
+590	complaint	plainte	complaint	plaint	80
+591	complaisant	complaisant	complais	complais	100
+592	complement	complément	complement	compl	67
+593	compliant	conforme	compliant	conform	38
+594	complicit	complice	complicit	complic	88
+595	compliment	compliment	compliment	compl	67
+596	complot	complot	complot	complot	100
+597	component	composant	compon	compos	83
+598	comport	comporter	comport	comport	100
+599	compost	compost	compost	compost	100
+600	concealment	dissimulation	conceal	dissimul	13
+601	conceit	vanité	conceit	vanit	50
+602	concept	concept	concept	concept	100
+603	concert	concert	concert	concert	100
+604	concoct	concocter	concoct	concoct	100
+605	concomitant	concomitant	concomit	concomit	100
+606	concordant	concordant	concord	concord	100
+607	concordat	concordat	concordat	concordat	100
+608	concurrent	concurrent	concurr	concurrent	82
+609	condiment	condiment	condiment	cond	62
+610	conduct	conduite	conduct	conduit	86
+611	conduit	conduit	conduit	conduit	100
+612	confectionist	pâtissier	confectionist	pâtissi	30
+613	conferment	octroi	confer	octroi	33
+614	confidant	confident	confid	confident	80
+615	confident	confiant	confid	confi	91
+616	confinement	confinement	confin	confin	100
+617	conflict	conflit	conflict	confl	77
+618	confluent	confluent	confluent	confluent	100
+619	conformist	conformiste	conformist	conform	82
+620	confront	affronter	confront	affront	67
+621	congest	encombrer	congest	encombr	29
+622	congruent	conforme	congruent	conform	50
+623	conjoint	conjoint	conjoint	conjoint	100
+624	conjunct	conjoint	conjunct	conjoint	75
+625	connect	relier	connect	reli	18
+626	conquest	conquête	conquest	conquêt	80
+627	conscript	conscrit	conscript	conscr	80
+628	consent	consentement	consent	consent	100
+629	consequent	conséquent	consequ	conséquent	71
+630	conservationist	conservationniste	conservationist	conservation	89
+631	consignment	consignation	consign	consign	100
+632	consist	consister	consist	consist	100
+633	consistent	cohérent	consist	cohérent	53
+634	consonant	consonne	conson	conson	100
+635	consort	épouse	consort	épous	33
+636	constant	constant	constant	const	77
+637	constituent	constituant	constitu	constitu	100
+638	constraint	contrainte	constraint	contraint	95
+639	constrict	Serrer	constrict	serr	31
+640	construct	construction	construct	construct	100
+641	constructivist	constructiviste	constructivist	constructiv	88
+642	consult	consulter	consult	consult	100
+643	consultant	consultant	consult	consult	100
+644	consumerist	consumériste	consumerist	consumer	84
+645	contact	contact	contact	contact	100
+646	containment	endiguement	contain	endigu	31
+647	contaminant	contaminant	contamin	contamin	100
+648	contempt	mépris	contempt	mepr	33
+649	content	teneur	content	teneur	46
+650	contentment	contentement	content	content	100
+651	contest	concours	contest	concour	43
+652	contestant	concurrent	contest	concurrent	47
+653	context	le contexte	context	le context	82
+654	continent	continent	contin	continent	80
+655	contingent	contingent	conting	contingent	82
+656	contort	tordre	contort	tordr	50
+657	contortionist	contorsionniste	contortionist	contorsion	78
+658	contract	Contrat	contract	contrat	93
+659	contradict	contredire	contradict	contredir	74
+660	contrast	contraste	contrast	contrast	100
+661	controvert	controverser	controvert	controvers	90
+662	convalescent	convalescent	convalesc	convalescent	86
+663	convect	convection	convect	convect	100
+664	convenient	pratique	conveni	pratiqu	14
+665	convent	couvent	convent	couvent	86
+666	conventionalist	conventionnel	conventionalist	conventionnel	79
+667	convergent	convergent	converg	convergent	82
+668	conversant	au courant	convers	au cour	43
+669	conversationalist	causeur	conversationalist	causeur	25
+670	convert	convertir	convert	convert	100
+671	convict	condamné	convict	condamn	43
+672	coolant	liquide de refroidissement	coolant	liquide de refroid	8
+673	coolest	le plus cool	coolest	le plus cool	42
+674	copilot	copilote	copilot	copilot	100
+675	copout	copout	copout	copout	100
+676	copycat	imitateur	copycat	imit	18
+677	copyist	copiste	copyist	copist	92
+678	copyright	droits d'auteur	copyright	droits d'auteur	17
+679	corespondent	correspondant	corespond	correspond	95
+680	cormorant	cormoran	cormor	cormoran	86
+681	cornet	cornet	cornet	cornet	100
+682	coronet	couronne	coronet	couron	77
+683	corporatist	corporatiste	corporatist	corporat	84
+684	corpulent	corpulent	corpul	corpulent	80
+685	correct	correct	correct	correct	100
+686	correspondent	correspondant	correspond	correspond	100
+687	corrupt	corrompu	corrupt	corrompu	67
+688	corset	corset	corset	corset	100
+689	corslet	corslet	corslet	corslet	100
+690	cosiest	plus confortable	cosiest	plus confort	32
+691	cosmologist	cosmologiste	cosmologist	cosmolog	84
+692	cosmonaut	cosmonaute	cosmonaut	cosmonaut	100
+693	cosset	dorloter	cosset	dorlot	33
+694	cost	Coût	cost	coût	75
+695	costefficient	rentable	costeffici	rentabl	12
+696	costliest	le plus cher	costliest	le plus ch	11
+697	cot	lit bébé	cot	lit beb	20
+698	count	compter	count	compt	60
+699	counteract	contrer	counteract	contr	67
+700	counterfeit	contrefaire	counterfeit	contrefair	57
+701	counterpart	homologue	counterpart	homologu	21
+702	counterpoint	contrepoint	counterpoint	contrepoint	87
+703	couplet	distique	couplet	distiqu	14
+704	court	rechercher	court	recherch	31
+705	covalent	covalent	coval	covalent	77
+706	covenant	engagement	coven	engag	40
+707	coverlet	couverture	coverlet	couvertur	71
+708	coversheet	feuille de couverture	coversheet	feuille de couvertur	40
+709	covert	secret	covert	secret	50
+710	covet	convoiter	covet	convoit	67
+711	crackpot	cinglé	crackpot	cingl	15
+712	craft	artisanat	craft	artisanat	43
+713	craftiest	le plus rusé	craftiest	le plus rus	20
+714	crankshaft	vilebrequin	crankshaft	vilebrequin	19
+715	cravat	cravate	cravat	cravat	100
+716	craziest	le plus fou	craziest	le plus fou	21
+717	creakiest	le plus grinçant	creakiest	le plus grinc	9
+718	creamiest	le plus crémeux	creamiest	le plus crem	38
+719	creationist	créationniste	creationist	création	74
+720	credit	crédit	credit	cred	80
+721	crept	rampé	crept	ramp	44
+722	crescent	croissant	crescent	croiss	43
+723	crest	crête	crest	crêt	67
+724	cricket	criquet	cricket	criquet	71
+725	criminologist	criminologue	criminologist	criminologu	83
+726	crispiest	le plus croustillant	crispiest	le plus croustill	31
+727	croakiest	croakiest	croakiest	croakiest	100
+728	crochet	crochet	crochet	crochet	100
+729	croft	petite ferme	croft	petite ferm	12
+730	croissant	croissant	croissant	croiss	80
+731	croquet	croquet	croquet	croquet	100
+732	crotchet	noire	crotchet	noir	17
+733	crudest	le plus grossier	crudest	le plus grossi	19
+734	cruelest	le plus cruel	cruelest	le plus cruel	48
+735	cruellest	le plus cruel	cruellest	le plus cruel	45
+736	crumbliest	crumbliest	crumbliest	crumbliest	100
+737	crumpet	crumpet	crumpet	crumpet	100
+738	crunchiest	le plus croustillant	crunchiest	le plus croustill	37
+739	crust	croûte	crust	croût	60
+740	crustiest	le plus croustillant	crustiest	le plus croustill	46
+741	cryostat	cryostat	cryostat	cryostat	100
+742	crypt	crypte	crypt	crypt	100
+743	cryptanalyst	cryptanalyste	cryptanalyst	cryptanalyst	100
+744	cubist	cubiste	cubist	cubist	100
+745	cubit	coudée	cubit	coud	44
+746	cuddliest	le plus câlin	cuddliest	le plus câlin	27
+747	culprit	coupable	culprit	coupabl	43
+748	cult	culte	cult	cult	100
+749	culvert	ponceau	culvert	ponceau	29
+750	curliest	le plus curieux	curliest	le plus curi	40
+751	currant	groseille	currant	groseil	14
+752	current	actuel	current	actuel	46
+753	curt	sec	curt	sec	29
+754	curtailment	réduction	curtail	réduct	31
+755	cut	Couper	cut	coup	57
+756	cutest	le plus mignon	cutest	le plus mignon	20
+757	cutlet	escalope	cutlet	escalop	31
+758	cutout	découper	cutout	découp	50
+759	cutthroat	fardée	cutthroat	fard	15
+760	cyclist	cycliste	cyclist	cyclist	100
+761	cygnet	Jeune Cygne	cygnet	jeune cygn	50
+762	cypriot	chypriote	cypriot	chypriot	93
+763	cyst	kyste	cyst	kyst	75
+764	daft	idiot	daft	idiot	44
+765	daftest	le plus stupide	daftest	le plus stupid	29
+766	daintiest	le plus délicat	daintiest	le plus délicat	25
+767	dampest	le plus humide	dampest	le plus humid	10
+768	dankest	super	dankest	sup	20
+769	darkest	le plus sombre	darkest	le plus sombr	10
+770	dart	dard	dart	dard	75
+771	daunt	décourager	daunt	décourag	31
+772	daylight	lumière du jour	daylight	lumière du jour	9
+773	deadbeat	deadbeat	deadbeat	deadbeat	100
+774	deadliest	le plus meurtrier	deadliest	le plus meurtri	25
+775	deafest	sourd	deafest	sourd	17
+776	dealt	traité	dealt	trait	40
+777	dearest	très chère	dearest	très cher	25
+778	debasement	avilissement	debas	avil	22
+779	debit	débit	debit	deb	75
+780	debt	dette	debt	det	86
+781	debut	début	debut	début	80
+782	debutant	débutant	debut	début	80
+783	decadent	décadent	decad	décadent	62
+784	decant	décanter	decant	décant	83
+785	deceit	tromperie	deceit	tromper	15
+786	decent	décent	decent	décent	83
+787	decipherment	déchiffrement	decipher	déchiffr	50
+788	deconstruct	déconstruire	deconstruct	déconstruir	73
+789	deconstructionist	déconstructionniste	deconstructionist	déconstruction	84
+790	decrement	décrémenter	decrement	décrément	78
+791	decrepit	délabré	decrepit	délabr	29
+792	decrypt	décrypter	decrypt	décrypt	86
+793	deduct	déduire	deduct	déduir	50
+794	deepest	le plus profond	deepest	le plus profond	9
+795	default	défaut	default	défaut	77
+796	defeat	défaite	defeat	défait	67
+797	defeatist	défaitiste	defeatist	défait	53
+798	defect	défaut	defect	défaut	50
+799	defendant	défendeur	defend	défendeur	67
+800	deferment	ajournement	defer	ajourn	18
+801	defiant	de défi	defiant	de def	46
+802	deficient	déficient	defici	déficient	67
+803	deficit	déficit	deficit	défic	67
+804	defilement	souillure	defil	souillur	31
+805	deflect	dévier	deflect	dévi	18
+806	defrost	dégivrer	defrost	dégivr	31
+807	deft	habile	deft	habil	0
+808	defunct	défunt	defunct	défunt	77
+809	deist	Déiste	deist	déist	80
+810	deject	se laisser abattre	deject	se laisser abattr	26
+811	delict	délit	delict	del	67
+812	delight	plaisir	delight	plais	33
+813	delimit	délimiter	delimit	délimit	86
+814	delinquent	délinquant	delinqu	délinqu	86
+815	deliquescent	déliquescent	deliquesc	déliquescent	76
+816	dement	dément	dement	dément	83
+817	demerit	démérite	demerit	démérit	71
+818	demist	désembuer	demist	désembu	46
+819	democrat	démocrate	democrat	démocrat	88
+820	demount	démonter	demount	démont	77
+821	denouement	dénouement	denouement	dénou	53
+822	densest	le plus dense	densest	le plus dens	42
+823	dent	bosse	dent	boss	0
+824	dentist	dentiste	dentist	dentist	100
+825	deodorant	déodorant	deodor	déodor	83
+826	depart	partir	depart	part	80
+827	department	département	depart	départ	83
+828	dependant	dépendant	depend	dépend	83
+829	dependent	dépendant	depend	dépend	83
+830	depict	représenter	depict	représent	40
+831	deployment	déploiement	deploy	déploi	67
+832	deponent	déposant	depon	dépos	60
+833	deport	expulser	deport	expuls	33
+834	deportment	conduite	deport	conduit	31
+835	deposit	dépôt	deposit	dépôt	50
+836	depot	dépôt	depot	dépôt	60
+837	depressant	dépresseur	depress	dépresseur	71
+838	derailment	déraillement	derail	déraill	77
+839	derangement	dérèglement	derang	déregl	50
+840	derelict	abandonné	derelict	abandon	13
+841	dermatologist	dermatologue	dermatologist	dermatologu	83
+842	desalt	dessaler	desalt	dessal	83
+843	descant	descant	descant	desc	73
+844	descendant	descendant	descend	descend	100
+845	descendent	descendant	descend	descend	100
+846	descent	descente	descent	descent	100
+847	desert	désert	desert	désert	83
+848	desist	cesser	desist	cess	60
+849	despondent	découragé	despond	décourag	27
+850	despot	despote	despot	despot	100
+851	dessert	le dessert	dessert	le dessert	82
+852	destruct	détruire	destruct	détruir	53
+853	detachment	détachement	detach	détach	83
+854	detect	détecter	detect	détect	83
+855	detent	détente	detent	détent	83
+856	detergent	détergent	deterg	détergent	67
+857	determinant	déterminant	determin	détermin	88
+858	determinist	déterministe	determinist	détermin	74
+859	deterrent	dissuasif	deterr	dissuas	15
+860	detest	détester	detest	détest	83
+861	detract	diminuer	detract	diminu	15
+862	detriment	détriment	detriment	detr	62
+863	detroit	Detroit	detroit	detroit	100
+864	development	développement	develop	développ	80
+865	deviant	déviant	deviant	dévi	55
+866	devilment	diablerie	devil	diabler	33
+867	devout	pieux	devout	pieux	36
+868	dialect	dialecte	dialect	dialect	100
+869	diarist	chroniqueur	diarist	chroniqueur	22
+870	diciest	le plus difficile	diciest	le plus difficil	35
+871	didnt	n'a pas	didnt	n'a p	20
+872	diet	régime	diet	régim	22
+873	different	différent	differ	différent	67
+874	difficult	difficile	difficult	difficil	82
+875	diffident	timide	diffid	timid	55
+876	diffract	diffracter	diffract	diffract	100
+877	digest	digérer	digest	diger	73
+878	digit	chiffre	digit	chiffr	18
+879	diktat	diktat	diktat	diktat	100
+880	diligent	diligent	dilig	diligent	77
+881	diluent	diluant	diluent	dilu	73
+882	dimmest	le plus sombre	dimmest	le plus sombr	10
+883	dimwit	bête	dimwit	bêt	22
+884	dingiest	terne	dingiest	tern	17
+885	dint	à force	dint	à forc	0
+886	diplomat	diplomate	diplomat	diplomat	100
+887	direct	direct	direct	direct	100
+888	direst	le plus dur	direst	le plus dur	24
+889	dirt	saleté	dirt	salet	22
+890	dirtiest	le plus sale	dirtiest	le plus sal	21
+891	disablement	invalidité	disabl	invalid	15
+892	disagreement	désaccord	disagr	désaccord	53
+893	disappoint	décevoir	disappoint	décevoir	33
+894	disappointment	déception	disappoint	décept	38
+895	disarmament	désarmement	disarma	désarm	77
+896	disbandment	dissolution	disband	dissolu	43
+897	disbursement	décaissement	disburs	décaissement	42
+898	discant	discant	discant	disc	73
+899	discernment	discernement	discern	discern	100
+900	discomfit	déconcerter	discomfit	déconcert	44
+901	discomfort	malaise	discomfort	malais	25
+902	disconcert	déconcerter	disconcert	déconcert	84
+903	disconnect	déconnecter	disconnect	déconnect	84
+904	discontent	mécontentement	discont	mécontent	50
+905	discordant	discordant	discord	discord	100
+906	discount	remise	discount	remis	31
+907	discouragement	découragement	discourag	décourag	82
+908	discredit	discrédit	discredit	discred	88
+909	discreet	discret	discreet	discret	93
+910	discrepant	discordant	discrep	discord	71
+911	discriminant	discriminant	discrimin	discrimin	100
+912	disembodiment	désincarnation	disembodi	désincarn	22
+913	disembowelment	éventration	disembowel	éventr	12
+914	disenchantment	désenchantement	disenchant	désenchant	90
+915	disenfranchisement	privation du droit de vote	disenfranchis	privation du droit de vot	16
+916	disengagement	désengagement	disengag	désengag	88
+917	disestablishment	désétablissement	disestablish	désétabl	60
+918	disfigurement	défiguration	disfigur	défigur	80
+919	disgruntlement	mécontentement	disgruntl	mécontent	22
+920	disgust	dégoûter	disgust	dégoût	46
+921	dishonest	malhonnête	dishonest	malhonnêt	44
+922	disillusionment	désillusion	disillusion	désillu	67
+923	disinfect	désinfecter	disinfect	désinfect	89
+924	disinfectant	désinfectant	disinfect	désinfect	89
+925	disinherit	déshériter	disinherit	déshérit	67
+926	disinterest	désintéressement	disinterest	désintéress	73
+927	disinvest	désinvestir	disinvest	désinvest	89
+928	disinvestment	désinvestissement	disinvest	désinvest	89
+929	disjoint	disjoint	disjoint	disjoint	100
+930	disjunct	disjoint	disjunct	disjoint	75
+931	dismemberment	démembrement	dismember	démembr	75
+932	dismount	démonter	dismount	démont	71
+933	disobedient	désobéissant	disobedi	désobéiss	59
+934	disorient	désorienter	disori	désorient	67
+935	disparagement	dénigrement	disparag	dénigr	43
+936	dispersant	dispersant	dispers	dispers	100
+937	displacement	déplacement	displac	déplac	77
+938	disputant	disputant	disput	disput	100
+939	disquiet	inquiétude	disquiet	inquiétud	59
+940	disrespect	manque de respect	disrespect	manque de respect	59
+941	disrupt	perturber	disrupt	perturb	29
+942	dissect	disséquer	dissect	dissequ	71
+943	dissent	contestation	dissent	contest	29
+944	dissident	dissident	dissid	dissident	80
+945	dissonant	dissonant	disson	disson	100
+946	distant	loin	distant	loin	36
+947	distinct	distinct	distinct	distinct	100
+948	distort	fausser	distort	fauss	17
+949	distract	distraire	distract	distrair	75
+950	distraught	éperdu	distraught	éperdu	25
+951	district	quartier	district	quarti	14
+952	distrust	méfiance	distrust	méfianc	13
+953	divergent	divergent	diverg	divergent	80
+954	divert	dérouter	divert	dérout	50
+955	divest	dépouiller	divest	dépouill	29
+956	divinest	divin	divinest	divin	77
+957	divot	divot	divot	divot	100
+958	dizziest	le plus vertigineux	dizziest	le plus vertigin	17
+959	docket	rôle	docket	rôl	0
+960	document	document	document	docu	67
+961	doesnt	ne fait pas	doesnt	ne fait p	27
+962	dogfight	combat aérien	dogfight	combat aérien	19
+963	dogmatist	dogmatique	dogmatist	dogmat	80
+964	dolt	balourd	dolt	balourd	18
+965	dominant	dominant	domin	domin	100
+966	dont	ne pas	dont	ne p	25
+967	donut	Donut	donut	donut	100
+968	doormat	paillasson	doormat	paillasson	12
+969	doorpost	montant de porte	doorpost	montant de port	35
+970	dormant	dormant	dormant	dorm	73
+971	dot	point	dot	point	50
+972	doublet	pourpoint	doublet	pourpoint	38
+973	doubt	doute	doubt	dout	89
+974	doughnut	Donut	doughnut	donut	77
+975	dovecot	pigeonnier	dovecot	pigeonni	13
+976	dowdiest	le plus terne	dowdiest	le plus tern	30
+977	downbeat	temps fort	downbeat	temps fort	22
+978	downcast	abattu	downcast	abattu	29
+979	downright	carrément	downright	carr	15
+980	draft	Brouillon	draft	brouillon	14
+981	dragnet	drague	dragnet	dragu	67
+982	dramatist	dramaturge	dramatist	dramaturg	67
+983	drat	drat	drat	drat	100
+984	draught	Brouillon	draught	brouillon	25
+985	draughtiest	le plus courant	draughtiest	le plus cour	9
+986	dreadnought	dreadnought	dreadnought	dreadnought	100
+987	dreamiest	le plus rêveur	dreamiest	le plus rêveur	17
+988	dreamt	rêvé	dreamt	rêv	22
+989	dreariest	triste	dreariest	trist	57
+990	driest	le plus sec	driest	le plus sec	24
+991	drift	dérive	drift	dériv	60
+992	drollest	le plus drôle	drollest	le plus drôl	30
+993	droopiest	le plus tombant	droopiest	le plus tomb	10
+994	droplet	gouttelette	droplet	gouttelet	50
+995	dropout	abandonner	dropout	abandon	29
+996	drought	la sécheresse	drought	la sécheress	11
+997	drowsiest	le plus somnolent	drowsiest	le plus somnolent	23
+998	druggist	pharmacien	druggist	pharmacien	22
+999	drumbeat	battement de tambour	drumbeat	battement de tambour	21
+1000	dualist	dualiste	dualist	dualist	100
+1001	duct	canal	duct	canal	22
+1002	duellist	duelliste	duellist	duellist	100
+1003	duet	duo	duet	duo	57
+1004	dugout	pirogue	dugout	pirogu	17
+1005	dulcet	dulcet	dulcet	dulcet	100
+1006	dullest	le plus terne	dullest	le plus tern	42
+1007	dumbest	le plus stupide	dumbest	le plus stupid	29
+1008	dust	poussière	dust	poussi	40
+1009	dustcart	benne à ordures	dustcart	benne à ordur	29
+1010	duvet	couette	duvet	couet	60
+1011	dwelt	habité	dwelt	habit	20
+1012	dynast	souverain	dynast	souverain	13
+1013	eaglet	aiglon	eaglet	aiglon	50
+1014	earliest	le plus tôt	earliest	le plus tôt	42
+1015	earnest	sérieux	earnest	sérieux	14
+1016	earshot	à portée de voix	earshot	à portée de voix	17
+1017	easement	servitude	easement	servitud	38
+1018	easiest	le plus simple	easiest	le plus simpl	30
+1019	east	est	east	est	86
+1020	easternmost	le plus à l'est	easternmost	le plus à l'est	23
+1021	eat	manger	eat	mang	29
+1022	ebullient	exubérant	ebulli	exuber	33
+1023	ecologist	écologiste	ecologist	écolog	67
+1024	economist	économiste	economist	économ	67
+1025	edict	décret	edict	décret	36
+1026	edit	Éditer	edit	édit	75
+1027	educationalist	éducateur	educationalist	éduc	33
+1028	educationist	éducateur	educationist	éduc	38
+1029	eeriest	le plus inquiétant	eeriest	le plus inquiet	36
+1030	effect	effet	effect	effet	91
+1031	efferent	efférent	effer	efférent	62
+1032	effervescent	effervescent	effervesc	effervescent	86
+1033	efficient	efficace	effici	efficac	77
+1034	effluent	effluent	effluent	effluent	100
+1035	effort	effort	effort	effort	100
+1036	effulgent	rayonnant	effulg	rayon	0
+1037	egoist	égoïste	egoist	égoïst	67
+1038	egotist	égotiste	egotist	égot	55
+1039	egret	aigrette	egret	aigret	73
+1040	egypt	Egypte	egypt	egypt	100
+1041	eight	huit	eight	huit	44
+1042	eject	éjecter	eject	éject	80
+1043	eldest	aîné	eldest	aîn	0
+1044	elect	élire	elect	élir	22
+1045	electroluminescent	électroluminescent	electroluminesc	électroluminescent	85
+1046	electromagnet	électro-aimant	electromagnet	électro-aim	58
+1047	elegant	élégant	eleg	éleg	75
+1048	element	élément	element	élément	71
+1049	elephant	l'éléphant	eleph	l'éleph	67
+1050	elicit	obtenir	elicit	obten	18
+1051	elitist	élitiste	elitist	élit	55
+1052	elopement	fugue	elop	fugu	0
+1053	eloquent	éloquent	eloqu	éloquent	62
+1054	embankment	digue	embank	digu	0
+1055	embarrassment	embarras	embarrass	embarr	80
+1056	embellishment	embellissement	embellish	embel	71
+1057	embezzlement	détournement de fonds	embezzl	détournement de fond	22
+1058	embitterment	amertume	embitter	amertum	40
+1059	embodiment	incarnation	embodi	incarn	17
+1060	emergent	émergent	emerg	émergent	62
+1061	emigrant	émigrant	emigr	émigr	80
+1062	eminent	éminent	emin	éminent	55
+1063	emit	émettre	emit	émettr	40
+1064	emollient	émollient	emolli	émollient	67
+1065	emolument	émoluments	emolu	émolu	80
+1066	empiricist	empiriste	empiricist	empir	67
+1067	emplacement	emplacement	emplac	emplac	100
+1068	employment	emploi	employ	emploi	83
+1069	empowerment	responsabilisation	empower	responsabilis	30
+1070	emptiest	le plus vide	emptiest	le plus vid	32
+1071	enact	promulguer	enact	promulgu	0
+1072	enactment	promulgation	enact	promulg	0
+1073	encampment	campement	encamp	camp	80
+1074	encashment	encaissement	encash	encaissement	56
+1075	enchant	enchanter	enchant	enchant	100
+1076	enchantment	enchantement	enchant	enchant	100
+1077	encirclement	encerclement	encircl	encercl	86
+1078	encouragement	encouragement	encourag	encourag	100
+1079	encroachment	empiètement	encroach	empiet	14
+1080	encrust	incruster	encrust	incrust	86
+1081	encrypt	Crypter	encrypt	crypt	83
+1082	endearment	tendresse	endear	tendress	57
+1083	endorsement	approbation	endors	approb	17
+1084	endowment	donation	endow	donat	40
+1085	enfeeblement	affaiblissement	enfeebl	affaibl	43
+1086	enforcement	mise en vigueur	enforc	mise en vigueur	29
+1087	enfranchisement	affranchissement	enfranchis	affranch	67
+1088	engagement	engagement	engag	engag	100
+1089	enhancement	renforcement	enhanc	renforc	46
+1090	enjoyment	jouissance	enjoy	jouiss	36
+1091	enlargement	élargissement	enlarg	élarg	73
+1092	enlightenment	éclaircissement	enlighten	éclairc	25
+1093	enlist	enrôler	enlist	enrôl	55
+1094	enlistment	enrôlement	enlist	enrôl	55
+1095	enrichment	enrichissement	enrich	enrich	100
+1096	enrolment	inscription	enrol	inscript	31
+1097	enslavement	asservissement	enslav	asserv	33
+1098	entailment	implication	entail	impliqu	31
+1099	entanglement	enchevêtrement	entangl	enchevêtr	38
+1100	entertainment	divertissement	entertain	divert	40
+1101	enthronement	intronisation	enthron	intronis	67
+1102	enthusiast	passionné	enthusiast	passion	24
+1103	enticement	séduction	entic	séduct	18
+1104	entitlement	droit	entitl	droit	36
+1105	entombment	mise au tombeau	entomb	mise au tombeau	48
+1106	entomologist	entomologiste	entomologist	entomolog	86
+1107	entrainment	entraînement	entrain	entraîn	86
+1108	entrant	participant	entrant	particip	13
+1109	entrapment	piégeage	entrap	piégeag	31
+1110	entreat	supplier	entreat	suppli	0
+1111	entrenchment	retranchement	entrench	retranch	75
+1112	entrust	confier	entrust	confi	17
+1113	environment	environnement	environ	environ	100
+1114	environmentalist	écologiste	environmentalist	écolog	18
+1115	epidemiologist	épidémiologiste	epidemiologist	épidémiolog	72
+1116	epithet	épithète	epithet	épithet	86
+1117	equidistant	équidistant	equidist	équidist	88
+1118	equipment	équipement	equip	équip	80
+1119	equivalent	équivalent	equival	équivalent	71
+1120	erect	ériger	erect	érig	22
+1121	ergot	ergot	ergot	ergot	100
+1122	errant	errant	errant	errant	100
+1123	erst	erst	erst	erst	100
+1124	erupt	éclater	erupt	éclat	20
+1125	escapement	échappement	escap	échapp	55
+1126	escapist	échapper	escapist	échapp	43
+1127	escarpment	escarpement	escarp	escarp	100
+1128	escort	escorte	escort	escort	100
+1129	esprit	esprit	esprit	esprit	100
+1130	essayist	essayiste	essayist	essai	77
+1131	essentialist	essentialiste	essentialist	essential	86
+1132	est	est	est	est	100
+1133	establishment	établissement	establish	établ	57
+1134	estrangement	éloignement	estrang	éloign	15
+1135	ethicist	éthicien	ethicist	éthicien	62
+1136	ethologist	éthologue	ethologist	éthologu	67
+1137	etymologist	étymologiste	etymologist	étymolog	74
+1138	evanescent	évanescent	evanesc	évanescent	71
+1139	evangelist	évangéliste	evangelist	évangel	71
+1140	event	un événement	event	un éven	50
+1141	everest	Everest	everest	everest	100
+1142	everpresent	toujours présent	everpres	toujours présent	33
+1143	evict	expulser	evict	expuls	18
+1144	evident	évident	evid	évident	55
+1145	evolutionist	évolutionniste	evolutionist	évolution	76
+1146	exact	exact	exact	exact	100
+1147	exalt	exalter	exalt	exalt	100
+1148	excellent	excellent	excel	excellent	71
+1149	except	sauf	except	sauf	0
+1150	excerpt	extrait	excerpt	extrait	57
+1151	excitement	excitation	excit	excit	100
+1152	exclusivist	exclusiviste	exclusivist	exclusiv	84
+1153	exempt	exempter	exempt	exempt	100
+1154	exert	exercer	exert	exerc	80
+1155	exeunt	sortir	exeunt	sort	20
+1156	exhaust	échappement	exhaust	échapp	31
+1157	exhibit	exposition	exhibit	exposit	57
+1158	exhibitionist	exhibitionniste	exhibitionist	exhibition	87
+1159	exhort	exhorter	exhort	exhort	100
+1160	exigent	exigeant	exig	exig	100
+1161	exist	exister	exist	exist	100
+1162	existent	existant	exist	exist	100
+1163	existentialist	existentialiste	existentialist	existential	88
+1164	exit	sortir	exit	sort	25
+1165	exorbitant	exorbitant	exorbit	exorbit	100
+1166	exorcist	exorciste	exorcist	exorc	77
+1167	expansionist	expansionniste	expansionist	expansion	86
+1168	expect	attendre	expect	attendr	15
+1169	expectant	en attente	expect	en attent	40
+1170	expedient	opportun	expedi	opportun	14
+1171	experiment	expérience	experi	expérient	67
+1172	experimentalist	expérimentateur	experimentalist	expériment	72
+1173	expert	expert	expert	expert	100
+1174	explicit	explicite	explicit	explicit	100
+1175	exploit	exploit	exploit	exploit	100
+1176	exponent	exposant	expon	expos	80
+1177	export	exportation	export	export	100
+1178	expressionist	expressionniste	expressionist	expression	87
+1179	ext	ext	ext	ext	100
+1180	extent	Le degré	extent	le degr	31
+1181	extinct	disparu	extinct	disparu	14
+1182	extinguishment	extinction	extinguish	extinct	59
+1183	extort	extorquer	extort	extorqu	77
+1184	extract	extrait	extract	extrait	86
+1185	extravagant	extravagant	extravag	extravag	100
+1186	extremest	extrême	extremest	extrêm	67
+1187	extremist	extrémiste	extremist	extrem	80
+1188	extrovert	extraverti	extrovert	extravert	89
+1189	exuberant	exubérant	exuber	exuber	100
+1190	exult	exulter	exult	exult	100
+1191	exultant	exultant	exult	exult	100
+1192	eyelet	œillet	eyelet	œillet	50
+1193	eyesight	vue	eyesight	vu	0
+1194	facelift	lifting	facelift	lifting	53
+1195	facet	facette	facet	facet	100
+1196	fact	fait	fact	fait	75
+1197	fadeout	disparaître	fadeout	disparaîtr	24
+1198	faggot	fagot	faggot	fagot	91
+1199	fagot	fagot	fagot	fagot	100
+1200	faint	perdre connaissance	faint	perdre connaiss	20
+1201	faintest	le plus faible	faintest	le plus faibl	29
+1202	fairest	le plus juste	fairest	le plus just	32
+1203	fallout	Tomber	fallout	tomb	18
+1204	fanbelt	courroie du ventilateur	fanbelt	courroie du ventil	16
+1205	fanciest	le plus fantaisiste	fanciest	le plus fantais	43
+1206	fanlight	imposte	fanlight	impost	29
+1207	farout	farout	farout	farout	100
+1208	farthest	le plus éloigné	farthest	le plus éloign	18
+1209	fascist	fasciste	fascist	fascist	100
+1210	fast	vite	fast	vit	29
+1211	fastest	le plus rapide	fastest	le plus rapid	10
+1212	fat	gros	fat	gros	0
+1213	fatalist	fataliste	fatalist	fatal	77
+1214	fatcat	gros chat	fatcat	gros chat	27
+1215	fattest	le plus gros	fattest	le plus gros	21
+1216	fattiest	le plus gras	fattiest	le plus gr	22
+1217	faucet	robinet	faucet	robinet	31
+1218	fault	la faute	fault	la faut	67
+1219	faust	faust	faust	faust	100
+1220	feast	le banquet	feast	le banquet	40
+1221	feat	exploit	feat	exploit	36
+1222	featherlight	légère comme une plume	featherlight	légère comme une plum	18
+1223	featherweight	poids plume	featherweight	poids plum	9
+1224	federalist	fédéraliste	federalist	fédéral	59
+1225	feeblest	le plus faible	feeblest	le plus faibl	29
+1226	feet	pieds	feet	pied	25
+1227	feint	feinte	feint	feint	100
+1228	felt	se sentait	felt	se sent	36
+1229	feminist	féministe	feminist	fémin	62
+1230	fencepost	poteau de clôture	fencepost	poteau de clôtur	24
+1231	ferment	fermenter	ferment	ferment	100
+1232	ferret	furet	ferret	furet	73
+1233	fervent	fervent	fervent	fervent	100
+1234	fest	fest	fest	fest	100
+1235	fetishist	fétichiste	fetishist	fétich	53
+1236	feudist	féodal	feudist	féodal	31
+1237	fewest	le moins	fewest	le moin	15
+1238	fiat	décret	fiat	décret	20
+1239	fibroblast	fibroblaste	fibroblast	fibroblast	100
+1240	fidget	agiter	fidget	agit	40
+1241	fiercest	le plus féroce	fiercest	le plus féroc	29
+1242	fieriest	le plus fougueux	fieriest	le plus fougu	10
+1243	fight	bats toi	fight	bats toi	15
+1244	figment	invention	figment	invent	62
+1245	filament	filament	filament	fil	55
+1246	filet	filet	filet	filet	100
+1247	fillet	filet	fillet	filet	91
+1248	filmset	plateau de tournage	filmset	plateau de tournag	24
+1249	filthiest	le plus sale	filthiest	le plus sal	30
+1250	finalist	finaliste	finalist	final	77
+1251	finest	le meilleur	finest	le meilleur	24
+1252	fingerprint	empreinte digitale	fingerprint	empreinte digital	43
+1253	firefight	fusillade	firefight	fusillad	24
+1254	firelight	lumière du feu	firelight	lumière du feu	26
+1255	firmament	firmament	firmament	firm	62
+1256	firmest	le plus ferme	firmest	le plus ferm	32
+1257	first	première	first	premi	20
+1258	fishiest	le plus louche	fishiest	le plus louch	19
+1259	fishnet	résille	fishnet	résill	15
+1260	fist	poing	fist	poing	22
+1261	fit	ajuster	fit	ajust	25
+1262	fitment	montage	fitment	montag	46
+1263	fittest	le plus apte	fittest	le plus apt	11
+1264	fizziest	le plus pétillant	fizziest	le plus pétill	9
+1265	flabbiest	le plus mou	flabbiest	le plus mou	30
+1266	flagrant	flagrant	flagrant	flagr	77
+1267	flakiest	flakiest	flakiest	flakiest	100
+1268	flamboyant	flamboyant	flamboy	flamboi	86
+1269	flashiest	le plus flashy	flashiest	le plus flashy	43
+1270	flashlight	lampe de poche	flashlight	lampe de poch	26
+1271	flashpoint	point de rupture	flashpoint	point de ruptur	40
+1272	flat	plat	flat	plat	75
+1273	flattest	le plus plat	flattest	le plus plat	30
+1274	flatulent	flatulent	flatul	flatulent	80
+1275	flaunt	faire étalage	flaunt	faire étalag	33
+1276	flautist	flûtiste	flautist	flûtist	80
+1277	fleet	flotte	fleet	flott	60
+1278	fleshiest	fleshiest	fleshiest	fleshiest	100
+1279	flight	vol	flight	vol	22
+1280	flimsiest	le plus fragile	flimsiest	le plus fragil	17
+1281	flint	silex	flint	silex	20
+1282	flippant	désinvolte	flippant	désinvolt	24
+1283	flirt	flirter	flirt	flirt	100
+1284	flit	voltiger	flit	voltig	40
+1285	float	flotter	float	flott	80
+1286	floodlight	projecteur	floodlight	projecteur	20
+1287	floodlit	éclairé	floodlit	éclair	29
+1288	floppiest	disquette	floppiest	disquet	38
+1289	floreat	fleureat	floreat	fleureat	80
+1290	floret	fleuron	floret	fleuron	46
+1291	florist	fleuriste	florist	fleurist	80
+1292	flout	se moquer	flout	se moqu	33
+1293	flowerpot	pot de fleur	flowerpot	pot de fleur	29
+1294	fluent	courant	fluent	cour	20
+1295	fluffiest	le plus moelleux	fluffiest	le plus moel	29
+1296	flukiest	flukiest	flukiest	flukiest	100
+1297	fluorescent	fluorescent	fluoresc	fluorescent	84
+1298	flutist	flûtiste	flutist	flûtist	86
+1299	flypast	survol	flypast	survol	15
+1300	flyweight	poids mouche	flyweight	poids mouch	20
+1301	foamiest	mousseux	foamiest	mousseux	25
+1302	foggiest	le plus brumeux	foggiest	le plus brum	20
+1303	foist	frapper	foist	frapp	20
+1304	folkart	art folklorique	folkart	art folklor	56
+1305	folklorist	folkloriste	folklorist	folklor	82
+1306	foment	fomenter	foment	foment	100
+1307	fondant	fondant	fondant	fond	73
+1308	fondest	le plus cher	fondest	le plus ch	24
+1309	font	Police de caractère	font	police de caracter	18
+1310	foot	pied	foot	pied	0
+1311	footprint	empreinte	footprint	empreint	59
+1312	footrest	repose pieds	footrest	repose pied	32
+1313	forecast	prévoir	forecast	prévoir	27
+1314	forecourt	parvis	forecourt	parv	15
+1315	forefront	premier plan	forefront	premier plan	38
+1316	foremost	avant toute chose	foremost	avant toute chos	33
+1317	foresight	prévoyance	foresight	prévoi	27
+1318	forest	forêt	forest	forêt	73
+1319	forethought	prévoyance	forethought	prévoi	12
+1320	forfeit	déclarer forfait	forfeit	déclarer forf	40
+1321	forget	Oubliez	forget	oubl	20
+1322	forgetmenot	ne m'oublie pas	forgetmenot	ne m'oublie p	17
+1323	forgot	oublié	forgot	oubli	18
+1324	formalist	formaliste	formalist	formal	80
+1325	formant	formant	formant	form	73
+1326	format	format	format	format	100
+1327	fort	fort	fort	fort	100
+1328	forthright	franc	forthright	franc	27
+1329	fortnight	quinze jours	fortnight	quinze jour	20
+1330	fought	combattu	fought	combattu	29
+1331	foulest	le plus sale	foulest	le plus sal	33
+1332	fount	source	fount	sourc	40
+1333	foxhunt	chasse au renard	foxhunt	chasse au renard	26
+1334	foxiest	le plus renard	foxiest	le plus renard	19
+1335	foxtrot	fox-trot	foxtrot	fox-trot	93
+1336	fragment	fragment	fragment	fragment	100
+1337	fragrant	parfumé	fragrant	parfum	14
+1338	frailest	le plus fragile	frailest	le plus fragil	45
+1339	frankest	le plus franc	frankest	le plus franc	38
+1340	fraudulent	frauduleux	fraudul	fraudul	100
+1341	fraught	chargé	fraught	charg	33
+1342	freight	cargaison	freight	cargaison	25
+1343	frequent	fréquent	frequent	fréquent	88
+1344	freshest	le plus frais	freshest	le plus fr	22
+1345	fret	frette	fret	fret	100
+1346	friendliest	le plus sympathique	friendliest	le plus sympath	31
+1347	fright	la frayeur	fright	la frayeur	25
+1348	frilliest	le plus voluptueux	frilliest	le plus voluptu	33
+1349	friskiest	le plus fringant	friskiest	le plus fring	27
+1350	front	de face	front	de fac	18
+1351	frost	gel	frost	gel	0
+1352	frostiest	le plus glacial	frostiest	le plus glacial	17
+1353	frothiest	le plus mousseux	frothiest	le plus mouss	18
+1354	fruit	fruit	fruit	fruit	100
+1355	fruitiest	le plus fruité	fruitiest	le plus fru	30
+1356	fulfilment	accomplissement	fulfil	accompl	15
+1357	fullest	le plus complet	fullest	le plus complet	36
+1358	fulminant	fulminante	fulmin	fulmin	100
+1359	functionalist	fonctionnaliste	functionalist	fonctionnal	75
+1360	fundamentalist	fondamentaliste	fundamentalist	fondamental	80
+1361	funniest	le plus drôle	funniest	le plus drôl	20
+1362	furriest	le plus furieux	furriest	le plus furi	40
+1363	furthest	le plus éloigné	furthest	le plus éloign	18
+1364	fussiest	le plus difficile	fussiest	le plus difficil	25
+1365	futurist	futuriste	futurist	futur	77
+1366	fuzziest	le plus flou	fuzziest	le plus flou	20
+1367	gadget	gadget	gadget	gadget	100
+1368	gait	démarche	gait	démarch	18
+1369	gallant	galant	gallant	gal	60
+1370	gambit	gambit	gambit	gamb	80
+1371	gamut	gamme	gamut	gamm	67
+1372	gannet	fou de Bassan	gannet	fou de bassan	21
+1373	garment	vêtement	garment	vêt	20
+1374	garnet	grenat	garnet	grenat	50
+1375	garret	grenier	garret	greni	55
+1376	gasket	joint	gasket	joint	18
+1377	gaslight	gazole	gaslight	gazol	46
+1378	gassiest	le plus gazeux	gassiest	le plus gaz	21
+1379	gatepost	poteau	gatepost	poteau	29
+1380	gaudiest	le plus maudit	gaudiest	le plus maud	30
+1381	gaunt	décharné	gaunt	décharn	33
+1382	gauntlet	gant	gauntlet	gant	67
+1383	gayest	le plus gay	gayest	le plus gay	35
+1384	genealogist	généalogiste	genealogist	généalog	63
+1385	generalist	généraliste	generalist	général	59
+1386	geneticist	généticien	geneticist	généticien	60
+1387	gent	gentil	gent	gentil	80
+1388	genteelest	le plus raffiné	genteelest	le plus raffin	25
+1389	gentlest	le plus doux	gentlest	le plus doux	30
+1390	genuflect	génuflexion	genuflect	génuflexion	60
+1391	geologist	géologue	geologist	géologu	62
+1392	geophysicist	géophysicien	geophysicist	géophysicien	75
+1393	gerontologist	gérontologue	gerontologist	gérontologu	75
+1394	gestalt	gestalt	gestalt	gestalt	100
+1395	get	obtenir	get	obten	25
+1396	ghastliest	le plus horrible	ghastliest	le plus horribl	16
+1397	ghost	fantôme	ghost	fantôm	18
+1398	ghostliest	le plus fantomatique	ghostliest	le plus fantomat	15
+1399	giant	géant	giant	gé	29
+1400	gibbet	gibet	gibbet	gibet	91
+1401	giddiest	le plus vertigineux	giddiest	le plus vertigin	17
+1402	gift	cadeau	gift	cadeau	0
+1403	gigavolt	gigavolt	gigavolt	gigavolt	100
+1404	gilt	doré	gilt	dor	0
+1405	gimlet	vrille	gimlet	vrill	36
+1406	girt	ceinture	girt	ceintur	36
+1407	gist	essentiel	gist	essentiel	15
+1408	glaciologist	glaciologue	glaciologist	glaciologu	82
+1409	gladdest	le plus joyeux	gladdest	le plus joi	32
+1410	glasnost	Glasnost	glasnost	glasnost	100
+1411	glassiest	vitreux	glassiest	vitreux	25
+1412	glint	reflet	glint	reflet	36
+1413	gloat	jubiler	gloat	jubil	20
+1414	gloomiest	le plus sombre	gloomiest	le plus sombr	27
+1415	glossiest	le plus brillant	glossiest	le plus brill	27
+1416	glut	surabondance	glut	surabond	17
+1417	gnat	moucheron	gnat	moucheron	15
+1418	goalpost	poteau de but	goalpost	poteau de but	29
+1419	goat	chèvre	goat	chevr	0
+1420	gobbet	gobbet	gobbet	gobbet	100
+1421	goblet	gobelet	goblet	gobelet	92
+1422	goodnight	Bonsoir	goodnight	bonsoir	38
+1423	goriest	goriest	goriest	goriest	100
+1424	got	a obtenu	got	a obtenu	36
+1425	gourmet	gourmet	gourmet	gourmet	100
+1426	gout	goutte	gout	goutt	89
+1427	government	gouvernement	govern	gouvern	92
+1428	gradient	pente	gradient	pent	50
+1429	gradualist	gradualiste	gradualist	gradual	82
+1430	graft	greffer	graft	greff	60
+1431	grainiest	le plus grainé	grainiest	le plus grain	45
+1432	grandest	le plus grandiose	grandest	le plus grandios	50
+1433	grandiloquent	grandiloquent	grandiloqu	grandiloquent	87
+1434	grandparent	grand-parent	grandpar	grand-parent	80
+1435	grant	accorder	grant	accord	18
+1436	grapefruit	pamplemousse	grapefruit	pamplemouss	38
+1437	grapeshot	grapeshot	grapeshot	grapeshot	100
+1438	graphologist	graphologue	graphologist	graphologu	82
+1439	grassiest	le plus herbeux	grassiest	le plus herb	10
+1440	gravest	le plus grave	gravest	le plus grav	42
+1441	greasepaint	peinture à la graisse	greasepaint	peinture à la graiss	26
+1442	greasiest	le plus gras	greasiest	le plus gr	21
+1443	great	génial	great	génial	36
+1444	greataunt	grand-tante	greataunt	grand-t	50
+1445	greatcoat	houppelande	greatcoat	houppeland	21
+1446	greatest	le plus grand	greatest	le plus grand	29
+1447	greediest	le plus gourmand	greediest	le plus gourmand	24
+1448	greenest	le plus vert	greenest	le plus vert	20
+1449	greet	saluer	greet	salu	0
+1450	greyest	le plus gris	greyest	le plus gr	24
+1451	grimiest	le plus sinistre	grimiest	le plus sinistr	35
+1452	grimmest	le plus sombre	grimmest	le plus sombr	10
+1453	grisliest	le plus grincheux	grisliest	le plus grinch	26
+1454	grist	blé à moudre	grist	blé à moudr	12
+1455	grit	grincer	grit	grinc	67
+1456	grittiest	le plus dur	grittiest	le plus dur	10
+1457	grizzliest	grizzliest	grizzliest	grizzliest	100
+1458	groat	gruau	groat	gruau	60
+1459	groggiest	le plus groggy	groggiest	le plus groggy	43
+1460	grommet	oeillet	grommet	oeillet	43
+1461	grossest	le plus grossier	grossest	le plus grossi	45
+1462	groundnut	Arachide	groundnut	arachid	25
+1463	groundsheet	tapis de sol	groundsheet	tapis de sol	9
+1464	grout	jointoyer	grout	jointoi	33
+1465	grubbiest	le plus sale	grubbiest	le plus sal	20
+1466	grumpiest	le plus grincheux	grumpiest	le plus grinch	26
+1467	grunt	grognement	grunt	grogn	60
+1468	guest	invité	guest	invit	20
+1469	guillemot	Guillemot	guillemot	guillemot	100
+1470	guilt	la culpabilité	guilt	la culp	33
+1471	guiltiest	le plus coupable	guiltiest	le plus coup	19
+1472	guitarist	guitariste	guitarist	guitar	80
+1473	gullet	œsophage	gullet	œsophag	15
+1474	gunboat	canonnière	gunboat	canonni	29
+1475	gunfight	fusillade	gunfight	fusillad	25
+1476	gunpoint	arme à feu	gunpoint	arme à feu	11
+1477	gunshot	coup de feu	gunshot	coup de feu	11
+1478	gunsight	viseur	gunsight	viseur	14
+1479	gusset	soufflet	gusset	soufflet	43
+1480	gust	rafale	gust	rafal	0
+1481	gustiest	le plus en rafale	gustiest	le plus en rafal	25
+1482	gut	intestin	gut	intestin	18
+1483	gymnast	gymnaste	gymnast	gymnast	100
+1484	gynaecologist	gynécologue	gynaecologist	gynécologu	70
+1485	habit	habitude	habit	habitud	83
+1486	habitat	habitat	habitat	habitat	100
+1487	hadnt	hadnt	hadnt	hadnt	100
+1488	haematologist	hématologue	haematologist	hématologu	70
+1489	haft	manche	haft	manch	22
+1490	haircut	la Coupe de cheveux	haircut	la coupe de chev	9
+1491	hairiest	le plus poilu	hairiest	le plus poilu	10
+1492	hairnet	résille	hairnet	résill	15
+1493	halibut	flétan	halibut	flétan	15
+1494	halt	arrêt	halt	arrêt	44
+1495	hamlet	Hamlet	hamlet	hamlet	100
+1496	handcart	charrette à bras	handcart	charrette à br	36
+1497	handicraft	artisanat	handicraft	artisanat	42
+1498	handiest	le plus pratique	handiest	le plus prat	20
+1499	handout	polycopié	handout	polycopi	13
+1500	handset	combiné	handset	combin	15
+1501	handsomest	le plus beau	handsomest	le plus beau	9
+1502	happiest	le plus heureux	happiest	le plus heur	20
+1503	harassment	harcèlement	harass	harcel	50
+1504	hardest	le plus dur	hardest	le plus dur	11
+1505	hardhit	coup dur	hardhit	coup dur	13
+1506	hardiest	le plus robuste	hardiest	le plus robust	27
+1507	harlot	prostituée	harlot	prostitu	43
+1508	harpist	harpiste	harpist	harpist	100
+1509	harshest	le plus dur	harshest	le plus dur	11
+1510	hart	cerf	hart	cerf	25
+1511	harvest	récolte	harvest	récolt	31
+1512	hasnt	hasnt	hasnt	hasnt	100
+1513	hastiest	le plus hâtif	hastiest	le plus hât	21
+1514	hat	chapeau	hat	chapeau	40
+1515	hatchet	hachette	hatchet	hachet	92
+1516	haughtiest	le plus hautain	haughtiest	le plus hautain	40
+1517	haunt	hanter	haunt	hant	89
+1518	havent	havent	havent	havent	100
+1519	hayloft	grenier à foin	hayloft	grenier à foin	10
+1520	hazelnut	Noisette	hazelnut	noiset	29
+1521	haziest	le plus flou	haziest	le plus flou	21
+1522	headcount	effectif	headcount	effect	40
+1523	headfast	headfast	headfast	headfast	100
+1524	headiest	le plus enivrant	headiest	le plus enivr	19
+1525	headlight	phare	headlight	phar	31
+1526	headrest	appui-tête	headrest	appui-têt	24
+1527	headset	casque	headset	casqu	33
+1528	healthiest	le plus sain	healthiest	le plus sain	27
+1529	heart	cœur	heart	cœur	22
+1530	heartbeat	battement de coeur	heartbeat	battement de coeur	22
+1531	heartfelt	sincère	heartfelt	sincer	27
+1532	heartiest	le plus chaleureux	heartiest	le plus chaleur	25
+1533	hearttoheart	coeur à coeur	hearttoheart	coeur à coeur	40
+1534	heat	Chauffer	heat	chauff	40
+1535	heatresistant	résistant à la chaleur	heatresist	résistant à la chaleur	31
+1536	heavensent	envoyé du ciel	heavens	envoyé du ciel	19
+1537	heaviest	le plus lourd	heaviest	le plus lourd	19
+1538	heavyweight	poids lourd	heavyweight	poids lourd	9
+1539	hedonist	hédoniste	hedonist	hédon	62
+1540	heft	soupeser	heft	soupes	20
+1541	height	la taille	height	la taill	14
+1542	heist	cambriolage	heist	cambriolag	13
+1543	helmet	casque	helmet	casqu	0
+1544	herbalist	herboriste	herbalist	herbor	53
+1545	hermit	ermite	hermit	ermit	91
+1546	hesitant	hésitant	hesit	hésit	80
+1547	heterosexist	hétérosexiste	heterosexist	hétérosex	67
+1548	hideout	cachette	hideout	cachet	46
+1549	highest	plus haut	highest	plus haut	25
+1550	highlight	mettre en évidence	highlight	mettre en évident	15
+1551	highpoint	point haut	highpoint	point haut	53
+1552	hight	haut	hight	haut	44
+1553	hilliest	le plus vallonné	hilliest	le plus vallon	18
+1554	hilt	poignée	hilt	poign	22
+1555	hindmost	le plus en arrière	hindmost	le plus en arri	9
+1556	hindsight	sagesse rétrospective	hindsight	sagesse rétrospect	22
+1557	hint	indice	hint	indic	44
+1558	historicist	historiciste	historicist	historic	84
+1559	hit	frapper	hit	frapp	0
+1560	hoarfrost	givre	hoarfrost	givr	15
+1561	hobbit	Hobbit	hobbit	hobb	80
+1562	hobbyist	amateur	hobbyist	amateur	13
+1563	hoist	hisser	hoist	hiss	67
+1564	holdout	résistant	holdout	résist	15
+1565	holiest	le plus saint	holiest	le plus saint	30
+1566	holocaust	holocauste	holocaust	holocaust	100
+1567	homiest	homiest	homiest	homiest	100
+1568	honest	honnête	honest	honnêt	67
+1569	hoot	huée	hoot	hu	33
+1570	hornet	frelon	hornet	frelon	33
+1571	horticulturist	horticulteur	horticulturist	horticulteur	85
+1572	host	héberger	host	héberg	20
+1573	hot	chaud	hot	chaud	25
+1574	hotpot	hotpot	hotpot	hotpot	100
+1575	hotspot	point chaud	hotspot	point chaud	33
+1576	hottest	le plus chaud	hottest	le plus chaud	10
+1577	houseboat	péniche	houseboat	pénich	13
+1578	hovercraft	aéroglisseur	hovercraft	aéroglisseur	27
+1579	huguenot	Huguenot	huguenot	huguenot	100
+1580	humanist	humaniste	humanist	human	77
+1581	humblest	le plus humble	humblest	le plus humbl	48
+1582	humorist	humoriste	humorist	humor	77
+1583	hundredweight	quintal	hundredweight	quintal	30
+1584	hungriest	affamé	hungriest	affam	0
+1585	hunt	chasse	hunt	chass	22
+1586	hurt	faire mal	hurt	faire mal	15
+1587	huskiest	le plus rauque	huskiest	le plus rauqu	19
+1588	hut	cabane	hut	caban	0
+1589	hydrant	bouche d'incendie	hydrant	bouche d'incend	27
+1590	hygienist	hygiéniste	hygienist	hygien	80
+1591	hypermarket	grande surface	hypermarket	grande surfac	25
+1592	hypertext	hypertexte	hypertext	hypertext	100
+1593	hypnotist	hypnotiseur	hypnotist	hypnotiseur	80
+1594	iciest	le plus glacial	iciest	le plus glacial	19
+1595	iconoclast	iconoclaste	iconoclast	iconoclast	100
+1596	idealist	idéaliste	idealist	idéal	62
+1597	ideologist	idéologue	ideologist	idéologu	67
+1598	idiolect	idiolecte	idiolect	idiolect	100
+1599	idiot	espèce d'imbécile	idiot	espèce d'imbécil	19
+1600	idlest	le plus oisif	idlest	le plus ois	35
+1601	ignorant	ignorant	ignor	ignor	100
+1602	illicit	illicite	illicit	illicit	100
+1603	illuminant	illuminant	illumin	illumin	100
+1604	illusionist	illusionniste	illusionist	illusion	84
+1605	immanent	immanent	imman	immanent	77
+1606	immigrant	immigrant	immigr	immigr	100
+1607	imminent	imminent	immin	imminent	77
+1608	immodest	impudique	immodest	impud	46
+1609	immunologist	immunologiste	immunologist	immunolog	86
+1610	impact	impacter	impact	impact	100
+1611	impairment	déficience	impair	déficient	27
+1612	impart	donner	impart	don	0
+1613	impatient	impatient	impati	impatient	80
+1614	impeachment	mise en accusation	impeach	mise en accus	40
+1615	impediment	obstacle	impedi	obstacl	0
+1616	imperfect	imparfait	imperfect	imparf	67
+1617	imperialist	impérialiste	imperialist	impérial	74
+1618	impermanent	transitoire	imperman	transitoir	33
+1619	impertinent	impertinent	impertin	impertinent	84
+1620	impingement	Conflit	imping	confl	18
+1621	implant	implant	implant	implant	100
+1622	implement	mettre en place	implement	mettre en plac	26
+1623	implicit	implicite	implicit	implicit	100
+1624	import	importer	import	import	100
+1625	important	important	import	import	100
+1626	impotent	impuissant	impot	impuiss	50
+1627	impoverishment	appauvrissement	impoverish	appauvr	35
+1628	impressionist	impressionniste	impressionist	impression	87
+1629	imprint	imprimer	imprint	imprim	77
+1630	imprisonment	emprisonnement	imprison	emprison	88
+1631	improvement	amélioration	improv	amélior	31
+1632	improvident	imprévoyant	improvid	imprévoi	75
+1633	imprudent	imprudent	imprud	imprudent	80
+1634	impudent	impudent	impud	impudent	77
+1635	inadvertent	involontaire	inadvert	involontair	42
+1636	inbuilt	intégré	inbuilt	integr	46
+1637	incandescent	incandescent	incandesc	incandescent	86
+1638	incant	incant	incant	incant	100
+1639	incessant	incessant	incess	incess	100
+1640	incest	inceste	incest	incest	100
+1641	incident	incident	incid	incident	77
+1642	incipient	naissant	incipi	naiss	18
+1643	incitement	incitation	incit	incit	100
+1644	inclement	inclément	inclement	inclément	89
+1645	incoherent	incohérent	incoher	incohérent	71
+1646	incompetent	incompétent	incompet	incompétent	84
+1647	inconsistent	inconsistant	inconsist	inconsist	100
+1648	inconstant	inconstant	inconst	inconst	100
+1649	incontinent	incontinent	incontin	incontinent	84
+1650	inconvenient	incommode	inconveni	incommod	47
+1651	incorrect	Incorrect	incorrect	incorrect	100
+1652	increment	incrément	increment	incrément	89
+1653	incumbent	titulaire	incumb	titulair	29
+1654	indecent	indécent	indec	indécent	62
+1655	indent	retrait	indent	retr	40
+1656	independent	indépendant	independ	indépend	88
+1657	indicant	indicant	indic	indic	100
+1658	indict	accuser	indict	accus	18
+1659	indictment	accusation	indict	accus	18
+1660	indifferent	indifférent	indiffer	indifférent	74
+1661	indignant	indigné	indign	indign	100
+1662	indirect	indirect	indirect	indirect	100
+1663	indiscreet	indiscret	indiscreet	indiscret	95
+1664	indistinct	indistinct	indistinct	indistinct	100
+1665	individualist	individualiste	individualist	individual	87
+1666	indolent	indolent	indol	indolent	77
+1667	inducement	incitation	induc	incit	60
+1668	induct	installer	induct	install	46
+1669	indulgent	indulgent	indulg	indulgent	80
+1670	industrialist	industriel	industrialist	industriel	78
+1671	inefficient	inefficace	ineffici	inefficac	82
+1672	inelegant	inélégant	ineleg	inéleg	83
+1673	inept	inepte	inept	inept	100
+1674	inert	inerte	inert	inert	100
+1675	inexact	inexact	inexact	inexact	100
+1676	inexpedient	inopportun	inexpedi	inopportun	33
+1677	inexpert	inexpert	inexpert	inexpert	100
+1678	infant	bébé	infant	beb	0
+1679	infarct	infarctus	infarct	infarctus	88
+1680	infect	infecter	infect	infect	100
+1681	infest	infester	infest	infest	100
+1682	inflect	infléchir	inflect	inflech	86
+1683	inflict	infliger	inflict	inflig	77
+1684	informant	informateur	inform	inform	100
+1685	infrequent	rare	infrequ	rar	20
+1686	infringement	infraction	infring	infract	57
+1687	ingest	ingérer	ingest	inger	73
+1688	ingot	lingot	ingot	lingot	91
+1689	ingredient	ingrédient	ingredi	ingrédient	71
+1690	inhabit	habiter	inhabit	habit	83
+1691	inhabitant	habitant	inhabit	habit	83
+1692	inhalant	inhalant	inhal	inhal	100
+1693	inherent	inhérent	inher	inhérent	62
+1694	inherit	hériter	inherit	hérit	67
+1695	inhibit	inhiber	inhibit	inhib	83
+1696	inject	injecter	inject	inject	100
+1697	inkiest	inkiest	inkiest	inkiest	100
+1698	inkpot	encrier	inkpot	encri	18
+1699	inlet	entrée	inlet	entré	40
+1700	inmost	dans la plupart	inmost	dans la plupart	29
+1701	innermost	au plus profond	innermost	au plus profond	8
+1702	innocent	innocent	innoc	innocent	77
+1703	input	saisir	input	sais	22
+1704	inquest	enquête	inquest	enquêt	62
+1705	insect	insecte	insect	insect	100
+1706	insert	insérer	insert	inser	91
+1707	inset	encart	inset	encart	36
+1708	insideout	à l'envers	insideout	à l'enver	22
+1709	insight	aperçu	insight	aperçu	0
+1710	insignificant	insignifiant	insignific	insignifi	95
+1711	insist	insister	insist	insist	100
+1712	insistent	insistant	insist	insist	100
+1713	insolent	insolent	insol	insolent	77
+1714	insolvent	insolvable	insolv	insolv	100
+1715	insouciant	insouciant	insouci	insouci	100
+1716	inspect	inspecter	inspect	inspect	100
+1717	instalment	Versement	instal	vers	20
+1718	instant	instant	instant	instant	100
+1719	instinct	instinct	instinct	instinct	100
+1720	instruct	instruire	instruct	instruir	75
+1721	instrument	instrument	instrument	instrument	100
+1722	instrumentalist	instrumentaliste	instrumentalist	instrumental	89
+1723	insufficient	insuffisant	insuffici	insuffis	82
+1724	insulant	isolant	insul	isol	67
+1725	insult	insulter	insult	insult	100
+1726	insurgent	insurgé	insurg	insurg	100
+1727	intact	intact	intact	intact	100
+1728	integrationist	intégrationniste	integrationist	intégration	80
+1729	intellect	intellect	intellect	intellect	100
+1730	intelligent	intelligente	intellig	intelligent	84
+1731	intent	intention	intent	intent	100
+1732	interact	interagir	interact	interag	80
+1733	intercept	intercepter	intercept	intercept	100
+1734	interconnect	interconnecter	interconnect	interconnect	100
+1735	intercut	entrecouper	intercut	entrecoup	59
+1736	interdependent	interdépendant	interdepend	interdépend	91
+1737	interdict	interdit	interdict	interd	80
+1738	interest	intérêt	interest	intérêt	67
+1739	interject	interjeter	interject	interjet	94
+1740	interment	inhumation	inter	inhum	40
+1741	intermittent	intermittent	intermitt	intermittent	86
+1742	internationalist	internationaliste	internationalist	international	90
+1743	internet	l'Internet	internet	l'internet	89
+1744	internment	internement	intern	intern	100
+1745	interpret	interpréter	interpret	interpret	100
+1746	interrupt	interrompre	interrupt	interrompr	74
+1747	intersect	couper	intersect	coup	15
+1748	interventionist	interventionniste	interventionist	intervention	89
+1749	intolerant	intolérant	intoler	intoler	100
+1750	intoxicant	toxique	intoxic	toxiqu	62
+1751	intransigent	intransigeant	intransig	intransig	100
+1752	introvert	introverti	introvert	introvert	100
+1753	intuitionist	intuitionniste	intuitionist	intuition	86
+1754	inuit	inuit	inuit	inuit	100
+1755	invariant	invariant	invari	invari	100
+1756	invent	inventer	invent	invent	100
+1757	invert	inverser	invert	invers	83
+1758	invest	investir	invest	invest	100
+1759	investment	investissement	invest	invest	100
+1760	involvement	participation	involv	particip	14
+1761	iridescent	iridescent	iridesc	iridescent	82
+1762	irrelevant	hors du sujet	irrelev	hors du sujet	20
+1763	irreverent	irrévérencieux	irrever	irrévérenci	44
+1764	irritant	irritant	irrit	irrit	100
+1765	islet	îlot	islet	îlot	44
+1766	isnt	n'est pas	isnt	n'est p	36
+1767	isolationist	isolationniste	isolationist	isolation	86
+1768	it	il	it	il	50
+1769	itchiest	démangeaisons	itchiest	démangeaison	20
+1770	itinerant	itinérant	itiner	itiner	100
+1771	jackboot	jackboot	jackboot	jackboot	100
+1772	jacket	veste	jacket	vest	40
+1773	jackpot	cagnotte	jackpot	cagnott	43
+1774	jaunt	balade	jaunt	balad	20
+1775	jauntiest	le plus fou	jauntiest	le plus fou	20
+1776	jazziest	le plus jazzé	jazziest	le plus jazz	40
+1777	jerkiest	saccadé	jerkiest	saccad	14
+1778	jest	plaisanter	jest	plaisant	33
+1779	jesuit	jésuite	jesuit	jésuit	83
+1780	jet	jet	jet	jet	100
+1781	jilt	plaquer	jilt	plaqu	22
+1782	joint	découper	joint	découp	18
+1783	joist	solive	joist	soliv	40
+1784	jolliest	joyeux	jolliest	joyeux	43
+1785	jolt	secousse	jolt	secouss	18
+1786	jot	iota	jot	iot	67
+1787	journalist	journaliste	journalist	journal	82
+1788	joust	joute	joust	jout	89
+1789	jubilant	radieux	jubil	radieux	17
+1790	judgement	jugement	judgement	jug	50
+1791	judgment	jugement	judgment	jug	55
+1792	juggernaut	mastodonte	juggernaut	mastodont	21
+1793	juiciest	le plus juteux	juiciest	le plus jut	32
+1794	jumpiest	le plus nerveux	jumpiest	le plus nerv	20
+1795	jumpstart	Début de saut	jumpstart	début de saut	27
+1796	jumpsuit	combinaison	jumpsuit	combinaison	21
+1797	junket	voyage	junket	voyag	0
+1798	jurist	juriste	jurist	jurist	100
+1799	just	seulement	just	seul	25
+1800	jut	saillie	jut	saill	0
+1801	karst	karst	karst	karst	100
+1802	keenest	le plus vif	keenest	le plus v	25
+1803	kelt	kelt	kelt	kelt	100
+1804	kent	Kent	kent	kent	100
+1805	kept	conservé	kept	conserv	18
+1806	keyboardist	claviériste	keyboardist	clavier	22
+1807	kickstart	kickstart	kickstart	kickstart	100
+1808	kilovolt	kilovolt	kilovolt	kilovolt	100
+1809	kilowatt	kilowatt	kilowatt	kilowatt	100
+1810	kilt	kilt	kilt	kilt	100
+1811	kindest	le plus gentil	kindest	le plus gentil	10
+1812	kindliest	le plus gentil	kindliest	le plus gentil	17
+1813	kismet	Kismet	kismet	kismet	100
+1814	kit	trousse	kit	trouss	22
+1815	knelt	agenouillé	knelt	agenouill	29
+1816	knesset	knesset	knesset	knesset	100
+1817	knifepoint	couteau	knifepoint	couteau	12
+1818	knight	chevalier	knight	chevali	15
+1819	knit	tricoter	knit	tricot	40
+1820	knockout	Assommer	knockout	assomm	14
+1821	knot	nouer	knot	nou	57
+1822	knottiest	le plus noueux	knottiest	le plus nou	20
+1823	kraft	kraft	kraft	kraft	100
+1824	kuwait	Koweit	kuwait	koweit	67
+1825	lambent	éblouissant	lambent	éblou	17
+1826	lament	complainte	lament	complaint	53
+1827	lamest	le plus maussade	lamest	le plus maussad	29
+1828	lamplight	lampe de poche	lamplight	lampe de poch	45
+1829	lamplit	réverbère	lamplit	réverber	0
+1830	lamppost	lampadaire	lamppost	lampadair	47
+1831	lancelot	Lancelot	lancelot	lancelot	100
+1832	lancet	lancette	lancet	lancet	100
+1833	lankiest	le plus maigre	lankiest	le plus maigr	29
+1834	largest	le plus grand	largest	le plus grand	20
+1835	last	dernier	last	derni	0
+1836	latent	latent	latent	latent	100
+1837	latest	dernier	latest	derni	18
+1838	lawsuit	procès	lawsuit	proces	15
+1839	layabout	mise en page	layabout	mise en pag	11
+1840	layout	agencement	layout	agenc	18
+1841	lazaret	Lazaret	lazaret	lazaret	100
+1842	laziest	le plus paresseux	laziest	le plus paress	38
+1843	leafiest	le plus feuillu	leafiest	le plus feuillu	35
+1844	leaflet	brochure	leaflet	brochur	0
+1845	leakiest	le plus fuyant	leakiest	le plus fui	32
+1846	leanest	le plus maigre	leanest	le plus maigr	30
+1847	leant	penché	leant	pench	40
+1848	leapt	bondit	leapt	bond	0
+1849	learnt	appris	learnt	appris	33
+1850	least	moins	least	moin	0
+1851	leat	leat	leat	leat	100
+1852	left	gauche	left	gauch	0
+1853	leftist	gauchiste	leftist	gauchist	40
+1854	leftmost	le plus à gauche	leftmost	le plus à gauch	26
+1855	lengthiest	le plus long	lengthiest	le plus long	36
+1856	lenient	indulgent	lenient	indulgent	50
+1857	lent	prêté	lent	prêt	25
+1858	lest	de peur	lest	de peur	18
+1859	let	laisser	let	laiss	25
+1860	librettist	librettiste	librettist	libret	75
+1861	lieutenant	lieutenant	lieuten	lieuten	100
+1862	lifebelt	ceinture de sauvetage	lifebelt	ceinture de sauvetag	29
+1863	lifeboat	canot de sauvetage	lifeboat	canot de sauvetag	24
+1864	liferaft	canot de sauvetage	liferaft	canot de sauvetag	24
+1865	lift	ascenseur	lift	ascenseur	0
+1866	ligament	ligament	ligament	lig	55
+1867	light	lumière	light	lumi	44
+1868	lightest	le plus léger	lightest	le plus leg	21
+1869	lightweight	poids léger	lightweight	poids leg	20
+1870	likeliest	le plus probable	likeliest	le plus prob	38
+1871	lilliput	Lilliput	lilliput	lilliput	100
+1872	lilt	cadence	lilt	cadenc	0
+1873	limelight	feux de la rampe	limelight	feux de la ramp	17
+1874	limit	limite	limit	limit	100
+1875	limpet	patelle	limpet	patel	18
+1876	lineout	alignement	lineout	align	50
+1877	linguist	linguiste	linguist	linguist	100
+1878	liniment	liniment	liniment	lin	55
+1879	linnet	linotte	linnet	linott	67
+1880	lint	peluche	lint	peluch	20
+1881	list	liste	list	list	100
+1882	lit	allumé	lit	allum	25
+1883	litigant	plaideur	litig	plaideur	31
+1884	littlest	le plus petit	littlest	le plus pet	42
+1885	liveliest	le plus animé	liveliest	le plus anim	19
+1886	lobbyist	lobbyiste	lobbyist	lobbyist	100
+1887	lobotomist	lobotomiste	lobotomist	lobotom	82
+1888	locket	médaillon	locket	médaillon	27
+1889	lockout	lock-out	lockout	lock-out	93
+1890	locust	criquet	locust	criquet	46
+1891	lodgement	logement	lodgement	log	50
+1892	loft	grenier	loft	greni	0
+1893	loftiest	le plus élevé	loftiest	le plus élev	30
+1894	loneliest	le plus solitaire	loneliest	le plus solitair	40
+1895	longest	le plus long	longest	le plus long	42
+1896	longlost	depuis longtemps	longlost	depuis longtemp	43
+1897	lookout	Attention	lookout	attent	15
+1898	loosest	le plus lâche	loosest	le plus lâch	21
+1899	loot	butin	loot	butin	22
+1900	lost	perdu	lost	perdu	0
+1901	lot	parcelle	lot	parcel	22
+1902	loudest	le plus fort	loudest	le plus fort	32
+1903	lousiest	le plus moche	lousiest	le plus moch	30
+1904	lout	voyou	lout	voyou	44
+1905	loveliest	le plus beau	loveliest	le plus beau	38
+1906	lowest	le plus bas	lowest	le plus b	40
+1907	lowliest	le plus humble	lowliest	le plus humbl	29
+1908	loyalist	loyaliste	loyalist	loyal	77
+1909	lubricant	lubrifiant	lubric	lubrifi	77
+1910	luckiest	le plus chanceux	luckiest	le plus chanc	29
+1911	luminescent	luminescent	luminesc	luminescent	84
+1912	lumpiest	le plus grumeleux	lumpiest	le plus grumel	36
+1913	lushest	le plus luxuriant	lushest	le plus luxuri	29
+1914	lust	luxure	lust	luxur	44
+1915	lustiest	plus vigoureux	lustiest	plus vigour	42
+1916	luxuriant	luxuriant	luxuri	luxuri	100
+1917	lyricist	parolier	lyricist	paroli	29
+1918	lyrist	lyrique	lyrist	lyriqu	67
+1919	machinist	machinist	machinist	machinist	100
+1920	maddest	le plus fou	maddest	le plus fou	22
+1921	maggot	asticot	maggot	asticot	46
+1922	magnet	aimant	magnet	aim	22
+1923	magnificent	magnifique	magnific	magnif	86
+1924	magniloquent	magniloquent	magniloqu	magniloquent	86
+1925	maidservant	servante	maidserv	serv	67
+1926	mailshot	mailing	mailshot	mailing	53
+1927	makeshift	de fortune	makeshift	de fortun	33
+1928	makeweight	faire poids	makeweight	faire poid	30
+1929	maladjustment	inadaptation	maladjust	inadapt	38
+1930	maladroit	maladroit	maladroit	maladroit	100
+1931	malcontent	mécontent	malcont	mécontent	62
+1932	malevolent	malveillant	malevol	malveil	71
+1933	malignant	malin	malign	malin	91
+1934	mallet	maillet	mallet	maillet	92
+1935	malnourishment	malnutrition	malnourish	malnutrit	74
+1936	malt	malt	malt	malt	100
+1937	maltreat	maltraiter	maltreat	maltrait	88
+1938	maltreatment	mauvais traitement	maltreat	mauvais trait	57
+1939	management	la gestion	manag	la gest	33
+1940	manhunt	chasse à l'homme	manhunt	chasse à l'homm	9
+1941	manifest	manifeste	manifest	manifest	100
+1942	manliest	le plus viril	manliest	le plus viril	19
+1943	mannerist	maniériste	mannerist	manier	67
+1944	manservant	valet	manserv	valet	33
+1945	manuscript	manuscrit	manuscript	manuscr	82
+1946	maoist	maoïste	maoist	maoïst	83
+1947	market	marché	market	march	55
+1948	marmoset	ouistiti	marmoset	ouistit	40
+1949	marmot	marmotte	marmot	marmott	92
+1950	marshiest	le plus marécageux	marshiest	le plus marécag	25
+1951	mart	marché	mart	march	67
+1952	martinet	Martinet	martinet	martinet	100
+1953	marxist	marxiste	marxist	marxist	100
+1954	mascot	mascotte	mascot	mascott	92
+1955	masochist	masochiste	masochist	masoch	80
+1956	mast	mât	mast	mât	57
+1957	mat	tapis	mat	tapis	25
+1958	materialist	matérialiste	materialist	matérial	74
+1959	matt	mat	matt	mat	86
+1960	matteroffact	En fait	matteroffact	en fait	42
+1961	maziest	maziest	maziest	maziest	100
+1962	meanest	méchant	meanest	mech	36
+1963	meant	signifiait	meant	signifi	17
+1964	measurement	la mesure	measur	la mesur	71
+1965	meat	Viande	meat	viand	22
+1966	meatiest	le plus charnu	meatiest	le plus charnu	18
+1967	mechanist	mécaniste	mechanist	mécan	57
+1968	medallist	médaillé	medallist	médaill	62
+1969	medievalist	médiéviste	medievalist	médiev	59
+1970	meekest	le plus doux	meekest	le plus doux	21
+1971	meet	rencontrer	meet	rencontr	33
+1972	megavolt	mégavolt	megavolt	mégavolt	88
+1973	megawatt	mégawatt	megawatt	mégawatt	88
+1974	melt	faire fondre	melt	faire fondr	13
+1975	mendicant	mendiant	mendic	mendi	91
+1976	merchant	marchande	merchant	marchand	75
+1977	merest	le plus simple	merest	le plus simpl	11
+1978	merit	mérite	merit	mérit	80
+1979	merriest	joyeux	merriest	joyeux	14
+1980	merriment	gaieté	merriment	gaiet	29
+1981	messiest	le plus désordonné	messiest	le plus désordon	25
+1982	met	rencontré	met	rencontr	36
+1983	metallurgist	métallurgiste	metallurgist	métallurg	76
+1984	meteorologist	météorologue	meteorologist	météorologu	67
+1985	microbiologist	microbiologiste	microbiologist	microbiolog	88
+1986	microdot	microdot	microdot	microdot	100
+1987	microlight	ULM	microlight	ulm	15
+1988	microscopist	microscopiste	microscopist	microscop	86
+1989	middleweight	poids moyen	middleweight	poids moyen	26
+1990	midflight	en plein vol	midflight	en plein vol	19
+1991	midget	nain	midget	nain	20
+1992	midmost	au milieu	midmost	au milieu	25
+1993	midnight	minuit	midnight	minuit	71
+1994	midst	milieu	midst	milieu	36
+1995	midwicket	Midwicket	midwicket	midwicket	100
+1996	might	force	might	forc	0
+1997	mightiest	le plus puissant	mightiest	le plus puiss	18
+1998	migrant	migrant	migrant	migr	73
+1999	mildest	le plus doux	mildest	le plus doux	21
+2000	milepost	borne kilométrique	milepost	borne kilometr	36
+2001	militant	militant	milit	milit	100
+2002	militarist	militariste	militarist	militar	82
+2003	milkiest	le plus laiteux	milkiest	le plus lait	20
+2004	millet	Millet	millet	millet	100
+2005	milt	laitance	milt	laitanc	36
+2006	minaret	minaret	minaret	minaret	100
+2007	mincemeat	Viande hachée	mincemeat	viande hach	30
+2008	mindset	mentalité	mindset	mental	46
+2009	mineshaft	puits de mine	mineshaft	puits de min	29
+2010	miniaturist	miniaturiste	miniaturist	miniatur	84
+2011	minimalist	minimaliste	minimalist	minimal	82
+2012	miniskirt	mini jupe	miniskirt	mini jup	47
+2013	mint	menthe	mint	menth	67
+2014	mintiest	menthe	mintiest	menth	46
+2015	minuet	menuet	minuet	menuet	83
+2016	minutest	le moindre	minutest	le moindr	35
+2017	misalignment	désalignement	misalign	désalign	75
+2018	miscast	mal acheminé	miscast	mal achemin	22
+2019	misconduct	inconduite	misconduct	inconduit	74
+2020	miscount	mauvais compte	miscount	mauvais compt	57
+2021	miscreant	scélérat	miscreant	scélérat	59
+2022	misdirect	mal orienté	misdirect	mal orient	42
+2023	misfit	inadapté	misfit	inadapt	31
+2024	misgovernment	mauvaise administration	misgovern	mauvaise administr	30
+2025	misinterpret	mal interpréter	misinterpret	mal interpret	80
+2026	misjudgement	mauvaise évaluation	misjudg	mauvaise évalu	38
+2027	misjudgment	mauvaise évaluation	misjudg	mauvaise évalu	38
+2028	mismanagement	mauvaise gestion	mismanag	mauvaise gest	38
+2029	misogynist	misogyne	misogynist	misogyn	82
+2030	misplacement	égarement	misplac	égar	18
+2031	misprint	coquille	misprint	coquill	13
+2032	misrepresent	dénaturer	misrepres	dénatur	12
+2033	misspelt	mal orthographié	misspelt	mal orthographi	17
+2034	misspent	mal dépensé	misspent	mal dépens	44
+2035	misstatement	déclaration inexacte	misstat	déclaration inexact	15
+2036	mist	brume	mist	brum	25
+2037	mistiest	le plus brumeux	mistiest	le plus brum	10
+2038	mistreat	maltraiter	mistreat	maltrait	62
+2039	mistreatment	maltraitance	mistreat	maltrait	62
+2040	mistrust	méfiance	mistrust	méfianc	27
+2041	mitt	gant	mitt	gant	25
+2042	moat	fossé	moat	foss	25
+2043	modernist	moderniste	modernist	modern	80
+2044	modest	modeste	modest	modest	100
+2045	moist	humide	moist	humid	40
+2046	molest	molester	molest	molest	100
+2047	moment	moment	moment	moment	100
+2048	monarchist	monarchiste	monarchist	monarch	82
+2049	monetarist	monétariste	monetarist	monétar	71
+2050	monopolist	monopoliste	monopolist	monopol	82
+2051	monotheist	monothéiste	monotheist	monothé	71
+2052	monument	monument	monument	monu	67
+2053	moodiest	le plus maussade	moodiest	le plus maussad	17
+2054	moonlight	clair de lune	moonlight	clair de lun	10
+2055	moonlit	éclairé par la lune	moonlit	éclairé par la lun	8
+2056	moonshot	moonshot	moonshot	moonshot	100
+2057	moot	discutable	moot	discut	20
+2058	moralist	moraliste	moralist	moral	77
+2059	mordant	mordant	mordant	mord	73
+2060	mort	mort	mort	mort	100
+2061	mossiest	le plus moussu	mossiest	le plus moussu	36
+2062	most	les plus	most	les plus	17
+2063	motet	motet	motet	motet	100
+2064	motliest	le plus motivé	motliest	le plus motiv	38
+2065	motorcyclist	motocycliste	motorcyclist	motocycl	80
+2066	motorist	automobiliste	motorist	automobil	35
+2067	mouldiest	le plus moisi	mouldiest	le plus mois	38
+2068	moult	mue	moult	mu	57
+2069	mount	monter	mount	mont	89
+2070	movement	mouvement	movement	mouv	50
+2071	mozart	Mozart	mozart	mozart	100
+2072	muddiest	le plus boueux	muddiest	le plus bou	21
+2073	mullet	mulet	mullet	mulet	91
+2074	munificent	munificent	munific	munificent	82
+2075	murkiest	le plus sombre	murkiest	le plus sombr	19
+2076	muscat	muscat	muscat	muscat	100
+2077	musicologist	musicologue	musicologist	musicologu	82
+2078	musket	mousquet	musket	mousquet	71
+2079	muskiest	le plus musclé	muskiest	le plus muscl	29
+2080	must	doit	must	doit	25
+2081	mustiest	moisi	mustiest	mois	33
+2082	mutant	mutant	mutant	mut	67
+2083	mutt	cabot	mutt	cabot	22
+2084	narrowest	le plus étroit	narrowest	le plus étroit	26
+2085	nascent	naissant	nascent	naiss	50
+2086	nastiest	le plus méchant	nastiest	le plus mech	20
+2087	nationalist	nationaliste	nationalist	national	84
+2088	naturalist	naturaliste	naturalist	natural	82
+2089	naturist	naturiste	naturist	natur	77
+2090	naught	néant	naught	né	25
+2091	naughtiest	le plus vilain	naughtiest	le plus vilain	8
+2092	nearest	la plus proche	nearest	la plus proch	20
+2093	neat	soigné	neat	soign	22
+2094	neatest	le plus soigné	neatest	le plus soign	10
+2095	neediest	le plus nécessiteux	neediest	le plus nécessit	33
+2096	needlecraft	aiguille	needlecraft	aiguill	11
+2097	neglect	négligence	neglect	négligent	62
+2098	negligent	négligent	neglig	négligent	67
+2099	nest	nid	nest	nid	29
+2100	net	rapporter	net	rapport	20
+2101	nethermost	au plus bas	nethermost	au plus b	11
+2102	nett	net	nett	net	86
+2103	neurologist	neurologue	neurologist	neurologu	80
+2104	neutralist	neutraliste	neutralist	neutral	82
+2105	newest	plus récent	newest	plus récent	24
+2106	newsagent	marchand de journaux	newsag	marchand de journal	24
+2107	newscast	nouvelles	newscast	nouvel	29
+2108	newsprint	papier journal	newsprint	papier journal	9
+2109	newt	triton	newt	triton	20
+2110	next	suivant	next	suiv	0
+2111	nicest	le plus gentil	nicest	le plus gentil	20
+2112	night	nuit	night	nuit	67
+2113	nihilist	nihiliste	nihilist	nihil	77
+2114	nit	lente	nit	lent	57
+2115	nitwit	crétin	nitwit	crétin	17
+2116	noblest	le plus noble	noblest	le plus nobl	42
+2117	noisiest	le plus bruyant	noisiest	le plus brui	10
+2118	nonchalant	nonchalant	nonchal	nonchal	100
+2119	nonconformist	non-conformiste	nonconformist	non-conform	83
+2120	nonevent	aucun événement	nonev	aucun éven	27
+2121	nonexistent	inexistant	nonexist	inexist	80
+2122	nonpayment	non-paiement	nonpay	non-pai	77
+2123	nonviolent	non violent	nonviol	non violent	78
+2124	northernmost	le plus au nord	northernmost	le plus au nord	22
+2125	nosiest	curieux	nosiest	curieux	29
+2126	not	ne pas	not	ne p	29
+2127	nougat	nougat	nougat	nougat	100
+2128	nought	néant	nought	né	25
+2129	nourishment	nourriture	nourish	nourritur	62
+2130	novelist	romancier	novelist	romanci	27
+2131	nudist	nudiste	nudist	nudist	100
+2132	nugget	pépite	nugget	pépit	18
+2133	numerologist	numérologue	numerologist	numérologu	73
+2134	nut	noix	nut	noix	29
+2135	nutrient	nutritif	nutrient	nutrit	86
+2136	nutriment	substance nutritive	nutriment	substance nutrit	48
+2137	nutritionist	nutritionniste	nutritionist	nutrition	86
+2138	oast	oast	oast	oast	100
+2139	oat	avoine	oat	avoin	25
+2140	obedient	obéissant	obedi	obéiss	55
+2141	object	objet	object	objet	91
+2142	oboist	hautboïste	oboist	hautboïst	53
+2143	obscurantist	obscurantiste	obscurantist	obscurant	86
+2144	obscurest	le plus obscur	obscurest	le plus obscur	52
+2145	observant	observateur	observ	observ	100
+2146	obsolescent	obsolescent	obsolesc	obsolescent	84
+2147	obstruct	obstruer	obstruct	obstru	86
+2148	occident	Occident	occid	occident	77
+2149	occult	occulte	occult	occult	100
+2150	occupant	occupant	occup	occup	100
+2151	ocelot	ocelot	ocelot	ocelot	100
+2152	octant	octant	octant	octant	100
+2153	octet	octuor	octet	octuor	55
+2154	oculist	oculiste	oculist	ocul	73
+2155	oddest	le plus étrange	oddest	le plus étrang	30
+2156	oddment	fin de série	oddment	fin de ser	24
+2157	offbeat	décalé	offbeat	décal	17
+2158	offcut	coupure	offcut	coupur	33
+2159	offprint	tiré à part	offprint	tiré à part	32
+2160	offset	décalage	offset	décalag	0
+2161	offshoot	ramification	offshoot	ramif	15
+2162	oft	maintes fois	oft	maintes fois	13
+2163	oiliest	le plus huileux	oiliest	le plus huil	21
+2164	ointment	pommade	ointment	pommad	29
+2165	oldest	le plus ancien	oldest	le plus ancien	30
+2166	omit	omettre	omit	omettr	60
+2167	omnipotent	omnipotent	omnipot	omnipotent	82
+2168	omnipresent	omniprésent	omnipres	omniprésent	74
+2169	omniscient	omniscient	omnisci	omniscient	82
+2170	onset	début	onset	début	20
+2171	onslaught	assaut	onslaught	assaut	53
+2172	opalescent	opalescent	opalesc	opalescent	82
+2173	openheart	coeur ouvert	openheart	coeur ouvert	48
+2174	ophthalmologist	ophtalmologiste	ophthalmologist	ophtalmolog	85
+2175	opponent	adversaire	oppon	adversair	0
+2176	opportunist	opportuniste	opportunist	opportun	84
+2177	opt	opter	opt	opter	75
+2178	optimist	optimiste	optimist	optim	77
+2179	opulent	opulent	opul	opulent	73
+2180	orbit	orbite	orbit	orbit	100
+2181	organist	organiste	organist	organ	77
+2182	orient	Orient	orient	orient	100
+2183	ornament	ornement	ornament	ornement	88
+2184	ornithologist	ornithologue	ornithologist	ornithologu	83
+2185	orthodontist	orthodontiste	orthodontist	orthodont	86
+2186	ought	devrait	ought	devr	0
+2187	oust	évincer	oust	évinc	0
+2188	out	en dehors	out	en dehor	18
+2189	outburst	explosion	outburst	explos	29
+2190	outcast	banni	outcast	bann	18
+2191	outermost	à l'extérieur	outermost	à l'extérieur	18
+2192	outfit	équiper	outfit	équip	36
+2193	outlast	survivre à	outlast	survivre à	12
+2194	outlet	sortie	outlet	sort	40
+2195	outmost	le plus	outmost	le plus	29
+2196	outpatient	ambulatoire	outpati	ambulatoir	47
+2197	outplacement	outplacement	outplac	outplac	100
+2198	outpost	avant-poste	outpost	avant-post	59
+2199	output	production	output	product	46
+2200	outright	carrément	outright	carr	17
+2201	outset	début	outset	début	36
+2202	outsmart	déjouer	outsmart	déjou	31
+2203	outwit	déjouer	outwit	déjou	36
+2204	overact	charger son rôle	overact	charger son rôl	18
+2205	overcast	couvert	overcast	couvert	67
+2206	overcoat	pardessus	overcoat	pardessus	12
+2207	overcommitment	engagement excessif	overcommit	engagement excess	15
+2208	overconfident	trop confiant	overconfid	trop confi	60
+2209	overdraft	découvert	overdraft	découvert	56
+2210	overeat	trop manger	overeat	trop mang	25
+2211	overheat	surchauffer	overheat	surchauff	35
+2212	overindulgent	exagéré	overindulg	exager	25
+2213	overnight	pendant la nuit	overnight	pendant la nuit	33
+2214	overpayment	trop-payé	overpay	trop-pai	40
+2215	overprint	surcharge	overprint	surcharg	24
+2216	overreact	réagir de façon excessive	overreact	réagir de façon excess	19
+2217	overshoot	dépasser	overshoot	dépass	13
+2218	overshot	dépassé	overshot	dépass	14
+2219	oversight	surveillance	oversight	surveil	38
+2220	overslept	trop dormi	overslept	trop dorm	22
+2221	overspent	trop dépensé	oversp	trop dépens	35
+2222	overstatement	exagération	overstat	exager	29
+2223	overt	manifeste	overt	manifest	31
+2224	overweight	en surpoids	overweight	en surpoid	20
+2225	overwrought	excédé	overwrought	exced	12
+2226	oviduct	oviducte	oviduct	oviduct	100
+2227	owlet	jeune hibou	owlet	jeune hibou	12
+2228	oxcart	char à bœufs	oxcart	char à bœuf	35
+2229	oxidant	oxydant	oxid	oxyd	75
+2230	pacifist	pacifiste	pacifist	pacif	77
+2231	packet	paquet	packet	paquet	67
+2232	pact	pacte	pact	pact	100
+2233	pageant	reconstitution historique	pageant	reconstitution histor	21
+2234	paint	Peinture	paint	peintur	67
+2235	palaeontologist	paléontologiste	palaeontologist	paléontolog	77
+2236	palest	le plus pâle	palest	le plus pâl	35
+2237	palimpsest	palimpseste	palimpsest	palimpsest	100
+2238	pallet	palette	pallet	palet	91
+2239	palmist	chiromancien	palmist	chiromancien	21
+2240	paltriest	paltriest	paltriest	paltriest	100
+2241	pamphlet	brochure	pamphlet	brochur	13
+2242	panellist	panéliste	panellist	panel	71
+2243	pant	haleter	pant	halet	44
+2244	pantheist	panthéiste	pantheist	panthéist	89
+2245	paperweight	presse-papiers	paperweight	presse-papi	36
+2246	papist	papiste	papist	papist	100
+2247	parachutist	parachutiste	parachutist	parachut	84
+2248	parakeet	perruche	parakeet	perruch	27
+2249	paramount	primordial	paramount	primordial	42
+2250	parapet	parapet	parapet	parapet	100
+2251	parapsychologist	parapsychologue	parapsychologist	parapsychologu	87
+2252	paraquat	paraquat	paraquat	paraquat	100
+2253	parasitologist	parasitologue	parasitologist	parasitologu	85
+2254	parchment	parchemin	parchment	parchemin	78
+2255	parent	parent	parent	parent	100
+2256	parfait	parfait	parfait	parf	73
+2257	parliament	parlement	parliament	parl	57
+2258	parodist	parodiste	parodist	parod	77
+2259	parquet	parquet	parquet	parquet	100
+2260	parrot	perroquet	parrot	perroquet	67
+2261	part	partie	part	part	100
+2262	participant	participant	particip	particip	100
+2263	passant	passant	passant	pass	73
+2264	passport	passeport	passport	passeport	94
+2265	past	passé	past	pass	75
+2266	pat	tapoter	pat	tapot	50
+2267	patchiest	le plus irrégulier	patchiest	le plus irréguli	16
+2268	patent	brevet	patent	brevet	17
+2269	paternalist	paternaliste	paternalist	paternal	84
+2270	pathologist	pathologiste	pathologist	patholog	84
+2271	patient	patient	patient	patient	100
+2272	patriot	patriote	patriot	patriot	100
+2273	pavement	chaussée	pavement	chauss	14
+2274	payment	Paiement	payment	pai	40
+2275	peachiest	le plus pêcheur	peachiest	le plus pêcheur	33
+2276	peanut	arachide	peanut	arachid	15
+2277	peasant	paysan	peasant	paysan	77
+2278	peat	tourbe	peat	tourb	22
+2279	pedant	pédant	pedant	ped	67
+2280	pediment	fronton	pediment	fronton	27
+2281	pellet	pastille	pellet	pastill	46
+2282	pelmet	lambrequin	pelmet	lambrequin	12
+2283	pelt	peau	pelt	peau	50
+2284	penchant	penchant	penchant	pench	77
+2285	pendant	pendentif	pendant	pendent	86
+2286	penitent	pénitent	penit	pénitent	62
+2287	pennant	fanion	pennant	fanion	31
+2288	pent	pent	pent	pent	100
+2289	peppermint	menthe poivrée	peppermint	menthe poivr	27
+2290	percent	pour cent	percent	pour cent	75
+2291	percept	percevoir	percept	percevoir	62
+2292	percipient	percepteur	percipi	percepteur	59
+2293	percussionist	percussionniste	percussionist	percussion	87
+2294	perfect	parfait	perfect	parf	55
+2295	perfectionist	perfectionniste	perfectionist	perfection	87
+2296	perkiest	guilleret	perkiest	guilleret	47
+2297	permafrost	pergélisol	permafrost	pergélisol	40
+2298	permanent	permanent	perman	permanent	80
+2299	permit	permis	permit	perm	80
+2300	persist	persister	persist	persist	100
+2301	persistent	persistant	persist	persist	100
+2302	pert	pert	pert	pert	100
+2303	pertinent	pertinent	pertin	pertinent	80
+2304	pervert	pervertir	pervert	pervert	100
+2305	pessimist	pessimiste	pessimist	pessim	80
+2306	pest	ravageur	pest	ravageur	17
+2307	pestilent	pestilentiel	pestil	pestilentiel	67
+2308	pet	animal de compagnie	pet	animal de compagn	10
+2309	petit	petit	petit	pet	75
+2310	petticoat	jupon	petticoat	jupon	29
+2311	pettiest	le plus mesquin	pettiest	le plus mesquin	26
+2312	petulant	irritable	petul	irrit	20
+2313	pharmacist	pharmacien	pharmacist	pharmacien	80
+2314	pharmacologist	pharmacologue	pharmacologist	pharmacologu	85
+2315	pheasant	faisan	pheasant	faisan	57
+2316	philanthropist	philanthrope	philanthropist	philanthrop	88
+2317	philologist	philologue	philologist	philologu	80
+2318	phoneticist	phonéticien	phoneticist	phonéticien	73
+2319	phosphorescent	phosphorescent	phosphoresc	phosphorescent	88
+2320	photostat	photostat	photostat	photostat	100
+2321	physicist	physicien	physicist	physicien	78
+2322	physiologist	physiologiste	physiologist	physiolog	86
+2323	physiotherapist	physiothérapeute	physiotherapist	physiothérapeut	80
+2324	pianist	pianiste	pianist	pianist	100
+2325	picket	piquet	picket	piquet	67
+2326	pickpocket	pickpocket	pickpocket	pickpocket	100
+2327	piglet	porcelet	piglet	porcelet	57
+2328	pigment	pigment	pigment	pigment	100
+2329	pilot	pilote	pilot	pilot	100
+2330	pinpoint	repérer	pinpoint	reper	15
+2331	pint	pinte	pint	pint	100
+2332	pipit	pipit	pipit	pip	75
+2333	piquant	piquant	piquant	piqu	73
+2334	pit	fosse	pit	foss	0
+2335	pithiest	le plus lapidaire	pithiest	le plus lapidair	25
+2336	pivot	pivot	pivot	pivot	100
+2337	placement	placement	placement	plac	62
+2338	plagiarist	plagiaire	plagiarist	plagiair	78
+2339	plainest	le plus simple	plainest	le plus simpl	29
+2340	plaint	plainte	plaint	plaint	100
+2341	plait	tresser	plait	tress	20
+2342	planet	planète	planet	planet	100
+2343	plangent	retentissant	plangent	retent	43
+2344	plant	usine	plant	usin	22
+2345	platelet	plaquette	platelet	plaquet	67
+2346	playwright	dramaturge	playwright	dramaturg	32
+2347	pleasant	agréable	pleasant	agréabl	13
+2348	pleasantest	le plus agréable	pleasantest	le plus agré	26
+2349	pleat	pli	pleat	pli	50
+2350	pliant	souple	pliant	soupl	36
+2351	plight	situation critique	plight	situation crit	20
+2352	plot	terrain	plot	terrain	18
+2353	pluckiest	le plus dur	pluckiest	le plus dur	40
+2354	plummet	plomb	plummet	plomb	50
+2355	pluperfect	parfait	pluperfect	parf	43
+2356	pluralist	pluraliste	pluralist	plural	80
+2357	pocket	poche	pocket	poch	60
+2358	poet	poète	poet	poet	100
+2359	poignant	poignant	poignant	poign	77
+2360	point	point	point	point	100
+2361	pointillist	pointilliste	pointillist	pointill	84
+2362	polecat	putois	polecat	putois	31
+2363	polemicist	polémiste	polemicist	polem	67
+2364	politest	le plus poli	politest	le plus pol	32
+2365	pollutant	polluant	pollut	pollu	91
+2366	poltergeist	esprit frappeur	poltergeist	esprit frappeur	31
+2367	polyglot	polyglotte	polyglot	polyglott	94
+2368	polytheist	polythéiste	polytheist	polythé	71
+2369	poorest	plus pauvre	poorest	plus pauvr	24
+2370	poppet	poupée	poppet	poup	60
+2371	populist	populiste	populist	popul	77
+2372	port	Port	port	port	100
+2373	portent	présage	portent	présag	31
+2374	portrait	portrait	portrait	portr	77
+2375	portraitist	portraitiste	portraitist	portrait	84
+2376	posit	postuler	posit	postul	73
+2377	positivist	positiviste	positivist	positiv	82
+2378	post	Publier	post	publi	22
+2379	postmodernist	postmoderne	postmodernist	postmodern	87
+2380	postponement	report	postpon	report	46
+2381	postscript	post-scriptum	postscript	post-scriptum	87
+2382	pot	pot	pot	pot	100
+2383	potent	puissant	potent	puiss	18
+2384	potshot	Potshot	potshot	potshot	100
+2385	poult	dindonneau	poult	dindonneau	27
+2386	pout	moue	pout	mou	57
+2387	powerboat	bateau à moteur	powerboat	bateau à moteur	25
+2388	pragmatist	pragmatiste	pragmatist	pragmat	82
+2389	prat	imbécile	prat	imbécil	0
+2390	preadolescent	préadolescent	preadolesc	préadolescent	78
+2391	precedent	précédent	preced	précédent	40
+2392	precept	précepte	precept	précept	86
+2393	precinct	enceinte	precinct	enceint	67
+2394	predicament	situation difficile	predica	situation difficil	24
+2395	predict	prédire	predict	prédir	62
+2396	predominant	prédominant	predomin	prédomin	88
+2397	prefect	préfet	prefect	préfet	77
+2398	preferment	préférence	prefer	préférent	40
+2399	pregnant	Enceinte	pregnant	enceint	53
+2400	preheat	Préchauffer	preheat	préchauff	50
+2401	prepayment	prépaiement	prepay	prépai	67
+2402	preponderant	prépondérant	preponder	préponder	89
+2403	prescriptivist	prescriptiviste	prescriptivist	prescriptiv	88
+2404	preselect	présélectionner	preselect	présélection	67
+2405	present	cadeau	present	cadeau	15
+2406	presentiment	pressentiment	presenti	pressent	88
+2407	preset	préréglé	preset	préregl	46
+2408	president	Président	presid	président	67
+2409	pretext	prétexte	pretext	prétext	86
+2410	pretreatment	prétraitement	pretreat	prétrait	75
+2411	prettiest	plus jolie	prettiest	plus jol	24
+2412	prevalent	fréquent	preval	fréquent	29
+2413	prevent	empêcher	prevent	empêch	15
+2414	prickliest	le plus piquant	prickliest	le plus piqu	18
+2415	priest	prêtre	priest	prêtr	55
+2416	print	impression	print	impress	33
+2417	printout	imprimer	printout	imprim	43
+2418	privet	troène	privet	troen	36
+2419	probabilist	probabiliste	probabilist	probabil	84
+2420	procurement	approvisionnement	procur	approvision	35
+2421	product	produit	product	produit	86
+2422	proficient	compétent	profici	compétent	12
+2423	profit	profit	profit	prof	80
+2424	profoundest	le plus profond	profoundest	le plus profond	54
+2425	prohibit	interdire	prohibit	interdir	25
+2426	prohibitionist	prohibitionniste	prohibitionist	prohibition	88
+2427	project	projet	project	projet	92
+2428	projectionist	projectionniste	projectionist	projection	87
+2429	proletariat	prolétariat	proletariat	prolétariat	91
+2430	prominent	important	promin	import	33
+2431	prompt	rapide	prompt	rapid	18
+2432	pronouncement	déclaration	pronounc	déclar	14
+2433	propagandist	propagandiste	propagandist	propagand	86
+2434	propellant	propergol	propel	propergol	80
+2435	prophet	prophète	prophet	prophet	100
+2436	proponent	partisan	propon	partisan	43
+2437	prosaist	prosateur	prosaist	prosateur	71
+2438	prospect	perspective	prospect	perspect	88
+2439	protagonist	protagoniste	protagonist	protagon	84
+2440	protect	protéger	protect	proteg	77
+2441	protectionist	protectionniste	protectionist	protection	87
+2442	protest	manifestation	protest	manifest	40
+2443	protestant	protestant	protest	protest	100
+2444	protract	prolonger	protract	prolong	40
+2445	proudest	le plus fier	proudest	le plus fi	33
+2446	provident	prévoyant	provid	prévoi	67
+2447	provost	prévôt	provost	prévôt	62
+2448	prudent	prudent	prudent	prudent	100
+2449	prurient	lascif	prurient	lascif	14
+2450	psalmist	psalmiste	psalmist	psalmist	100
+2451	psephologist	psephologue	psephologist	psephologu	82
+2452	psychiatrist	psychiatre	psychiatrist	psychiatr	86
+2453	psychoanalyst	psychanalyste	psychoanalyst	psychanalyst	96
+2454	psychologist	psychologue	psychologist	psychologu	82
+2455	psychotherapist	psychothérapeute	psychotherapist	psychothérapeut	80
+2456	pubescent	pubescent	pubesc	pubescent	80
+2457	publicist	journaliste	publicist	journal	25
+2458	pugilist	pugiliste	pugilist	pugil	77
+2459	puissant	puissant	puissant	puiss	77
+2460	pulpit	chaire	pulpit	chair	18
+2461	pundit	expert	pundit	expert	33
+2462	pungent	âcre	pungent	âcre	18
+2463	puniest	le plus chétif	puniest	le plus chet	42
+2464	punishment	Châtiment	punish	chât	20
+2465	punnet	petit panier	punnet	petit pani	38
+2466	punt	coup de volée	punt	coup de vol	13
+2467	puppet	fantoche	puppet	fantoch	15
+2468	purest	le plus pur	purest	le plus pur	35
+2469	purist	puriste	purist	purist	100
+2470	purport	portée	purport	port	73
+2471	pursuant	conformément	pursuant	conform	13
+2472	pursuit	poursuite	pursuit	poursuit	93
+2473	pussycat	minou	pussycat	minou	15
+2474	put	mettre	put	mettr	25
+2475	putput	putt	putput	putt	80
+2476	putrescent	putrescent	putresc	putrescent	82
+2477	putt	putt	putt	putt	100
+2478	puzzlement	perplexité	puzzlement	perplex	35
+2479	quadrant	quadrant	quadrant	quadr	77
+2480	quaint	pittoresque	quaint	pittoresqu	25
+2481	quart	litre	quart	litr	22
+2482	quartet	quatuor	quartet	quatuor	57
+2483	queerest	le plus étrange	queerest	le plus étrang	18
+2484	quest	quête	quest	quêt	67
+2485	quickest	le plus rapide	quickest	le plus rapid	19
+2486	quiescent	tranquille	quiescent	tranquill	33
+2487	quiet	calmer	quiet	calm	0
+2488	quietest	le plus silencieux	quietest	le plus silenci	26
+2489	quilt	courtepointe	quilt	courtepoint	38
+2490	quintet	quintette	quintet	quintet	100
+2491	quirkiest	le plus bizarre	quirkiest	le plus bizarr	26
+2492	quit	quitter	quit	quitt	89
+2493	quotient	quotient	quotient	quotient	100
+2494	rabat	Rabat	rabat	rabat	100
+2495	rabbit	lapin	rabbit	lapin	36
+2496	racialist	raciste	racialist	racist	80
+2497	raciest	le plus racé	raciest	le plus rac	33
+2498	racist	raciste	racist	racist	100
+2499	racket	raquette	racket	raquet	67
+2500	racquet	raquette	racquet	raquet	92
+2501	radiant	radiant	radiant	radi	73
+2502	radiologist	radiologue	radiologist	radiologu	80
+2503	raft	radeau	raft	radeau	40
+2504	ragout	ragoût	ragout	ragoût	83
+2505	ragwort	jacobée	ragwort	jacob	33
+2506	raiment	vêtements	raiment	vêt	20
+2507	raincoat	imperméable	raincoat	impermé	13
+2508	rainforest	forêt tropicale	rainforest	forêt tropical	33
+2509	rainiest	le plus pluvieux	rainiest	le plus pluvi	10
+2510	rainout	pluie	rainout	plui	18
+2511	rainswept	balayé par la pluie	rainswept	balayé par la plui	22
+2512	rampant	rampant	rampant	ramp	73
+2513	rampart	rempart	rampart	rempart	86
+2514	rankest	le plus classé	rankest	le plus class	20
+2515	rant	déclamer	rant	déclam	20
+2516	rapist	violeur	rapist	violeur	15
+2517	rapport	rapport	rapport	rapport	100
+2518	rapprochement	rapprochement	rapproch	rapproch	100
+2519	rapt	ravi	rapt	rav	57
+2520	rarebit	rarebit	rarebit	rareb	83
+2521	rarest	le plus rare	rarest	le plus rar	35
+2522	rashest	imprudent	rashest	imprudent	38
+2523	rat	rat	rat	rat	100
+2524	rationalist	rationaliste	rationalist	rational	84
+2525	rawest	le plus brut	rawest	le plus brut	22
+2526	reaccept	réaccepter	reaccept	réaccept	88
+2527	react	réagir	react	réag	44
+2528	reactant	réactif	reactant	réactif	53
+2529	readapt	réadapter	readapt	réadapt	86
+2530	readiest	le plus prêt	readiest	le plus prêt	20
+2531	readjust	réadapter	readjust	réadapt	53
+2532	readjustment	réajustement	readjust	réajust	80
+2533	readmit	réadmettre	readmit	réadmettr	62
+2534	reagent	réactif	reagent	réactif	43
+2535	realignment	réalignement	realign	réalign	86
+2536	realist	réaliste	realist	réalist	86
+2537	reappoint	renommer	reappoint	renomm	40
+2538	reappointment	renouvellement de nomination	reappoint	renouvellement de nomin	31
+2539	rearmament	réarmement	rearmament	réarm	53
+2540	rearrangement	réarrangement	rearrang	réarrang	88
+2541	reassert	réaffirmer	reassert	réaffirm	38
+2542	reassessment	réévaluation	reassess	réévalu	27
+2543	reassignment	réaffectation	reassign	réaffect	25
+2544	reattachment	refixation	reattach	refix	31
+2545	reattempt	réessayer	reattempt	réessai	38
+2546	reboot	redémarrer	reboot	redémarr	29
+2547	rebuilt	reconstruit	rebuilt	reconstruit	56
+2548	rebut	réfuter	rebut	réfut	60
+2549	recalcitrant	récalcitrant	recalcitr	récalcitr	89
+2550	recant	rétracter	recant	rétract	46
+2551	recast	refonte	recast	refont	50
+2552	receipt	le reçu	receipt	le reçu	29
+2553	recent	récent	recent	récent	83
+2554	receptionist	réceptionniste	receptionist	réception	76
+2555	recidivist	récidiviste	recidivist	récidiv	71
+2556	recipient	destinataire	recipi	destinatair	12
+2557	recollect	se rappeler	recollect	se rappel	33
+2558	recombinant	recombinant	recombin	recombin	100
+2559	recommencement	recommencement	recommenc	recommenc	100
+2560	reconcilement	réconciliation	reconcil	réconcili	82
+2561	reconnect	se reconnecter	reconnect	se reconnect	86
+2562	reconquest	reconquête	reconquest	reconquêt	84
+2563	reconstruct	reconstruire	reconstruct	reconstruir	82
+2564	reconsult	reconsulter	reconsult	reconsult	100
+2565	reconvert	reconvertir	reconvert	reconvert	100
+2566	recordist	enregistreur	recordist	enregistreur	48
+2567	recount	raconter	recount	racont	77
+2568	recruit	recruter	recruit	recrut	92
+2569	recruitment	recrutement	recruit	recrut	92
+2570	recumbent	couché	recumb	couch	36
+2571	recurrent	récurrent	recurr	récurrent	67
+2572	redbreast	rousse	redbreast	rouss	29
+2573	reddest	le plus rouge	reddest	le plus roug	11
+2574	redeployment	redéploiement	redeploy	redéploi	75
+2575	redevelopment	réaménagement	redevelop	réaménag	12
+2576	redirect	réorienter	redirect	réorient	38
+2577	redolent	parfumé	redol	parfum	18
+2578	redoubt	redoute	redoubt	redout	92
+2579	redraft	reformuler	redraft	reformul	40
+2580	redshift	décalage vers le rouge	redshift	décalage vers le roug	14
+2581	reductionist	réductionniste	reductionist	réduction	76
+2582	redundant	redondant	redund	redond	83
+2583	referent	référent	refer	référent	31
+2584	refinement	raffinement	refin	raffin	73
+2585	refit	remonter	refit	remont	55
+2586	reflect	réfléchir	reflect	réflech	71
+2587	refloat	renflouer	refloat	renflou	71
+2588	reformat	reformater	reformat	reformat	100
+2589	reformist	réformiste	reformist	réform	67
+2590	refract	réfracter	refract	réfract	86
+2591	refreshment	rafraîchissement	refresh	rafraîch	53
+2592	refrigerant	réfrigérant	refriger	réfriger	88
+2593	refurbishment	remise à neuf	refurbish	remise à neuf	36
+2594	regent	régent	regent	régent	83
+2595	regiment	régiment	regiment	reg	55
+2596	regret	le regret	regret	le regret	80
+2597	reheat	réchauffer	reheat	réchauff	43
+2598	reimbursement	remboursement	reimburs	rembours	88
+2599	reinforcement	renforcement	reinforc	renforc	93
+2600	reinsert	réinsérer	reinsert	réinser	80
+2601	reinstatement	réintégration	reinstat	réintegr	50
+2602	reinterpret	réinterpréter	reinterpret	réinterpret	91
+2603	reinvent	réinventer	reinvent	réinvent	88
+2604	reinvest	réinvestir	reinvest	réinvest	88
+2605	reinvestment	réinvestissement	reinvest	réinvest	88
+2606	reject	rejeter	reject	rejet	91
+2607	relativist	relativiste	relativist	relativ	82
+2608	relaxant	relaxant	relax	relax	100
+2609	relent	céder	relent	ced	22
+2610	relevant	pertinent	relev	pertinent	29
+2611	reliant	dépendant	reliant	dépend	31
+2612	relict	veuve	relict	veuv	20
+2613	relight	rallumer	relight	rallum	31
+2614	relit	relancer	relit	relanc	55
+2615	reluctant	réticent	reluct	réticent	43
+2616	reminiscent	rappelant	reminisc	rappel	29
+2617	remit	remettre	remit	remettr	67
+2618	remnant	reste	remnant	rest	55
+2619	remotest	à distance	remotest	à dist	29
+2620	remount	remonter sur	remount	remonter sur	63
+2621	renouncement	renoncement	renounc	renonc	92
+2622	rent	louer	rent	lou	0
+2623	repaint	repeindre	repaint	repeindr	67
+2624	repast	repas	repast	rep	67
+2625	repayment	remboursement	repay	rembours	31
+2626	repeat	répéter	repeat	répet	73
+2627	repellent	repoussant	repel	repouss	50
+2628	repent	se repentir	repent	se repent	80
+2629	repentant	repentant	repent	repent	100
+2630	replacement	remplacement	replac	remplac	92
+2631	replant	replanter	replant	replant	100
+2632	replenishment	reconstitution	replenish	reconstitu	42
+2633	report	rapport	report	rapport	77
+2634	represent	représenter	repres	représent	67
+2635	reprint	réimpression	reprint	réimpress	25
+2636	repugnant	répugnant	repugn	répugn	83
+2637	request	demander	request	demand	15
+2638	requirement	exigence	requir	exigent	31
+2639	reselect	sélectionner de nouveau	reselect	sélectionner de nouveau	32
+2640	resent	renvoyer	resent	renvoi	50
+2641	resentment	rancœur	resent	rancœur	31
+2642	reset	réinitialiser	reset	réinitialis	25
+2643	resettlement	réinstallation	resettl	réinstall	50
+2644	resident	résident	resid	résident	62
+2645	resilient	résilient	resili	résilient	67
+2646	resist	résister	resist	résist	83
+2647	resistant	résistant	resist	résist	83
+2648	resit	repasser	resit	repass	55
+2649	resolvent	résolvant	resolv	résolv	83
+2650	resonant	résonnant	reson	réson	80
+2651	resort	recours	resort	recour	67
+2652	respect	le respect	respect	le respect	82
+2653	resplendent	resplendissant	resplend	resplend	100
+2654	respondent	intimé	respond	intim	17
+2655	rest	du repos	rest	du repos	50
+2656	restart	redémarrage	restart	redémarrag	47
+2657	restatement	reformulation	restat	reformul	29
+2658	restaurant	le restaurant	restaur	le restaur	82
+2659	restraint	retenue	restraint	retenu	53
+2660	restrict	restreindre	restrict	restreindr	67
+2661	resubmit	resoumettre	resubmit	resoumettr	67
+2662	result	résultat	result	résultat	71
+2663	resultant	résultant	result	résult	83
+2664	resurgent	renaissant	resurg	renaiss	46
+2665	resurrect	ressusciter	resurrect	ressuscit	67
+2666	retardant	retardateur	retard	retard	100
+2667	retest	retester	retest	retest	100
+2668	rethought	repensé	rethought	repens	27
+2669	reticent	réticent	retic	réticent	62
+2670	retirement	retraite	retir	retrait	67
+2671	retort	cornue	retort	cornu	36
+2672	retract	se rétracter	retract	se rétract	71
+2673	retransmit	retransmettre	retransmit	retransmettr	82
+2674	retreat	battre en retraite	retreat	battre en retrait	50
+2675	retrenchment	retranchement	retrench	retranch	88
+2676	retrofit	modernisation	retrofit	modernis	25
+2677	retrospect	rétrospection	retrospect	rétrospect	90
+2678	revanchist	revanchiste	revanchist	revanch	82
+2679	revenant	revenant	reven	reven	100
+2680	reverberant	réverbérant	reverber	réverber	88
+2681	reverent	respectueux	rever	respectu	46
+2682	revert	revenir	revert	reven	73
+2683	revisionist	révisionniste	revisionist	révision	74
+2684	revisit	revisiter	revisit	revisit	100
+2685	revivalist	revivaliste	revivalist	revival	82
+2686	revolt	révolte	revolt	révolt	83
+2687	rheostat	rhéostat	rheostat	rhéostat	88
+2688	richest	le plus riche	richest	le plus rich	42
+2689	ricochet	ricochet	ricochet	ricochet	100
+2690	rift	crevasse	rift	crev	25
+2691	right	droit	right	droit	60
+2692	rightist	droitier	rightist	droiti	57
+2693	rightmost	le plus à droite	rightmost	le plus à droit	25
+2694	ringlet	anglaise	ringlet	anglais	43
+2695	riot	émeute	riot	émeut	22
+2696	ripest	le plus mûr	ripest	le plus mûr	12
+2697	riskiest	le plus risqué	riskiest	le plus risqu	29
+2698	rivet	rivet	rivet	rivet	100
+2699	rivulet	ruisseau	rivulet	ruisseau	40
+2700	roast	rôtir	roast	rôt	50
+2701	robot	robot	robot	robot	100
+2702	robust	robuste	robust	robust	100
+2703	rocket	fusée	rocket	fus	0
+2704	rockiest	le plus rocailleux	rockiest	le plus rocaill	35
+2705	rodent	rongeur	rodent	rongeur	46
+2706	roomiest	le plus spacieux	roomiest	le plus spaci	10
+2707	roost	perchoir	roost	perchoir	31
+2708	root	racine	root	racin	22
+2709	rosiest	plus rose	rosiest	plus ros	40
+2710	rot	pourrir	rot	pourr	25
+2711	roughest	le plus dur	roughest	le plus dur	11
+2712	roundabout	rond point	roundabout	rond point	60
+2713	roundest	le plus rond	roundest	le plus rond	40
+2714	rout	déroute	rout	dérout	80
+2715	rowboat	barque	rowboat	barqu	17
+2716	rowdiest	le plus affligé	rowdiest	le plus afflig	9
+2717	royalist	royaliste	royalist	royal	77
+2718	rudest	le plus grossier	rudest	le plus grossi	20
+2719	ruminant	ruminant	rumin	rumin	100
+2720	runniest	le plus fou	runniest	le plus fou	21
+2721	runt	avorton	runt	avorton	36
+2722	rupert	Rupert	rupert	rupert	100
+2723	ruralist	ruraliste	ruralist	rural	77
+2724	russet	roux	russet	roux	40
+2725	rust	rouiller	rust	rouill	40
+2726	rustiest	le plus rouillé	rustiest	le plus rouill	27
+2727	rut	rut	rut	rut	100
+2728	sabbat	sabbat	sabbat	sabbat	100
+2729	sachet	sachet	sachet	sachet	100
+2730	sacrament	sacrement	sacrament	sacr	62
+2731	sacrosanct	sacro-saint	sacrosanct	sacro-saint	86
+2732	saddest	le plus triste	saddest	le plus tr	24
+2733	sadist	sadique	sadist	sadiqu	67
+2734	safest	le plus sûr	safest	le plus sûr	24
+2735	sagest	affaissé	sagest	affaiss	31
+2736	saint	Saint	saint	saint	100
+2737	saintliest	le plus saint	saintliest	le plus saint	43
+2738	salient	saillant	salient	saill	50
+2739	salt	sel	salt	sel	57
+2740	saltiest	le plus salé	saltiest	le plus sal	32
+2741	samizdat	samizdat	samizdat	samizdat	100
+2742	sandiest	le plus sablonneux	sandiest	le plus sablon	27
+2743	sandpit	bac à sable	sandpit	bac à s	14
+2744	sanest	le plus sain	sanest	le plus sain	33
+2745	sanskrit	sanskrit	sanskrit	sanskr	86
+2746	sapient	sage	sapient	sag	40
+2747	sat	Sam	sat	sam	67
+2748	satirist	écrivain satirique	satirist	écrivain satir	45
+2749	sauciest	saucisse	sauciest	sauc	67
+2750	sauerkraut	Choucroute	sauerkraut	choucrout	42
+2751	savant	savant	savant	sav	67
+2752	sawdust	sciure	sawdust	sciur	33
+2753	saxophonist	saxophoniste	saxophonist	saxophon	84
+2754	scant	maigre	scant	maigr	20
+2755	scantiest	le plus maigre	scantiest	le plus maigr	27
+2756	scapegoat	bouc émissaire	scapegoat	bouc émissair	18
+2757	scarcest	le plus rare	scarcest	le plus rar	32
+2758	scariest	le plus effrayant	scariest	le plus effrai	27
+2759	scarlet	écarlate	scarlet	écarlat	71
+2760	scat	scat	scat	scat	100
+2761	scent	flairer	scent	flair	0
+2762	schist	schiste	schist	schist	100
+2763	scientist	scientifique	scientist	scientif	82
+2764	scoot	scoot	scoot	scoot	100
+2765	scot	Écossais	scot	écoss	44
+2766	scout	scout	scout	scout	100
+2767	scrappiest	le plus décousu	scrappiest	le plus décousu	24
+2768	scratchiest	le plus rugueux	scratchiest	le plus rugu	17
+2769	scrawniest	le plus maigre	scrawniest	le plus maigr	17
+2770	screechiest	le plus criard	screechiest	le plus criard	32
+2771	script	scénario	script	scénario	57
+2772	sculpt	sculpter	sculpt	sculpt	100
+2773	seafront	bord de mer	seafront	bord de m	12
+2774	sealant	scellant	sealant	scel	55
+2775	seaport	port de mer	seaport	port de m	50
+2776	searchlight	projecteur	searchlight	projecteur	19
+2777	seat	siège	seat	sieg	50
+2778	secant	sécante	secant	sec	67
+2779	secessionist	sécessionniste	secessionist	sécession	76
+2780	secondbest	deuxième meilleur	secondbest	deuxième meilleur	15
+2781	secondment	détachement	second	détach	17
+2782	secret	secret	secret	secret	100
+2783	secretariat	secrétariat	secretariat	secrétariat	91
+2784	sect	secte	sect	sect	100
+2785	secularist	laïque	secularist	laïqu	27
+2786	securest	le plus sûr	securest	le plus sûr	21
+2787	sediment	sédiment	sediment	sed	55
+2788	seediest	le plus minable	seediest	le plus min	21
+2789	seemliest	le plus apparent	seemliest	le plus apparent	24
+2790	segment	segment	segment	segment	100
+2791	seismologist	sismologue	seismologist	sismologu	76
+2792	select	sélectionner	select	sélection	67
+2793	selfconfident	confiant	selfconfid	confi	67
+2794	selfdestruct	auto-destruction	selfdestruct	auto-destruct	64
+2795	selfevident	évident	selfevid	évident	40
+2796	selfgovernment	autonomie gouvernementale	selfgovern	autonomie gouvernemental	41
+2797	selfinterest	intérêt personnel	selfinterest	intérêt personnel	41
+2798	selfportrait	autoportrait	selfportrait	autoportr	48
+2799	selfrespect	respect de soi	selfrespect	respect de soi	56
+2800	selfrestraint	autodéfense	selfrestraint	autodéfens	9
+2801	selftaught	autodidacte	selftaught	autodidact	30
+2802	semifinalist	demi-finaliste	semifinalist	demi-final	73
+2803	sensationalist	sensationnaliste	sensationalist	sensationnal	85
+2804	sent	expédié	sent	expédi	20
+2805	sentient	sensible	sentient	sensibl	53
+2806	sentiment	sentiment	sentiment	sent	62
+2807	sentimentalist	sentimental	sentimentalist	sentimental	88
+2808	separatist	séparatiste	separatist	séparat	71
+2809	septet	septuor	septet	septuor	62
+2810	sequent	séquent	sequent	séquent	86
+2811	serenest	le plus serein	serenest	le plus serein	45
+2812	sergeant	sergent	sergeant	sergent	93
+2813	serpent	serpent	serpent	serpent	100
+2814	servant	serviteur	servant	serviteur	62
+2815	set	ensemble	set	ensembl	40
+2816	settlement	règlement	settlement	regl	29
+2817	severest	le plus sévère	severest	le plus séver	38
+2818	sewerrat	rat d'égout	sewerrat	rat d'égout	32
+2819	sexiest	le plus sexy	sexiest	le plus sexy	32
+2820	sexist	sexiste	sexist	sexist	100
+2821	sextant	sextant	sextant	sext	73
+2822	sextet	sextuor	sextet	sextuor	62
+2823	sextuplet	sextuplet	sextuplet	sextuplet	100
+2824	shabbiest	le plus minable	shabbiest	le plus min	20
+2825	shadiest	le plus sombre	shadiest	le plus sombr	19
+2826	shaft	arbre	shaft	arbre	20
+2827	shaggiest	le plus hirsute	shaggiest	le plus hirsut	43
+2828	shakiest	le plus tremblant	shakiest	le plus trembl	18
+2829	shallot	échalote	shallot	échalot	71
+2830	shallowest	le moins profond	shallowest	le moins profond	15
+2831	shapeliest	plus galbé	shapeliest	plus galb	32
+2832	sharpest	le plus tranchant	sharpest	le plus tranch	18
+2833	sheerest	pur	sheerest	pur	18
+2834	sheet	feuille	sheet	feuill	18
+2835	sherbet	sorbet	sherbet	sorbet	77
+2836	shift	décalage	shift	décalag	0
+2837	shiniest	le plus brillant	shiniest	le plus brill	19
+2838	shipment	expédition	shipment	expédit	27
+2839	shipwright	charpentier	shipwright	charpenti	21
+2840	shirt	chemise	shirt	chemis	18
+2841	shoddiest	le plus mal	shoddiest	le plus mal	10
+2842	shoot	tirer	shoot	tir	25
+2843	shopfront	vitrine	shopfront	vitrin	27
+2844	shoplift	vol à l'étalage	shoplift	vol à l'étalag	27
+2845	short	court	short	court	60
+2846	shortcircuit	court-circuit	shortcircuit	court-circuit	80
+2847	shortcrust	pâte brisée	shortcrust	pâte bris	11
+2848	shortcut	raccourci	shortcut	raccourc	38
+2849	shortest	le plus court	shortest	le plus court	38
+2850	shortlist	liste restreinte	shortlist	liste restreint	33
+2851	shot	coup	shot	coup	25
+2852	shout	cri	shout	cri	0
+2853	showiest	le plus spectaculaire	showiest	le plus spectaculair	14
+2854	shrewdest	le plus astucieux	shrewdest	le plus astuci	26
+2855	shrift	shrift	shrift	shrift	100
+2856	shrillest	le plus criard	shrillest	le plus criard	26
+2857	shunt	shunter	shunt	shunt	100
+2858	shut	fermer	shut	ferm	0
+2859	shyest	le plus timide	shyest	le plus timid	21
+2860	sibilant	sifflant	sibil	siffl	60
+2861	sickest	le plus malade	sickest	le plus malad	10
+2862	sickliest	le plus malade	sickliest	le plus malad	18
+2863	sidelight	feu de position	sidelight	feu de posit	29
+2864	sift	tamiser	sift	tamis	22
+2865	sight	vue	sight	vu	0
+2866	signet	sceau	signet	sceau	36
+2867	significant	important	signific	import	14
+2868	signpost	poteau indicateur	signpost	poteau ind	33
+2869	silent	silencieux	silent	silenci	77
+2870	silkiest	plus soyeux	silkiest	plus soi	25
+2871	silliest	stupide	silliest	stupid	29
+2872	silt	limon	silt	limon	22
+2873	simplest	le plus simple	simplest	le plus simpl	48
+2874	sincerest	sincère	sincerest	sincer	80
+2875	sinecurist	sinécuriste	sinecurist	sinécur	71
+2876	sit	s'asseoir	sit	s'asseoir	33
+2877	situationist	situationniste	situationist	situation	86
+2878	sketchiest	le plus sommaire	sketchiest	le plus sommair	16
+2879	skillet	poêlon	skillet	poêlon	15
+2880	skinflint	radin	skinflint	radin	29
+2881	skinniest	le plus maigre	skinniest	le plus maigr	18
+2882	skintight	peau tendue	skintight	peau tendu	11
+2883	skirt	jupe	skirt	jup	0
+2884	skit	sketch	skit	sketch	60
+2885	skylight	lucarne	skylight	lucarn	14
+2886	slackest	le plus mou	slackest	le plus mou	11
+2887	slant	incliner	slant	inclin	36
+2888	slat	lamelle	slat	lamel	44
+2889	sleaziest	le plus sordide	sleaziest	le plus sordid	26
+2890	sleepiest	le plus endormi	sleepiest	le plus endorm	26
+2891	sleet	neige fondue	sleet	neige fondu	25
+2892	sleight	tour de passe-passe	sleight	tour de passe-p	18
+2893	slenderest	le plus mince	slenderest	le plus minc	27
+2894	slept	dormi	slept	dorm	0
+2895	slickest	le plus lisse	slickest	le plus l	24
+2896	slight	léger	slight	leg	44
+2897	slightest	le moindre	slightest	le moindr	22
+2898	slimiest	le plus mince	slimiest	le plus minc	30
+2899	slimmest	le plus mince	slimmest	le plus minc	20
+2900	slingshot	Lance-pierres	slingshot	lance-pierr	20
+2901	slit	fente	slit	fent	25
+2902	sloppiest	le plus bâclé	sloppiest	le plus bâcl	19
+2903	slot	fente	slot	fent	25
+2904	slowest	le plus lent	slowest	le plus lent	42
+2905	slushiest	la plus boueuse	slushiest	la plus bou	30
+2906	slut	salope	slut	salop	44
+2907	smallest	le plus petit	smallest	le plus pet	42
+2908	smart	intelligent	smart	intelligent	12
+2909	smartest	le plus intelligent	smartest	le plus intelligent	30
+2910	smelliest	le plus odorant	smelliest	le plus odor	10
+2911	smelt	éperlan	smelt	éperlan	33
+2912	smokiest	le plus fumé	smokiest	le plus fum	21
+2913	smoothest	le plus lisse	smoothest	le plus l	11
+2914	smudgiest	le plus taché	smudgiest	le plus tach	19
+2915	smut	cochonneries	smut	cochonner	0
+2916	snakepit	fosse aux serpents	snakepit	fosse aux serpent	24
+2917	snapshot	instantané	snapshot	instantan	35
+2918	sneakiest	le plus sournois	sneakiest	le plus sournois	32
+2919	snippet	fragment	snippet	fragment	27
+2920	snort	renifler	snort	renifl	18
+2921	snout	museau	snout	museau	36
+2922	snowdrift	neige	snowdrift	neig	31
+2923	snowiest	le plus enneigé	snowiest	le plus enneig	27
+2924	soapiest	savoureux	soapiest	savour	29
+2925	sobriquet	sobriquet	sobriquet	sobriquet	100
+2926	socialist	socialiste	socialist	social	80
+2927	sociologist	sociologue	sociologist	sociologu	80
+2928	socket	prise	socket	pris	20
+2929	soffit	soffite	soffit	soffit	100
+2930	soft	mou, tendre	soft	mou, tendr	29
+2931	softest	le plus doux	softest	le plus doux	21
+2932	soggiest	plus détrempé	soggiest	plus détremp	20
+2933	solicit	solliciter	solicit	sollicit	93
+2934	soloist	soliste	soloist	solist	92
+2935	solvent	solvant	solvent	solv	73
+2936	somersault	saut périlleux	somersault	saut périll	38
+2937	somewhat	quelque peu	somewhat	quelque peu	11
+2938	somnambulist	somnambule	somnambulist	somnambul	86
+2939	somnolent	somnolent	somnol	somnolent	80
+2940	sonnet	sonnet	sonnet	sonnet	100
+2941	soonest	le plus tôt	soonest	le plus tôt	22
+2942	soot	suie	soot	sui	29
+2943	sophist	sophiste	sophist	sophist	100
+2944	sorbet	sorbet	sorbet	sorbet	100
+2945	sorriest	triste	sorriest	trist	62
+2946	sort	Trier	sort	tri	29
+2947	sot	sot	sot	sot	100
+2948	soubriquet	sobriquet	soubriquet	sobriquet	95
+2949	sought	recherché	sought	recherch	14
+2950	soundest	le plus solide	soundest	le plus solid	29
+2951	sourest	le plus aigre	sourest	le plus aigr	21
+2952	southernmost	le plus au sud	southernmost	le plus au sud	23
+2953	soviet	soviétique	soviet	soviet	100
+2954	spacecraft	vaisseau spatial	spacecraft	vaisseau spatial	31
+2955	spaceflight	vol spatial	spaceflight	vol spatial	36
+2956	spacesuit	scaphandre	spacesuit	scaphandr	33
+2957	sparsest	le plus clairsemé	sparsest	le plus clairsem	42
+2958	spat	prise de bec	spat	prise de bec	12
+2959	specialist	spécialiste	specialist	spécial	71
+2960	speedboat	vedette	speedboat	vedet	43
+2961	speediest	le plus rapide	speediest	le plus rapid	27
+2962	spelt	orthographié	spelt	orthographi	12
+2963	spendthrift	dépensier	spendthrift	dépensi	44
+2964	spent	dépensé	spent	dépens	55
+2965	spigot	robinet	spigot	robinet	31
+2966	spikiest	le plus épineux	spikiest	le plus épin	30
+2967	spilt	déversé	spilt	dévers	18
+2968	spindrift	broche	spindrift	broch	14
+2969	spinet	épinette	spinet	épinet	83
+2970	spirant	spirante	spirant	spir	73
+2971	spirit	esprit	spirit	esprit	83
+2972	spiritualist	spiritualiste	spiritualist	spiritual	86
+2973	spit	cracher	spit	crach	0
+2974	splat	splat	splat	splat	100
+2975	splint	éclisse	splint	écliss	33
+2976	split	diviser	split	divis	20
+2977	spoilsport	trouble-fête	spoilsport	trouble-fêt	29
+2978	spoilt	gâté	spoilt	gât	22
+2979	spongiest	le plus spongieux	spongiest	le plus spongi	52
+2980	sport	sport	sport	sport	100
+2981	spot	tache	spot	tach	25
+2982	spotlight	projecteur	spotlight	projecteur	32
+2983	spotlit	éclairé	spotlit	éclair	31
+2984	spottiest	le plus tacheté	spottiest	le plus tachet	26
+2985	spout	bec	spout	bec	0
+2986	sprat	sprat	sprat	sprat	100
+2987	spreadsheet	tableur	spreadsheet	tableur	11
+2988	sprightliest	le plus vif	sprightliest	le plus v	10
+2989	springiest	le plus élastique	springiest	le plus élast	26
+2990	sprint	sprint	sprint	sprint	100
+2991	sprocket	pignon	sprocket	pignon	29
+2992	sprout	germer	sprout	germ	20
+2993	spurt	gicler	spurt	gicl	0
+2994	squashiest	le plus écrasant	squashiest	le plus écras	26
+2995	squat	s'accroupir	squat	s'accroup	29
+2996	squeakiest	le plus grinçant	squeakiest	le plus grinc	17
+2997	squint	strabisme	squint	strabism	29
+2998	squirt	jet	squirt	jet	22
+2999	stagnant	stagnant	stagnant	stagn	77
+3000	stalwart	vigoureux	stalwart	vigour	14
+3001	standpoint	point de vue	standpoint	point de vu	48
+3002	starchiest	le plus féculent	starchiest	le plus féculent	15
+3003	stardust	poussière d'étoiles	stardust	poussière d'étoil	24
+3004	starkest	le plus brutal	starkest	le plus brutal	27
+3005	starlet	starlette	starlet	starlet	100
+3006	starlight	lumière des étoiles	starlight	lumière des étoil	23
+3007	starlit	étoilé	starlit	étoil	33
+3008	starriest	le plus étoilé	starriest	le plus étoil	27
+3009	start	début	start	début	20
+3010	statecraft	habileté politique	statecraft	habileté polit	17
+3011	stateliest	majestueux	stateliest	majestu	47
+3012	statement	déclaration	statement	déclar	13
+3013	stateoftheart	l'état de l'art	stateoftheart	l'état de l'art	50
+3014	staunchest	le plus fidèle	staunchest	le plus fidel	17
+3015	steadfast	ferme	steadfast	ferm	15
+3016	steadiest	le plus stable	steadiest	le plus st	21
+3017	stealthiest	le plus furtif	stealthiest	le plus furt	17
+3018	steamboat	bateau à vapeur	steamboat	bateau à vapeur	33
+3019	steamiest	le plus torride	steamiest	le plus torrid	26
+3020	steepest	le plus raide	steepest	le plus raid	10
+3021	sternest	le plus sévère	sternest	le plus séver	29
+3022	stet	stet	stet	stet	100
+3023	stickiest	le plus collant	stickiest	le plus coll	19
+3024	stiffest	le plus rigide	stiffest	le plus rigid	19
+3025	stilt	pilotis	stilt	pilot	60
+3026	stimulant	stimulant	stimul	stimul	100
+3027	stint	besogne assignée	stint	besogne assign	32
+3028	stoat	hermine	stoat	hermin	0
+3029	stockist	stockiste	stockist	stockist	100
+3030	stodgiest	le plus maussade	stodgiest	le plus maussad	17
+3031	stoniest	le plus pierreux	stoniest	le plus pierr	29
+3032	stormiest	le plus orageux	stormiest	le plus orag	29
+3033	stout	bière	stout	bier	0
+3034	stoutest	le plus gros	stoutest	le plus gros	30
+3035	straight	droit	straight	droit	15
+3036	straightest	le plus droit	straightest	le plus droit	17
+3037	strait	détroit	strait	détroit	62
+3038	straitjacket	camisole de force	straitjacket	camisole de forc	21
+3039	strangest	le plus étrange	strangest	le plus étrang	52
+3040	strategist	stratège	strategist	strateg	82
+3041	streakiest	le plus strié	streakiest	le plus stri	36
+3042	street	rue	street	ru	25
+3043	strict	strict	strict	strict	100
+3044	strictest	le plus strict	strictest	le plus strict	52
+3045	strident	strident	strident	strident	100
+3046	stringent	strict	stringent	strict	67
+3047	stripiest	le plus rayé	stripiest	le plus rai	30
+3048	strongest	le plus fort	strongest	le plus fort	19
+3049	structuralist	structuraliste	structuralist	structural	87
+3050	strumpet	catin	strumpet	catin	15
+3051	strut	se pavaner	strut	se pavan	15
+3052	student	étudiant	student	étudi	50
+3053	stuffiest	le plus étouffant	stuffiest	le plus étouff	43
+3054	stunt	cascade	stunt	cascad	18
+3055	stupidest	le plus stupide	stupidest	le plus stupid	52
+3056	sturdiest	le plus robuste	sturdiest	le plus robust	17
+3057	stylist	styliste	stylist	stylist	100
+3058	subcontinent	sous-continent	subcontin	sous-continent	70
+3059	subcontract	sous-traitance	subcontract	sous-trait	57
+3060	subject	matière	subject	mati	18
+3061	subjectivist	subjectiviste	subjectivist	subjectiv	86
+3062	sublimest	sublime	sublimest	sublim	80
+3063	submit	nous faire parvenir	submit	nous faire parven	17
+3064	subplot	sous-tracé	subplot	sous-trac	38
+3065	subscript	indice	subscript	indic	14
+3066	subsequent	subséquent	subsequ	subséquent	71
+3067	subservient	servile	subservi	servil	71
+3068	subset	sous-ensemble	subset	sous-ensembl	44
+3069	subsist	subsister	subsist	subsist	100
+3070	subtext	sous-texte	subtext	sous-text	75
+3071	subtlest	subtile	subtlest	subtil	71
+3072	subtract	soustraire	subtract	soustrair	59
+3073	subunit	sous-unité	subunit	sous-un	57
+3074	subvert	subvertir	subvert	subvert	100
+3075	succinct	succinct	succinct	succinct	100
+3076	succulent	succulent	succul	succulent	80
+3077	suet	graisse de rognon	suet	graisse de rognon	19
+3078	sufficient	suffisant	suffici	suffis	77
+3079	suffragist	suffragiste	suffragist	suffrag	82
+3080	suggest	suggérer	suggest	sugger	77
+3081	suit	combinaison	suit	combinaison	13
+3082	sulkiest	le plus boudeur	sulkiest	le plus boudeur	26
+3083	summit	sommet	summit	sommet	67
+3084	sunburnt	hâlé	sunburnt	hâl	0
+3085	sunburst	soleil	sunburst	soleil	14
+3086	sunlight	lumière du soleil	sunlight	lumière du soleil	24
+3087	sunlit	ensoleillé	sunlit	ensoleil	43
+3088	sunniest	le plus ensoleillé	sunniest	le plus ensoleil	25
+3089	sunset	le coucher du soleil	sunset	le coucher du soleil	15
+3090	sunspot	tache solaire	sunspot	tache solair	21
+3091	superabundant	surabondant	superabund	surabond	78
+3092	superheat	surchauffer	superheat	surchauff	56
+3093	superintendent	surveillant général	superintend	surveillant général	47
+3094	supermarket	supermarché	supermarket	supermarch	76
+3095	supernatant	surnageant	supernat	surnag	71
+3096	superscript	exposant	superscript	expos	12
+3097	supplant	supplanter	supplant	supplant	100
+3098	supplement	supplément	supplement	suppl	67
+3099	suppliant	suppliant	suppliant	suppli	80
+3100	supplicant	suppliant	supplic	suppli	92
+3101	support	Support	support	support	100
+3102	supremacist	suprémaciste	supremacist	suprémac	74
+3103	surest	le plus sûr	surest	le plus sûr	24
+3104	surfactant	surfactant	surfact	surfact	100
+3105	surfeit	excès	surfeit	exces	17
+3106	surliest	le plus surprenant	surliest	le plus surpren	35
+3107	surmount	surmonter	surmount	surmont	93
+3108	surrealist	surréaliste	surrealist	surréal	71
+3109	suspect	suspect	suspect	suspect	100
+3110	swampiest	le plus marécageux	swampiest	le plus marécag	17
+3111	swarthiest	le plus basané	swarthiest	le plus basan	26
+3112	swat	écraser	swat	écras	22
+3113	sweat	transpiration	sweat	transpir	15
+3114	sweatiest	le plus en sueur	sweatiest	le plus en sueur	24
+3115	sweatshirt	sweat-shirt	sweatshirt	sweat-shirt	95
+3116	sweet	doux	sweet	doux	0
+3117	sweetest	le plus doux	sweetest	le plus doux	10
+3118	sweetheart	chérie	sweetheart	cher	43
+3119	sweetmeat	friandise	sweetmeat	friandis	12
+3120	swept	balayé	swept	balai	0
+3121	swift	rapide	swift	rapid	20
+3122	swiftest	le plus rapide	swiftest	le plus rapid	19
+3123	swiftlet	rapide	swiftlet	rapid	15
+3124	swimsuit	maillot de bain	swimsuit	maillot de bain	17
+3125	swot	bosser	swot	boss	25
+3126	sycophant	flagorneur	sycoph	flagorneur	12
+3127	symbiont	symbiote	symbiont	symbiot	93
+3128	symbolist	symboliste	symbolist	symbol	80
+3129	syndicalist	syndicaliste	syndicalist	syndical	84
+3130	tablet	tablette	tablet	tablet	100
+3131	tacit	tacite	tacit	tacit	100
+3132	tackiest	le plus collant	tackiest	le plus coll	10
+3133	tact	tact	tact	tact	100
+3134	taint	entacher	taint	entach	36
+3135	talent	Talent	talent	talent	100
+3136	tallest	le plus grand	tallest	le plus grand	30
+3137	tamest	le plus docile	tamest	le plus docil	21
+3138	tangent	tangente	tangent	tangent	100
+3139	tantamount	équivalent	tantamount	équivalent	30
+3140	target	cibler	target	cibl	0
+3141	tarot	tarot	tarot	tarot	100
+3142	tarriest	le plus tendre	tarriest	le plus tendr	19
+3143	tart	Tarte	tart	tart	100
+3144	tastiest	le plus savoureux	tastiest	le plus savour	9
+3145	tat	tat	tat	tat	100
+3146	taught	a enseigné	taught	a enseign	27
+3147	taunt	raillerie	taunt	railler	17
+3148	taut	tendu	taut	tendu	44
+3149	tautest	le plus tendu	tautest	le plus tendu	30
+3150	taxidermist	taxidermiste	taxidermist	taxiderm	84
+3151	taxonomist	taxonomiste	taxonomist	taxonom	82
+3152	teapot	théière	teapot	théi	20
+3153	teat	trayon	teat	trayon	40
+3154	technocrat	technocrate	technocrat	technocrat	100
+3155	technologist	technologue	technologist	technologu	82
+3156	teeniest	le plus jeune	teeniest	le plus jeun	30
+3157	telephonist	téléphoniste	telephonist	téléphon	63
+3158	teletext	télétexte	teletext	télétext	75
+3159	temperament	tempérament	tempera	temper	92
+3160	tempest	tempête	tempest	tempêt	77
+3161	tempt	tenter	tempt	tent	67
+3162	tenant	locataire	tenant	locatair	29
+3163	tenderest	le plus tendre	tenderest	le plus tendr	45
+3164	tenement	immeuble	tenement	immeubl	27
+3165	tenet	principe	tenet	princip	17
+3166	tensest	le plus tendu	tensest	le plus tendu	30
+3167	tent	tente	tent	tent	100
+3168	terrorist	terroriste	terrorist	terror	80
+3169	test	test	test	test	100
+3170	testament	testament	testament	test	62
+3171	testiest	le plus irritable	testiest	le plus irrit	10
+3172	text	texte	text	text	100
+3173	that	cette	that	cet	29
+3174	theft	vol	theft	vol	0
+3175	theist	théiste	theist	théist	83
+3176	theorist	théoricien	theorist	théoricien	56
+3177	therapist	thérapeute	therapist	thérapeut	67
+3178	thermostat	thermostat	thermostat	thermostat	100
+3179	thickest	le plus épais	thickest	le plus ep	22
+3180	thicket	fourré	thicket	fourr	0
+3181	thickset	trapu	thickset	trapu	15
+3182	thinnest	le plus fin	thinnest	le plus fin	21
+3183	thirst	la soif	thirst	la soif	15
+3184	thirstiest	le plus assoiffé	thirstiest	le plus assoiff	8
+3185	thorniest	le plus épineux	thorniest	le plus épin	10
+3186	thought	pensée	thought	pens	0
+3187	threat	menace	threat	menac	36
+3188	thrift	épargne	thrift	épargn	17
+3189	thriftiest	le plus économe	thriftiest	le plus économ	17
+3190	throat	gorge	throat	gorg	20
+3191	throatiest	gorge	throatiest	gorg	14
+3192	throughout	tout au long de	throughout	tout au long d	33
+3193	throughput	débit	throughput	deb	0
+3194	thrust	plonger	thrust	plong	0
+3195	thumbprint	empreinte	thumbprint	empreint	67
+3196	thunderbolt	coup de tonnerre	thunderbolt	coup de tonnerr	31
+3197	thwart	contrecarrer	thwart	contrecarr	38
+3198	ticket	billet	ticket	billet	50
+3199	tidbit	friandise	tidbit	friandis	43
+3200	tidiest	tidiest	tidiest	tidiest	100
+3201	tight	serré	tight	serr	0
+3202	tightest	le plus serré	tightest	le plus serr	20
+3203	tilt	inclinaison	tilt	inclinaison	27
+3204	timeout	temps libre	timeout	temps libr	24
+3205	tingliest	le plus piquant	tingliest	le plus piqu	10
+3206	tiniest	le plus petit	tiniest	le plus pet	11
+3207	tinniest	le plus petit	tinniest	le plus pet	11
+3208	tinpot	fantoche	tinpot	fantoch	31
+3209	tint	teinte	tint	teint	89
+3210	tit	mésange	tit	mésang	0
+3211	titbit	titbit	titbit	titb	80
+3212	titfortat	titfortat	titfortat	titfortat	100
+3213	toast	griller	toast	grill	0
+3214	tobacconist	marchand de tabac	tobacconist	marchand de tabac	29
+3215	toilet	toilette	toilet	toilet	100
+3216	tolerant	tolérant	toler	toler	100
+3217	tomcat	matou	tomcat	matou	36
+3218	tonight	ce soir	tonight	ce soir	29
+3219	toot	siffler	toot	siffl	0
+3220	toothiest	à pleines dents	toothiest	à pleines dent	35
+3221	topcoat	manteau	topcoat	manteau	29
+3222	topmost	le plus haut	topmost	le plus haut	11
+3223	topologist	topologue	topologist	topologu	78
+3224	torchlight	torche	torchlight	torch	67
+3225	torchlit	aux flambeaux	torchlit	aux flambeau	10
+3226	torment	tourmenter	torment	tourment	93
+3227	torrent	torrent	torrent	torrent	100
+3228	tot	tot	tot	tot	100
+3229	touchiest	le plus sensible	touchiest	le plus sensibl	17
+3230	toughest	le plus dur	toughest	le plus dur	21
+3231	tourist	touristique	tourist	tourist	100
+3232	tournament	tournoi	tournament	tournoi	59
+3233	tourniquet	tourniquet	tourniquet	tourniquet	100
+3234	tout	tout	tout	tout	100
+3235	tracksuit	survêtement	tracksuit	survêt	40
+3236	tract	tract	tract	tract	100
+3237	traditionalist	traditionaliste	traditionalist	traditional	88
+3238	trait	trait	trait	trait	100
+3239	trampolinist	trampoliniste	trampolinist	trampolin	86
+3240	transact	traiter	transact	trait	62
+3241	transcendent	transcendant	transcend	transcend	100
+3242	transcript	transcription	transcript	transcript	100
+3243	transept	transept	transept	transept	100
+3244	transhipment	transbordement	tranship	transbord	59
+3245	transient	transitoire	transient	transitoir	74
+3246	transit	transit	transit	trans	83
+3247	translucent	translucide	transluc	translucid	89
+3248	transmit	transmettre	transmit	transmettr	78
+3249	transparent	transparent	transpar	transparent	84
+3250	transplant	transplantation	transplant	transplant	100
+3251	transport	transport	transport	transport	100
+3252	trawlnet	chalutier	trawlnet	chaluti	13
+3253	treat	traiter	treat	trait	80
+3254	treatment	traitement	treatment	trait	57
+3255	trenchant	tranchant	trenchant	tranch	67
+3256	trendiest	le plus branché	trendiest	le plus branch	17
+3257	trickiest	le plus délicat	trickiest	le plus délicat	25
+3258	trident	trident	trident	trident	100
+3259	trinket	bibelot	trinket	bibelot	14
+3260	triplet	triolet	triplet	triolet	86
+3261	triumphalist	triomphaliste	triumphalist	triomphal	76
+3262	triumphant	triomphant	triumphant	triomph	71
+3263	trombonist	tromboniste	trombonist	trombon	82
+3264	trot	trot	trot	trot	100
+3265	trout	truite	trout	truit	80
+3266	truant	faire l'école buissonnière	truant	faire l'école buissonni	21
+3267	truculent	agressif	trucul	agress	17
+3268	truest	le plus vrai	truest	le plus vr	12
+3269	trumpet	trompette	trumpet	trompet	86
+3270	trust	confiance	trust	confianc	0
+3271	tshirt	T-shirt	tshirt	t-shirt	92
+3272	tuft	touffe	tuft	touff	67
+3273	tumescent	tumescent	tumesc	tumescent	80
+3274	tumult	tumulte	tumult	tumult	100
+3275	turbot	turbot	turbot	turbot	100
+3276	turbulent	turbulent	turbul	turbulent	80
+3277	turnabout	retournement	turnabout	retourn	50
+3278	turncoat	transfuge	turncoat	transfug	25
+3279	turnout	s'avérer	turnout	s'aver	15
+3280	turret	tourelle	turret	tourel	67
+3281	tweet	tweeter	tweet	tweet	100
+3282	twilight	crépuscule	twilight	crépuscul	12
+3283	twilit	crépusculaire	twilit	crépusculair	11
+3284	twist	tourner	twist	tourn	20
+3285	twit	crétin	twit	crétin	40
+3286	typecast	transtypage	typecast	transtypag	44
+3287	typescript	manuscrit	typescript	manuscr	35
+3288	typeset	composer	typeset	compos	31
+3289	typist	dactylographe	typist	dactylograph	33
+3290	tyrant	tyran	tyrant	tyran	91
+3291	ugliest	le plus laid	ugliest	le plus laid	32
+3292	ultraviolet	ultra-violet	ultraviolet	ultra-violet	96
+3293	umlaut	tréma	umlaut	trem	20
+3294	unapt	inadapté	unapt	inadapt	67
+3295	unbeknownst	à l'insu	unbeknownst	à l'insu	21
+3296	unbent	déplié	unbent	dépli	0
+3297	unbolt	déboulonner	unbolt	déboulon	43
+3298	unburnt	imbrûlé	unburnt	imbrûl	31
+3299	uncaught	non attrapé	uncaught	non attrap	33
+3300	uncut	non coupé	uncut	non coup	15
+3301	underachievement	sous-performance	underachiev	sous-perform	26
+3302	undercoat	couche	undercoat	couch	29
+3303	undercroft	undercroft	undercroft	undercroft	100
+3304	undercurrent	courant	undercurr	cour	46
+3305	undercut	saper	undercut	sap	0
+3306	underdevelopment	sous-développement	underdevelop	sous-développ	56
+3307	underemployment	sous-emploi	underemploy	sous-emploi	55
+3308	underfoot	sous les pieds	underfoot	sous les pied	18
+3309	undergarment	sous-vêtement	undergar	sous-vêt	12
+3310	underinvestment	sous-investissement	underinvest	sous-invest	64
+3311	undernourishment	sous-alimentation	undernourish	sous-aliment	25
+3312	underskirt	jupon	underskirt	jupon	27
+3313	understatement	euphémisme	understat	euphem	27
+3314	underweight	poids insuffisant	underweight	poids insuffis	16
+3315	underwent	subit	underw	sub	22
+3316	uneasiest	le plus mal à l'aise	uneasiest	le plus mal à l'ais	21
+3317	unemployment	chômage	unemploy	chômag	14
+3318	unfelt	non ressenti	unfelt	non ressent	35
+3319	unfit	inapte	unfit	inapt	40
+3320	unfriendliest	antipathique	unfriendliest	antipath	29
+3321	unhappiest	le plus malheureux	unhappiest	le plus malheur	24
+3322	unhealthiest	le plus malsain	unhealthiest	le plus malsain	30
+3323	unhurt	indemne	unhurt	indemn	17
+3324	unicyclist	monocycliste	unicyclist	monocycl	56
+3325	unilateralist	unilatéraliste	unilateralist	unilatéral	78
+3326	unimportant	sans importance	unimport	sans import	74
+3327	unintelligent	inintelligent	unintellig	inintelligent	78
+3328	unionist	unioniste	unionist	union	77
+3329	unit	unité	unit	unit	100
+3330	universalist	universaliste	universalist	universal	86
+3331	unjust	injuste	unjust	injust	83
+3332	unkempt	négligé	unkempt	néglig	15
+3333	unkept	non tenu	unkept	non tenu	14
+3334	unkindest	méchant	unkindest	mech	15
+3335	unlikeliest	le plus improbable	unlikeliest	le plus improb	16
+3336	unlit	non éclairé	unlit	non éclair	40
+3337	unluckiest	le plus malchanceux	unluckiest	le plus malchanc	23
+3338	unmet	non satisfait	unmet	non satisf	27
+3339	unobservant	non-observateur	unobserv	non-observ	78
+3340	unpleasant	désagréable	unpleas	désagré	14
+3341	unquiet	inquiet	unquiet	inquiet	86
+3342	unrepentant	impénitent	unrepent	impénitent	44
+3343	unrest	troubles	unrest	troubl	17
+3344	unseat	désarçonner	unseat	désarçon	14
+3345	unsent	non envoyé	unsent	non envoi	40
+3346	unset	désarmé	unset	désarm	18
+3347	unsought	non recherché	unsought	non recherch	30
+3348	unspent	non dépensé	unspent	non dépens	47
+3349	unspoilt	intacte	unspoilt	intact	29
+3350	untaught	ignorant	untaught	ignor	15
+3351	untidiest	désordonné	untidiest	désordon	12
+3352	untwist	défaire	untwist	défair	15
+3353	unwisest	imprudent	unwisest	imprudent	35
+3354	upbeat	optimiste	upbeat	optim	36
+3355	upcast	upcast	upcast	upcast	100
+3356	upfront	à l'avant	upfront	à l'av	0
+3357	uplift	soulèvement	uplift	soulev	33
+3358	upmarket	haut de gamme	upmarket	haut de gamm	20
+3359	upmost	au plus haut	upmost	au plus haut	44
+3360	uppercut	uppercut	uppercut	uppercut	100
+3361	uppermost	le plus élevé	uppermost	le plus élev	19
+3362	upright	droit	upright	droit	50
+3363	uproot	déraciner	uproot	déracin	15
+3364	upset	bouleversé	upset	boulevers	29
+3365	upshot	résultat	upshot	résultat	29
+3366	upstart	parvenu	upstart	parvenu	43
+3367	upthrust	poussée	upthrust	pouss	46
+3368	urgent	urgent	urgent	urgent	100
+3369	urologist	urologue	urologist	urologu	75
+3370	utmost	maximum	utmost	maximum	31
+3371	uttermost	extrême	uttermost	extrêm	40
+3372	vacant	vacant	vacant	vac	67
+3373	vagrant	vagabond	vagrant	vagabond	67
+3374	vaguest	plus vague	vaguest	plus vagu	50
+3375	vainest	le plus vain	vainest	le plus vain	42
+3376	valet	valet	valet	valet	100
+3377	valiant	vaillant	valiant	vaill	50
+3378	variant	une variante	variant	une vari	53
+3379	vast	vaste	vast	vast	100
+3380	vat	T.V.A	vat	t.v.a	50
+3381	vault	sauter	vault	saut	67
+3382	vehement	véhément	vehement	veh	55
+3383	veldt	veld	veldt	veld	89
+3384	velvet	velours	velvet	velour	50
+3385	vent	évent	vent	évent	89
+3386	ventriloquist	ventriloque	ventriloquist	ventriloqu	87
+3387	verdant	verdoyant	verdant	verdoi	62
+3388	verdict	verdict	verdict	verdict	100
+3389	vest	gilet	vest	gilet	44
+3390	vestment	vêtement	vestment	vêt	36
+3391	vet	vétérinaire	vet	vétérinair	31
+3392	viaduct	viaduc	viaduct	viaduc	92
+3393	vibrant	vibrant	vibrant	vibr	73
+3394	vicepresident	vice-président	vicepresid	vice-président	75
+3395	viewpoint	point de vue	viewpoint	point de vu	50
+3396	vigilant	vigilant	vigil	vigil	100
+3397	vilest	le plus vil	vilest	le plus vil	35
+3398	violent	violent	violent	violent	100
+3399	violet	violet	violet	violet	100
+3400	violinist	violoniste	violinist	violon	67
+3401	violist	altiste	violist	altist	62
+3402	virulent	virulent	virul	virulent	77
+3403	viscount	vicomte	viscount	vicomt	71
+3404	visit	visite	visit	visit	100
+3405	visitant	visitant	visit	visit	100
+3406	vivisectionist	vivisectionniste	vivisectionist	vivisection	88
+3407	vocalist	chanteur	vocalist	chanteur	38
+3408	volt	volt	volt	volt	100
+3409	vomit	vomir	vomit	vom	75
+3410	vulcanologist	vulcanologue	vulcanologist	vulcanologu	83
+3411	waft	bouffée	waft	bouff	22
+3412	wainscot	lambris	wainscot	lambr	15
+3413	waist	taille	waist	taill	40
+3414	waistcoat	gilet	waistcoat	gilet	29
+3415	wait	attendre	wait	attendr	36
+3416	walkabout	promenade	walkabout	promenad	12
+3417	walkout	Se promener	walkout	se promen	12
+3418	wallchart	tableau mural	wallchart	tableau mural	18
+3419	wallet	porte monnaie	wallet	porte monnai	11
+3420	walnut	noyer	walnut	noi	22
+3421	wanderlust	esprit d'aventure	wanderlust	esprit d'aventur	23
+3422	want	vouloir	want	vouloir	0
+3423	wariest	le plus prudent	wariest	le plus prudent	27
+3424	warmest	le plus chaud	warmest	le plus chaud	10
+3425	warpaint	peinture de guerre	warpaint	peinture de guerr	32
+3426	warrant	garantir	warrant	garant	77
+3427	wart	verrue	wart	verru	22
+3428	washout	lavage	washout	lavag	17
+3429	wast	wast	wast	wast	100
+3430	waterfront	bord de l'eau	waterfront	bord de l'eau	9
+3431	waterresistant	résistant à l'eau	waterresist	résistant à l'eau	36
+3432	watertight	étanche	watertight	étanch	25
+3433	watt	watt	watt	watt	100
+3434	wavefront	front d'onde	wavefront	front d'ond	50
+3435	wavelet	ondelette	wavelet	ondelet	57
+3436	waviest	le plus ondulé	waviest	le plus ondul	20
+3437	wayout	sortie	wayout	sort	40
+3438	weakest	le plus faible	weakest	le plus faibl	20
+3439	wealthiest	le plus riche	wealthiest	le plus rich	27
+3440	weariest	le plus fatigué	weariest	le plus fatigu	27
+3441	webfoot	webfoot	webfoot	webfoot	100
+3442	weediest	le plus désagréable	weediest	le plus désagré	26
+3443	weight	poids	weight	poid	20
+3444	weightiest	le plus lourd	weightiest	le plus lourd	17
+3445	weirdest	le plus bizarre	weirdest	le plus bizarr	27
+3446	wellbuilt	bien construit	wellbuilt	bien construit	35
+3447	wellkept	bien entretenu	wellkept	bien entretenu	27
+3448	wellmeant	bien intentionné	wellmeant	bien intention	26
+3449	wellthoughtout	bien pensé	wellthoughtout	bien pens	9
+3450	welt	papule	welt	papul	22
+3451	welterweight	poids welter	welterweight	poids welt	36
+3452	went	allé	went	allé	0
+3453	wept	pleuré	wept	pleur	22
+3454	west	Ouest	west	ouest	67
+3455	westernmost	le plus à l'ouest	westernmost	le plus à l'ouest	21
+3456	wet	mouiller	wet	mouill	0
+3457	wetsuit	combinaison	wetsuit	combinaison	11
+3458	wettest	le plus humide	wettest	le plus humid	20
+3459	what	Quel	what	quel	0
+3460	whatnot	étagère	whatnot	étager	15
+3461	wheat	du blé	wheat	du bl	0
+3462	wheelwright	charron	wheelwright	charron	22
+3463	whet	aiguiser	whet	aiguis	0
+3464	whilst	alors que	whilst	alors qu	29
+3465	whippet	whippet	whippet	whippet	100
+3466	whist	whist	whist	whist	100
+3467	whitebait	appât blanc	whitebait	appât blanc	30
+3468	whitest	le plus blanc	whitest	le plus blanc	20
+3469	whodunit	roman policier	whodunit	roman polici	30
+3470	whodunnit	polar	whodunnit	polar	14
+3471	wholewheat	blé complet	wholewheat	blé complet	38
+3472	wickedest	le plus méchant	wickedest	le plus mech	10
+3473	wicket	guichet	wicket	guichet	62
+3474	widest	le plus large	widest	le plus larg	22
+3475	widget	widget	widget	widget	100
+3476	wildcat	chat sauvage	wildcat	chat sauvag	33
+3477	wildebeest	gnou	wildebeest	gnou	0
+3478	wildest	le plus sauvage	wildest	le plus sauvag	29
+3479	wiliest	le plus malin	wiliest	le plus malin	20
+3480	wilt	se flétrir	wilt	se fletr	33
+3481	windiest	le plus venteux	windiest	le plus vent	20
+3482	windswept	venteux	windswept	venteux	25
+3483	wintriest	hivernal	wintriest	hivernal	24
+3484	wiriest	le plus câblé	wiriest	le plus câbl	21
+3485	wisest	le plus sage	wisest	le plus sag	24
+3486	wit	esprit	wit	esprit	44
+3487	witchcraft	la sorcellerie	witchcraft	la sorceller	18
+3488	witchhunt	chasse aux sorcières	witchhunt	chasse aux sorci	24
+3489	without	sans pour autant	without	sans pour aut	30
+3490	wittiest	le plus spirituel	wittiest	le plus spirituel	24
+3491	wobbliest	wobbliest	wobbliest	wobbliest	100
+3492	wombat	wombat	wombat	wombat	100
+3493	wonderment	émerveillement	wonder	émerveil	29
+3494	wont	habitude	wont	habitud	18
+3495	woodcut	gravure sur bois	woodcut	gravure sur bois	9
+3496	wordiest	le plus verbeux	wordiest	le plus verb	10
+3497	workout	entraînement	workout	entraîn	14
+3498	worksheet	feuille de travail	worksheet	feuille de travail	7
+3499	worst	pire	worst	pir	25
+3500	worthiest	le plus digne	worthiest	le plus dign	10
+3501	wrest	ravir	wrest	rav	25
+3502	wright	Wright	wright	wright	100
+3503	wrist	poignet	wrist	poignet	33
+3504	writ	ordonnance	writ	ordon	22
+3505	wrongest	le plus faux	wrongest	le plus fal	21
+3506	wrought	forgé	wrought	forg	36
+3507	xylophonist	xylophoniste	xylophonist	xylophon	84
+3508	yacht	yacht	yacht	yacht	100
+3509	yeast	Levure	yeast	levur	20
+3510	yet	encore	yet	encor	25
+3511	youngest	le plus jeune	youngest	le plus jeun	20
+3512	yummiest	délicieux	yummiest	délici	14
+3513	zaniest	zaniest	zaniest	zaniest	100
+3514	zealot	fanatique	zealot	fanat	36
+3515	zest	zeste	zest	zest	100
+3516	zionist	Sioniste	zionist	sionist	86
+3517	zoologist	zoologiste	zoologist	zoolog	80
