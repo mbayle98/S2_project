@@ -1,0 +1,179 @@
+	ENG_tion	FR_tion	eng_stem	fr_stem	ratio_similarity
+6	abnegation	renoncement	abneg	renonc	18
+21	accretion	accumulation	accret	accumul	46
+29	actuation	actionnement	actuat	action	50
+31	addiction	dépendance	addict	dépend	33
+33	adjudication	arbitrage	adjud	arbitrag	15
+41	adulteration	falsification	adulter	falsif	31
+48	afforestation	boisement	afforest	bois	33
+77	apportion	répartir	apport	répart	50
+86	ascription	attribution	ascript	attribu	43
+90	assertion	affirmation	assert	affirm	33
+91	assignation	attribution	assign	attribu	31
+94	assumption	supposition	assumpt	supposit	53
+101	attrition	usure	attrit	usur	20
+102	auction	enchères	auction	encher	15
+107	autoignition	auto-allumage	autoignit	auto-allumag	48
+120	byelection	élection partielle	byelect	élection partiel	35
+123	calibration	étalonnage	calibr	étalonnag	27
+125	cancellation	annulation	cancel	annul	55
+130	caption	légende	caption	légend	15
+133	carnation	œillet	carnat	œillet	17
+139	caution	mise en garde	caution	mise en gard	11
+149	circumlocution	Périphrase	circumlocut	périphras	20
+152	circumvention	contournement	circumvent	contourn	33
+161	cogitation	réflexion	cogit	réflexion	14
+179	commotion	agitation	commot	agit	20
+185	competition	concurrence	competit	concurrent	44
+187	completion	achèvement	complet	achev	33
+190	compunction	scrupule	compunct	scrupul	40
+191	computation	calcul	comput	calcul	33
+192	computerisation	informatisation	computeris	informatis	50
+193	concatenation	enchaînement	concaten	enchaîn	53
+198	concoction	mélange	concoct	mélang	15
+201	condition	état	condit	état	20
+208	conflagration	incendie	conflagr	incend	29
+214	congratulation	félicitation	congratul	félicit	25
+220	conscription	service militaire	conscript	service militair	16
+222	conservation	préservation	conserv	préserv	57
+233	consummation	accomplissement	consumm	accompl	43
+247	contravention	violation	contravent	violat	25
+250	conurbation	agglomération	conurb	agglomer	29
+261	corporation	société	corpor	societ	17
+268	cremation	incinération	cremat	inciner	31
+271	crossexamination	examen croisé	crossexamin	examen crois	43
+272	crossfertilisation	fertilisation croisée	crossfertilis	fertilisation crois	50
+273	crosssection	la Coupe transversale	crosssect	la coupe transversal	28
+277	customisation	personnalisation	customis	personnalis	42
+281	deceleration	ralentissement	deceler	ralent	31
+283	deception	tromperie	decept	tromper	15
+289	declination	déclinaison	declin	déclinaison	59
+298	dedication	dévouement	dedic	dévou	20
+305	deflection	déviation	deflect	déviat	31
+310	degeneration	dégénérescence	degener	dégénérescent	40
+314	dejection	abattement	deject	abatt	18
+317	deletion	effacement	delet	effac	20
+319	delineation	délimitation	delin	délimit	50
+326	demonstration	manifestation	demonstr	manifest	38
+328	demotion	rétrogradation	demot	rétrograd	14
+338	depiction	représentation	depict	représent	40
+339	depletion	épuisement	deplet	épuis	18
+342	depopulation	dépeuplement	depopul	dépeupl	57
+345	deprecation	désapprobation	deprec	désapprob	40
+350	deregulation	déréglementation	deregul	déréglement	33
+351	dereliction	abandon	derelict	abandon	13
+356	desecration	profanation	desecr	profan	17
+368	destitution	misère	destitut	miser	15
+376	detoxification	désintoxication	detoxif	désintox	53
+388	digitisation	numérisation	digitis	numéris	29
+389	dilapidation	délabrement	dilapid	délabr	46
+398	disambiguation	homonymie	disambigu	homonym	12
+402	disconnection	coupure	disconnect	coupur	25
+404	discontinuation	arrêt	discontinu	arrêt	13
+407	disembarkation	débarquement	disembark	débarqu	50
+408	disinclination	répugnance	disinclin	répugn	13
+420	disquisition	discours	disquisit	discour	50
+421	disruption	perturbation	disrupt	perturb	29
+425	dissertation	thèse	dissert	thes	18
+442	duplication	reproduction	duplic	reproduct	40
+450	eigenfunction	fonction propre	eigenfunct	fonction propr	33
+453	elation	allégresse	elat	allégress	15
+470	emendation	correction	emend	correct	17
+476	encryption	chiffrement	encrypt	chiffr	31
+494	eviction	expulsion	evict	expuls	18
+503	excavation	les fouilles	excav	les fouill	13
+512	exertion	effort	exert	effort	55
+515	exhaustion	épuisement	exhaust	épuis	33
+516	exhibition	exposition	exhibit	exposit	57
+517	exhilaration	euphorie	exhilar	euphor	46
+521	expectation	attente	expect	attent	33
+535	extenuation	atténuation	extenu	atténu	50
+543	extrication	désincarcération	extric	désincarcer	24
+577	fruition	réalisation	fruition	réalis	29
+592	graduation	l'obtention du diplôme	graduat	l'obtention du diplôm	14
+598	habituation	accoutumance	habitu	accoutum	43
+615	ignition	allumage	ignit	allumag	17
+616	illumination	éclairage	illumin	éclairag	13
+626	impersonation	imitation	imperson	imit	33
+628	implementation	la mise en oeuvre	implement	la mise en oeuvr	32
+644	inception	création	incept	création	29
+652	indentation	échancrure	indent	échancrur	13
+664	inebriation	enivrement	inebri	enivr	36
+666	infatuation	engouement	infatu	engou	36
+732	invalidation	annulation	invalid	annul	33
+734	investigation	enquête	investig	enquêt	29
+771	location	lieu	locat	lieu	22
+776	magnetisation	aimantation	magnetis	aimant	57
+777	magnification	grossissement	magnif	gross	18
+781	malfunction	mauvais fonctionnement	malfunct	mauvais fonction	50
+792	mediation	la médiation	mediat	la médi	46
+793	medication	des médicaments	medic	des médic	57
+807	misappropriation	détournement	misappropri	détourn	11
+808	miscalculation	erreur de calcul	miscalcul	erreur de calcul	48
+809	miscegenation	métissage	miscegen	métissag	50
+810	misconception	idée fausse	misconcept	idée fauss	20
+813	misidentification	identification erronée	misidentif	identification erron	47
+815	misinterpretation	interprétation erronée	misinterpret	interprétation erron	50
+816	mispronunciation	prononciation incorrecte	mispronunci	prononciation incorrect	41
+817	misquotation	citation inexacte	misquot	citation inexact	26
+818	misrepresentation	fausse déclaration	misrepresent	fausse déclar	24
+819	mistranslation	erreur de traduction	mistransl	erreur de traduct	23
+820	mitigation	atténuation	mitig	atténu	18
+827	molestation	attentat à la pudeur	molest	attentat à la pudeur	15
+831	motion	mouvement	motion	mouv	40
+855	nullification	annulation	nullif	annul	55
+870	oration	discours solennel	orat	discours solennel	19
+875	origination	création	origin	création	29
+882	overallocation	surutilisation	overalloc	surutilis	22
+886	overreaction	réaction exagérée	overreact	réaction exager	33
+887	oversimplification	simplification excessive	oversimplif	simplification excess	44
+897	partition	cloison	partit	cloison	15
+901	pedestrianisation	piétonisation	pedestrianis	piétonis	50
+909	permeation	pénétration	permeat	pénetr	46
+911	peroration	péroraison	peror	péroraison	53
+940	precondition	condition préalable	precondit	condition préal	50
+953	prescription	ordonnance	prescript	ordon	14
+959	prevarication	tergiversation	prevar	tergivers	40
+972	prohibition	interdiction	prohibit	interdict	35
+1015	reafforestation	reboisement	reafforest	rebois	50
+1016	realisation	la concrétisation	realis	la concrétis	33
+1017	reallocation	réaffectation	realloc	réaffect	40
+1018	reassertion	réaffirmation	reassert	réaffirm	38
+1021	recantation	abjuration	recant	abjur	18
+1024	reception	accueil	recept	accueil	15
+1031	recollection	souvenir	recollect	souven	13
+1038	reconsideration	réexamen	reconsider	réexamen	33
+1041	recreation	des loisirs	recreat	des loisir	12
+1049	rededication	nouvelle consécration	reded	nouvelle consecr	10
+1051	redemption	rachat	redempt	rachat	31
+1057	reflection	réflexion	reflect	réflexion	50
+1058	reforestation	reboisement	reforest	rebois	57
+1081	reinvestigation	nouvelle enquête	reinvestig	nouvelle enquêt	32
+1091	rendition	interprétation	rendit	interpret	40
+1111	reregistration	réinscription	reregistr	réinscript	42
+1114	resignation	démission	resign	démiss	17
+1120	resumption	reprise	resumpt	repris	46
+1122	resuscitation	réanimation	resuscit	réanim	29
+1123	retaliation	représailles	retali	représaill	50
+1128	retribution	châtiment	retribut	chât	17
+1146	sanitation	assainissement	sanit	assain	55
+1185	starvation	famine	starvat	famin	17
+1186	station	gare	station	gar	20
+1198	subjugation	assujettissement	subjug	assujet	46
+1201	subscription	abonnement	subscript	abon	15
+1203	substantiation	justification	substanti	justif	53
+1212	summation	addition	summat	addit	36
+1213	superannuation	retraite	superannu	retrait	38
+1228	taxation	Imposition	taxat	imposit	17
+1231	termination	Résiliation	termin	résili	33
+1246	translation	Traduction	translat	traduct	53
+1255	trepidation	inquiétude	trepid	inquiétud	27
+1260	trivialisation	banalisation	trivialis	banalis	50
+1262	tuition	frais de scolarité	tuition	frais de scolar	18
+1270	unionisation	syndicalisation	unionis	syndicalis	47
+1277	vacillation	hésitation	vacil	hésit	20
+1278	valediction	adieu	valedict	adieu	46
+1292	vilification	diffamation	vilif	diffam	36
+1293	vindication	justification	vindic	justif	17
+1302	westernisation	occidentalisation	westernis	occidentalis	38
+1303	workstation	poste de travail	workstat	poste de travail	33
